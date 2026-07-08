@@ -40,6 +40,7 @@ GENERATOR     = Path("~/Desktop/クロード/AI評判設計システム/blog_gen
 
 GMAPS_KEY     = os.environ.get("GOOGLE_MAPS_API_KEY", "")
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+OPENAI_KEY    = os.environ.get("OPENAI_API_KEY", "")
 
 CLEAN_GENRES = {
     "インプラント", "矯正", "ホワイトニング", "親知らず",
@@ -324,9 +325,8 @@ def analyze_reputation_and_expertise(
     sources_count = sources.get("sources_count", 1)
 
     try:
-        import anthropic
-        client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
-
+        # 費用ルール（無料優先の原則）：大量・反復のAI分析は gpt-4o-mini に投げる。
+        # 1院あたり$0.0005前後、1,500院でも100円未満。品質が要る記事生成等はClaudeのまま。
         prompt = f"""あなたは日本一の歯科コンサルタントです。
 「{name}」について、以下の{sources_count}つの公開情報ソースを統合分析してください。
 
@@ -403,12 +403,23 @@ JSONのみ出力（コメント・説明文不要）:
   "not_referral_to": ["夜9時以降しか通えない人", "駅近を最優先する人" など、他院を勧める患者タイプ（2〜3個・20文字以内）]
 }}"""
 
-        resp = client.messages.create(
-            model="claude-haiku-4-5",
-            max_tokens=1500,
-            messages=[{"role": "user", "content": prompt}]
+        body = json.dumps({
+            "model": "gpt-4o-mini",
+            "max_tokens": 1500,
+            "response_format": {"type": "json_object"},
+            "messages": [{"role": "user", "content": prompt}],
+        }).encode("utf-8")
+        req = urllib.request.Request(
+            "https://api.openai.com/v1/chat/completions",
+            data=body,
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {OPENAI_KEY}",
+            },
         )
-        raw_r = resp.content[0].text.strip()
+        with urllib.request.urlopen(req, timeout=60) as res:
+            data = json.loads(res.read().decode("utf-8"))
+        raw_r = data["choices"][0]["message"]["content"].strip()
         m = re.search(r'\{.*\}', raw_r, re.DOTALL)
         if m:
             result = json.loads(m.group())
