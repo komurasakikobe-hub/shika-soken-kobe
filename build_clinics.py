@@ -18,11 +18,11 @@ with open(SLUG_MAP_PATH, encoding="utf-8") as _f:
     SLUG_MAP = json.load(_f)  # place_id -> 一意なslug（generate_slug_map.py参照。同姓同名の医院URL衝突対策）
 
 def nowrap_pipe(escaped_title):
-    """タイトルと副題がきれいに分かれるよう、｜の直前、または？／！の直後(大阪の前)で改行する"""
+    """タイトルと副題がきれいに分かれるよう、｜の直前、または？／！の直後(神戸の前)で改行する"""
     import re as _re
     if "｜" in escaped_title:
         return escaped_title.replace("｜", "<br>｜", 1)
-    return _re.sub(r"([？！])大阪", r"\1<br>大阪", escaped_title, count=1)
+    return _re.sub(r"([？！])神戸", r"\1<br>神戸", escaped_title, count=1)
 
 def esc(s):
     return html.escape(str(s), quote=True)
@@ -131,7 +131,7 @@ def build_jsonld(c, slug):
         "url": f"https://shikasoken.com/articles/clinics/{slug}.html",
     }
     if c.get("address"):
-        data["address"] = {"@type": "PostalAddress", "streetAddress": c["address"], "addressRegion": "大阪府"}
+        data["address"] = {"@type": "PostalAddress", "streetAddress": c["address"], "addressRegion": "兵庫県"}
     if c.get("latitude") and c.get("longitude"):
         data["geo"] = {"@type": "GeoCoordinates", "latitude": c["latitude"], "longitude": c["longitude"]}
     if c.get("phone"):
@@ -214,7 +214,7 @@ def build_page(c, slug=""):
 
     pbars = bar_rows(c.get("patient_scores"), PATIENT_AXES, 100)
     sec_patient = (f'<div class="rr-bars">{pbars}</div>'
-                   f'<p class="rr-note">口コミ本文の文脈をAIが7軸で定量化（100点満点・大阪歯科総研 独自指標）。</p>') if pbars else ""
+                   f'<p class="rr-note">口コミ本文の文脈をAIが7軸で定量化（100点満点・神戸歯科総研 独自指標）。</p>') if pbars else ""
 
     dbars = bar_rows(c.get("doctor_stars"), DOCTOR_AXES, 5)
     sec_doctor = (f'<div class="rr-bars">{dbars}</div>{SRC_NOTE}') if dbars else ""
@@ -332,11 +332,11 @@ TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>{name}｜大阪歯科総研 AI Research Report</title>
+<title>{name}｜神戸歯科総研 AI Research Report</title>
 <meta name="description" content="{desc}">
 <meta property="og:type" content="article">
-<meta property="og:site_name" content="大阪歯科総研">
-<meta property="og:title" content="{name}｜大阪歯科総研 AI Research Report">
+<meta property="og:site_name" content="神戸歯科総研">
+<meta property="og:title" content="{name}｜神戸歯科総研 AI Research Report">
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="{ogurl}">
 <meta name="twitter:card" content="summary">
@@ -448,7 +448,7 @@ main{max-width:860px;margin:0 auto;padding:clamp(36px,5vw,64px) clamp(20px,4vw,4
 </head>
 <body>
 <header class="rr-nav">
-  <a class="logo" href="../../index.html">大阪歯科総研<small>OSAKA DENTAL RESEARCH</small></a>
+  <a class="logo" href="../../index.html">神戸歯科総研<small>KOBE DENTAL RESEARCH</small></a>
   <a class="back" href="../features/index.html">← 特徴から探す</a>
 </header>
 <nav class="rf-crumb" aria-label="パンくずリスト">
@@ -473,7 +473,7 @@ main{max-width:860px;margin:0 auto;padding:clamp(36px,5vw,64px) clamp(20px,4vw,4
 {body}
   <section class="rr-cta">
     <p class="rr-cta-t">あなたに合う歯科医院は？</p>
-    <p class="rr-cta-s">症状・エリア・ご希望から、AIが大阪市内 約2,050院を無料でマッチングします。</p>
+    <p class="rr-cta-s">症状・エリア・ご希望から、AIが神戸市内 約2,050院を無料でマッチングします。</p>
     <div class="rr-cta-btns">
       <a class="rr-cta-btn" href="../shindan/index.html">AI診断を受ける（無料）</a>
       <a class="rr-cta-btn ghost" href="../features/index.html">特徴から探す</a>
@@ -481,7 +481,7 @@ main{max-width:860px;margin:0 auto;padding:clamp(36px,5vw,64px) clamp(20px,4vw,4
   </section>
 </main>
 <footer class="rr-foot">
-  <div class="in">当レポートのAI分析（サマリー・各スコア等）は、Googleマップの口コミや各医院公式サイト等の公開情報をもとに大阪歯科総研が独自に生成した参考情報です。根拠となる情報がない項目は表示していません。診断・治療方針の決定を目的としたものではなく、受診の判断は必ず歯科医師にご相談ください。<br>© 大阪歯科総研 OSAKA DENTAL RESEARCH</div>
+  <div class="in">当レポートのAI分析（サマリー・各スコア等）は、Googleマップの口コミや各医院公式サイト等の公開情報をもとに神戸歯科総研が独自に生成した参考情報です。根拠となる情報がない項目は表示していません。診断・治療方針の決定を目的としたものではなく、受診の判断は必ず歯科医師にご相談ください。<br>© 神戸歯科総研 KOBE DENTAL RESEARCH</div>
 </footer>
 </body>
 </html>'''
@@ -496,7 +496,7 @@ def main():
         name = c.get("name")
         if not name:
             continue
-        if c.get("q_excluded"):   # 大阪市外・サロン・重複は生成しない（品質フラグ）
+        if c.get("q_excluded"):   # 神戸市外・サロン・重複は生成しない（品質フラグ）
             continue
         slug = SLUG_MAP.get(c.get("place_id"), slugify(name))  # 衝突対策済みの一意なslugを使用
         valid.add(slug)

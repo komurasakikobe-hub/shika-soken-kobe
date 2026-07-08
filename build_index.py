@@ -36,7 +36,7 @@ CAT_COLOR = {
     "歯科ガイド":        "#2E9E86",
 }
 
-# ===== 大阪歯科総研 ビジュアルシステム（SVG / 5色＋オレンジ・実写禁止）=====
+# ===== 神戸歯科総研 ビジュアルシステム（SVG / 5色＋オレンジ・実写禁止）=====
 # パレット: Deep Green #1F5D4C / Off White #F5F7F5 / Light Gray #E4E9E6
 #          Silver #A9B3AE / Dental Blue #5C82A6 / Accent Orange #E5794C
 _TOOTH = ('M112 62 C112 42 150 38 160 55 C170 38 208 42 208 62 '
@@ -103,14 +103,14 @@ def cat_of(title):
     return "歯科ガイド"
 
 def clean_title(t):
-    """タイトルから冗長な『大阪』を除去（サイト名=大阪歯科総研で自明のため）"""
-    t = re.sub(r"^【大阪市?】\s*", "", t)
-    t = t.replace("｜大阪市版", "").replace("｜大阪版", "")
-    t = t.replace("大阪で使える", "使える")
-    t = t.replace("大阪で知る", "")
-    t = t.replace("大阪のインプラント", "インプラント")
-    t = t.replace("大阪ホワイトニング", "ホワイトニング")
-    t = t.replace("大阪の", "").replace("大阪で", "").replace("大阪", "")
+    """タイトルから冗長な『神戸』を除去（サイト名=神戸歯科総研で自明のため）"""
+    t = re.sub(r"^【神戸市?】\s*", "", t)
+    t = t.replace("｜神戸市版", "").replace("｜神戸版", "")
+    t = t.replace("神戸で使える", "使える")
+    t = t.replace("神戸で知る", "")
+    t = t.replace("神戸のインプラント", "インプラント")
+    t = t.replace("神戸ホワイトニング", "ホワイトニング")
+    t = t.replace("神戸の", "").replace("神戸で", "").replace("神戸", "")
     t = re.sub(r"｜\s*(市版|版)", "", t)
     t = re.sub(r"\s+", " ", t).strip()
     return t
@@ -219,7 +219,7 @@ def build():
                 out.append(a); seen.add(a["f"])
         return out
 
-    trend = pick(["大阪のインプラント費用", "歯周病治療の専門性", "大阪ホワイトニング",
+    trend = pick(["神戸のインプラント費用", "歯周病治療の専門性", "神戸ホワイトニング",
                   "子どもの虫歯予防", "歯のクリーニング"])
     select_all = by.get("歯科医院の選び方", []) + by.get("歯科ガイド", [])
     area_soon = ["梅田・難波エリアの歯科医院の探し方",
@@ -490,7 +490,7 @@ ART_SVG = '''<svg class="hero-art" viewBox="0 0 440 320" fill="none" xmlns="http
 
 NAV = '''<header class="topnav">
   <div class="wrap-x topnav-in">
-    <a class="brand" href="../index.html"><b>大阪歯科総研</b><span>OSAKA DENTAL RESEARCH</span></a>
+    <a class="brand" href="../index.html"><b>神戸歯科総研</b><span>KOBE DENTAL RESEARCH</span></a>
     <div class="nav-r">
       <a class="nav-cta" href="shindan/index.html"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 8v4l2.5 2"/></svg>AI歯科診断</a>
       <nav class="nav-links">
@@ -505,9 +505,9 @@ NAV = '''<header class="topnav">
 
 FOOTER = '''<footer class="site-footer">
   <div class="wrap-x">
-    <p class="foot-name">大阪歯科総研</p>
+    <p class="foot-name">神戸歯科総研</p>
     <p class="foot-note">当サイトの情報は歯医者選びの一般的な参考情報であり、診断や治療方針の決定を目的としたものではありません。症状やお悩みについては、必ず歯科医師にご相談ください。</p>
-    <p class="foot-copy">© 大阪歯科総研 OSAKA DENTAL RESEARCH</p>
+    <p class="foot-copy">© 神戸歯科総研 KOBE DENTAL RESEARCH</p>
   </div>
 </footer>
 <script>
@@ -537,12 +537,12 @@ TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>歯科コラム | 大阪歯科総研</title>
-<meta name="description" content="症状や治療の基礎知識、歯科医院の選び方まで。大阪で後悔しない歯科選びに役立つ情報をお届けします。">
+<title>歯科コラム | 神戸歯科総研</title>
+<meta name="description" content="症状や治療の基礎知識、歯科医院の選び方まで。神戸で後悔しない歯科選びに役立つ情報をお届けします。">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="大阪歯科総研">
-<meta property="og:title" content="歯科コラム | 大阪歯科総研">
-<meta property="og:description" content="症状や治療の基礎知識、歯科医院の選び方まで。大阪で後悔しない歯科選びに役立つ情報をお届けします。">
+<meta property="og:site_name" content="神戸歯科総研">
+<meta property="og:title" content="歯科コラム | 神戸歯科総研">
+<meta property="og:description" content="症状や治療の基礎知識、歯科医院の選び方まで。神戸で後悔しない歯科選びに役立つ情報をお届けします。">
 <meta property="og:url" content="https://shikasoken.com/articles/index.html">
 <meta name="twitter:card" content="summary">
 ''' + STYLE + '''
@@ -556,7 +556,7 @@ TEMPLATE = '''<!DOCTYPE html>
     <div class="hero-in">
       <p class="eyebrow">CLINICAL GUIDE</p>
       <h1>歯科医院選びに、確かな知識を。</h1>
-      <p class="lead">正しい知識は、納得できる歯科医院選びにつながります。<br>大阪歯科総研では、症状・治療・医院選びに役立つ情報を、<br>口コミや公開情報、AI分析の視点から整理しています。</p>
+      <p class="lead">正しい知識は、納得できる歯科医院選びにつながります。<br>神戸歯科総研では、症状・治療・医院選びに役立つ情報を、<br>口コミや公開情報、AI分析の視点から整理しています。</p>
       <div class="search">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
         <input id="search" type="text" placeholder="症状・治療名で探す" aria-label="記事を検索">
@@ -600,8 +600,8 @@ CAT_TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>{title} | 大阪歯科総研 コラム</title>
-<meta name="description" content="{title}に関する大阪の歯科コラム記事一覧。">
+<title>{title} | 神戸歯科総研 コラム</title>
+<meta name="description" content="{title}に関する神戸の歯科コラム記事一覧。">
 ''' + STYLE + '''
 <script src="../assets/site-config.js"></script>
 <script src="../assets/odr-track.js"></script>

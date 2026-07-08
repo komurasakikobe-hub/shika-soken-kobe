@@ -2,7 +2,7 @@
 """
 DB品質フラグ付与（削除しない・復元可能）。
 各院に以下を付与し、q_excluded=True を全ページで除外する。
-  q_in_osaka : 住所に「大阪市」を含む（＝大阪市内）
+  q_in_osaka : 住所に「神戸市」を含む（＝神戸市内）
   q_is_salon : 非歯科のホワイトニング等サロン（名称判定）
   q_is_dup   : 同名＋同住所の重複（口コミ最多の1件を残し他をTrue）
   q_excluded : 上記のいずれかで表示対象外
@@ -53,7 +53,7 @@ def main():
 
     n_osaka = n_salon = n_dup = n_excl = 0
     for pid, c in items:
-        in_osaka = "大阪市" in (c.get("address") or "")
+        in_osaka = "神戸市" in (c.get("address") or "")
         salon = is_salon(c["name"])
         dup = pid in dup_pids
         excl = (not in_osaka) or salon or dup
@@ -70,7 +70,7 @@ def main():
     active = total - n_excl
     print("=" * 52)
     print(f"  総院数        : {total}")
-    print(f"  大阪市外      : {n_osaka} 院（除外）")
+    print(f"  神戸市外      : {n_osaka} 院（除外）")
     print(f"  非歯科サロン  : {n_salon} 院（除外）")
     print(f"  重複          : {n_dup} 院（除外・統合）")
     print(f"  --------------")

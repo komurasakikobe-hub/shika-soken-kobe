@@ -2,7 +2,7 @@
 """
 医院向け「反響レポート」生成スクリプト（営業用・無料配布の入口商品）
 
-大阪歯科総研に掲載中の医院1院分の、
+神戸歯科総研に掲載中の医院1院分の、
   ① 掲載状況（当サイトでどう見えているか）
   ② 公開情報の充実度診断（何が不足して表示機会を逃しているか）
   ③ サイト内での反響数値（GA4から。データが貯まるまでは手入力可）
@@ -92,7 +92,7 @@ def build_report(c, views=None, clicks=None, maps=None):
     <div class="stat"><span class="v">{clicks if clicks is not None else "—"}</span><span class="k">公式サイトへの移動</span></div>
     <div class="stat"><span class="v">{maps if maps is not None else "—"}</span><span class="k">地図の表示</span></div>
   </div>
-  <p class="stats-note">※ {month_label}の大阪歯科総研内での数値（Googleアナリティクス計測）。</p>"""
+  <p class="stats-note">※ {month_label}の神戸歯科総研内での数値（Googleアナリティクス計測）。</p>"""
     else:
         stats_html = """
   <p class="stats-note">※ 反響数値（表示回数・クリック数）は計測を開始したところです。翌月のレポートから掲載します。</p>"""

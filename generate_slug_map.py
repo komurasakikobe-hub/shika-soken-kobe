@@ -29,9 +29,9 @@ def base_slug(name: str) -> str:
 
 
 def extract_ward(address: str) -> str:
-    # 「大阪市」「大阪府」等の地名プレフィックスを除いてから区名を抽出する
+    # 「神戸市」「兵庫県」等の地名プレフィックスを除いてから区名を抽出する
     # （そうしないと「天王寺区」が「阪市天王寺区」のように誤って切り出される）
-    addr = re.sub(r'^[〒0-9\-]*\s*(大阪府)?(大阪市)?', '', address or "")
+    addr = re.sub(r'^[〒0-9\-]*\s*(兵庫県)?(神戸市)?', '', address or "")
     m = re.search(r'([^\s０-９0-9〒\-−]{1,5}区)', addr)
     return m.group(1) if m else ""
 

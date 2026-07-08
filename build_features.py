@@ -23,16 +23,16 @@ with open(SLUG_MAP_PATH, encoding="utf-8") as _f:
 
 def esc(s): return html.escape(str(s), quote=True)
 def nowrap_pipe(escaped_title):
-    """タイトルと副題がきれいに分かれるよう、｜の直前、または？／！の直後(大阪の前)で改行する"""
+    """タイトルと副題がきれいに分かれるよう、｜の直前、または？／！の直後(神戸の前)で改行する"""
     import re as _re
     if "｜" in escaped_title:
         return escaped_title.replace("｜", "<br>｜", 1)
-    return _re.sub(r"([？！])大阪", r"\1<br>大阪", escaped_title, count=1)
+    return _re.sub(r"([？！])神戸", r"\1<br>神戸", escaped_title, count=1)
 def slugify(name): return re.sub(r'[\\/:*?"<>|　\s・。、]', '_', name)[:60]
 
 def ward(addr):
-    m = re.search(r'大阪市\s*([^\s0-9０-９]{1,4}区)', addr or "")
-    if m: return "大阪市" + m.group(1)
+    m = re.search(r'神戸市\s*([^\s0-9０-９]{1,4}区)', addr or "")
+    if m: return "神戸市" + m.group(1)
     m = re.search(r'([^\s0-9０-９]{1,4}区)', addr or "")
     return m.group(1) if m else ""
 
@@ -72,20 +72,20 @@ CATEGORIES = [
 
 # カテゴリ → 関連記事（記事本文の内容と合致するもののみ。無理に全カテゴリを埋めない）
 CATEGORY_ARTICLES = {
-    "ct":       [("2026-07-04_CTとマイクロスコープがある大阪の歯科を選ぶ理由.html", "CTとマイクロスコープがある大阪の歯科を選ぶ理由"),
-                 ("2026-07-04_根管治療が上手い大阪の歯科医院を見分ける方法.html", "根管治療が上手い大阪の歯科医院を見分ける方法")],
-    "micro":    [("2026-07-04_CTとマイクロスコープがある大阪の歯科を選ぶ理由.html", "CTとマイクロスコープがある大阪の歯科を選ぶ理由"),
-                 ("2026-07-04_根管治療が上手い大阪の歯科医院を見分ける方法.html", "根管治療が上手い大阪の歯科医院を見分ける方法")],
-    "implant":  [("2026-07-04_大阪のインプラント費用とリスクを正しく理解する.html", "大阪のインプラント費用とリスクを正しく理解する")],
-    "ortho":    [("2026-07-04_大阪で矯正は何歳から？選び方を徹底解説.html", "大阪で矯正は何歳から？選び方を徹底解説"),
-                 ("2026-07-04_歯並びが気になったら｜大阪で矯正相談すべきタイミング.html", "歯並びが気になったら｜大阪で矯正相談すべきタイミング")],
-    "kids":     [("2026-07-04_子どもの虫歯予防｜大阪の小児歯科はいつから？.html", "子どもの虫歯予防｜大阪の小児歯科はいつから？"),
-                 ("2026-07-04_大阪で矯正は何歳から？選び方を徹底解説.html", "大阪で矯正は何歳から？選び方を徹底解説")],
-    "prevent":  [("2026-07-04_予防歯科クリーニングの頻度とメリット｜大阪市版.html", "予防歯科クリーニングの頻度とメリット｜大阪市版"),
-                 ("2026-07-04_子どもの虫歯予防｜大阪の小児歯科はいつから？.html", "子どもの虫歯予防｜大阪の小児歯科はいつから？")],
-    "esthetic": [("2026-07-04_大阪ホワイトニング｜種類・費用・選び方を徹底比較.html", "大阪ホワイトニング｜種類・費用・選び方を徹底比較"),
-                 ("2026-07-04_銀歯を白くしたい！大阪でセラミック治療の費用と方法.html", "銀歯を白くしたい！大阪でセラミック治療の費用と方法")],
-    "kids_fit": [("2026-07-04_子どもの虫歯予防｜大阪の小児歯科はいつから？.html", "子どもの虫歯予防｜大阪の小児歯科はいつから？")],
+    "ct":       [("2026-07-04_CTとマイクロスコープがある神戸の歯科を選ぶ理由.html", "CTとマイクロスコープがある神戸の歯科を選ぶ理由"),
+                 ("2026-07-04_根管治療が上手い神戸の歯科医院を見分ける方法.html", "根管治療が上手い神戸の歯科医院を見分ける方法")],
+    "micro":    [("2026-07-04_CTとマイクロスコープがある神戸の歯科を選ぶ理由.html", "CTとマイクロスコープがある神戸の歯科を選ぶ理由"),
+                 ("2026-07-04_根管治療が上手い神戸の歯科医院を見分ける方法.html", "根管治療が上手い神戸の歯科医院を見分ける方法")],
+    "implant":  [("2026-07-04_神戸のインプラント費用とリスクを正しく理解する.html", "神戸のインプラント費用とリスクを正しく理解する")],
+    "ortho":    [("2026-07-04_神戸で矯正は何歳から？選び方を徹底解説.html", "神戸で矯正は何歳から？選び方を徹底解説"),
+                 ("2026-07-04_歯並びが気になったら｜神戸で矯正相談すべきタイミング.html", "歯並びが気になったら｜神戸で矯正相談すべきタイミング")],
+    "kids":     [("2026-07-04_子どもの虫歯予防｜神戸の小児歯科はいつから？.html", "子どもの虫歯予防｜神戸の小児歯科はいつから？"),
+                 ("2026-07-04_神戸で矯正は何歳から？選び方を徹底解説.html", "神戸で矯正は何歳から？選び方を徹底解説")],
+    "prevent":  [("2026-07-04_予防歯科クリーニングの頻度とメリット｜神戸市版.html", "予防歯科クリーニングの頻度とメリット｜神戸市版"),
+                 ("2026-07-04_子どもの虫歯予防｜神戸の小児歯科はいつから？.html", "子どもの虫歯予防｜神戸の小児歯科はいつから？")],
+    "esthetic": [("2026-07-04_神戸ホワイトニング｜種類・費用・選び方を徹底比較.html", "神戸ホワイトニング｜種類・費用・選び方を徹底比較"),
+                 ("2026-07-04_銀歯を白くしたい！神戸でセラミック治療の費用と方法.html", "銀歯を白くしたい！神戸でセラミック治療の費用と方法")],
+    "kids_fit": [("2026-07-04_子どもの虫歯予防｜神戸の小児歯科はいつから？.html", "子どもの虫歯予防｜神戸の小児歯科はいつから？")],
 }
 
 
@@ -97,7 +97,7 @@ def select(V, pred):
 
 def main():
     db = json.load(open(DB, encoding="utf-8"))
-    # 品質フラグで除外（大阪市外・サロン・重複）
+    # 品質フラグで除外（神戸市外・サロン・重複）
     V = [c for c in (db.values() if isinstance(db, dict) else db)
          if c.get("name") and not c.get("q_excluded")]
 
@@ -127,7 +127,7 @@ def main():
         if not xs:
             continue
         cards = "".join(card(c) for c in xs[:CAP])
-        more = f'<p class="frow-more">ほか、確認できた医院は大阪市内に全{len(xs)}院あります（口コミ件数の多い順に表示）。</p>' if len(xs) > CAP else f'<p class="frow-more">大阪市内で確認できた {len(xs)}院（口コミ件数の多い順）。</p>'
+        more = f'<p class="frow-more">ほか、確認できた医院は神戸市内に全{len(xs)}院あります（口コミ件数の多い順に表示）。</p>' if len(xs) > CAP else f'<p class="frow-more">神戸市内で確認できた {len(xs)}院（口コミ件数の多い順）。</p>'
         related = CATEGORY_ARTICLES.get(cid, [])
         related_html = ""
         if related:
@@ -156,8 +156,8 @@ TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>特徴から探す｜大阪歯科総研</title>
-<meta name="description" content="大阪市内の歯科医院を、CT設備・対応治療・子ども連れへの配慮など、確認できた特徴ごとに一覧。公開情報およびAI分析にもとづく参考情報です。">
+<title>特徴から探す｜神戸歯科総研</title>
+<meta name="description" content="神戸市内の歯科医院を、CT設備・対応治療・子ども連れへの配慮など、確認できた特徴ごとに一覧。公開情報およびAI分析にもとづく参考情報です。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&family=Roboto+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../assets/odr-ds.css">
@@ -208,7 +208,7 @@ h1,h2,h3,p,li{line-break:strict;text-wrap:pretty;}
 <header class="odr-brandbar">
   <a class="odr-sig" href="../../index.html">
     <span class="odr-sig-mark">ODR</span>
-    <span class="odr-sig-name">大阪歯科総研<small>Osaka Dental Research Institute</small></span>
+    <span class="odr-sig-name">神戸歯科総研<small>Osaka Dental Research Institute</small></span>
   </a>
   <nav>
     <a href="../shindan/index.html">AI診断</a>
@@ -225,8 +225,8 @@ h1,h2,h3,p,li{line-break:strict;text-wrap:pretty;}
 <section class="f-hero">
   <div class="f-hero-in">
     <span class="odr-kicker pill">FEATURE REPORT</span>
-    <h1>AI分析から見た、大阪の歯科医院の特徴</h1>
-    <p>確認できた設備・対応治療・配慮などの特徴ごとに、大阪市内の歯科医院を整理しました。順位付けはしていません。</p>
+    <h1>AI分析から見た、神戸の歯科医院の特徴</h1>
+    <p>確認できた設備・対応治療・配慮などの特徴ごとに、神戸市内の歯科医院を整理しました。順位付けはしていません。</p>
     <div class="odr-meta on-dark">
       <dl><dt>分析対象</dt><dd>{n_clinics}院</dd></dl>
       <dl><dt>分析した口コミ</dt><dd>{n_reviews}件</dd></dl>
@@ -245,14 +245,14 @@ h1,h2,h3,p,li{line-break:strict;text-wrap:pretty;}
     料金・診療内容・設備の詳細は各医院へ直接ご確認ください。受診の判断は必ず歯科医師にご相談ください。
   </div>
   <div class="odr-meta" style="margin:28px 0 0;border:1px solid var(--line);border-radius:var(--r-card);padding:20px 24px;background:#fff;">
-    <dl><dt>Research Note</dt><dd style="color:var(--terra);">大阪歯科総研 編集部</dd></dl>
+    <dl><dt>Research Note</dt><dd style="color:var(--terra);">神戸歯科総研 編集部</dd></dl>
     <dl><dt>分析手法</dt><dd>AI分析 ＋ 人による監修</dd></dl>
     <dl><dt>Confidence</dt><dd>確認できた事実のみ掲載</dd></dl>
     <dl><dt>Updated</dt><dd>{updated}</dd></dl>
   </div>
   <div class="odr-cta" style="margin-top:26px;">
     <p class="t">条件から、あなたに合う歯科医院へ</p>
-    <p class="s">ご希望の条件をもとに、大阪市内 約2,050院からAIが無料でご案内します。</p>
+    <p class="s">ご希望の条件をもとに、神戸市内 約2,050院からAIが無料でご案内します。</p>
     <div class="odr-cta-btns">
       <a class="odr-btn" href="../shindan/index.html">AI診断を受ける（無料）</a>
       <a class="odr-btn ghost" href="../../index.html">トップへ戻る</a>

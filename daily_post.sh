@@ -1,6 +1,6 @@
 #!/bin/zsh
-# 大阪歯科総研 — 毎日投稿バッチ
-# launchd（com.osakashikasoken.dailypost.plist）から毎日呼び出される。
+# 神戸歯科総研 — 毎日投稿バッチ
+# launchd（com.kobeshikasoken.dailypost.plist）から毎日呼び出される。
 # 1. AI評判設計システムのkeyword_survey.pyでキーワード調査
 # 2. blog_generator.pyでその日のテーマ1本を記事化
 # 3. article_dates.jsonに今日の日付を登録
@@ -12,7 +12,7 @@
 set -e
 set -o pipefail
 
-SITE_DIR="/Users/komurasakishoutaira/Desktop/クロード/大阪歯科総研"
+SITE_DIR="/Users/komurasakishoutaira/Desktop/クロード/神戸歯科総研"
 SURVEY_DIR="/Users/komurasakishoutaira/Desktop/クロード/AI評判設計システム"
 LOG_DIR="$SITE_DIR/_daily_post_logs"
 TODAY=$(date +%Y-%m-%d)
@@ -21,7 +21,7 @@ LOG_FILE="$LOG_DIR/$TODAY.log"
 mkdir -p "$LOG_DIR"
 exec > "$LOG_FILE" 2>&1
 
-echo "===== 大阪歯科総研 毎日投稿バッチ開始 $(date) ====="
+echo "===== 神戸歯科総研 毎日投稿バッチ開始 $(date) ====="
 
 # APIキーを読み込む
 set -a
