@@ -17,7 +17,7 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 
-from osaka_stations import STATIONS
+from kobe_stations import STATIONS
 
 ROOT = Path(__file__).resolve().parent
 DB_PATH = ROOT / "clinic_db.json"

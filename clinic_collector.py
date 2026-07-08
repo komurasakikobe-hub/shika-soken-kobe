@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
-大阪歯科総研 医院DB構築スクリプト（clinic_collector.py）v4.0
+神戸歯科総研 医院DB構築スクリプト（clinic_collector.py）v4.0
 
 【設計思想 v4.0 — 2026-07-04】
-  「検索に引っかかった医院を集める」→「大阪市に存在する全医院を母集団にする」
+  「検索に引っかかった医院を集める」→「神戸市に存在する全医院を母集団にする」
 
   収集の考え方を根本から変更:
     旧: Text Search（検索語 × ジャンル × エリア） → 1,125院
     新: Nearby Search グリッド（座標ベース全域網羅）→ 目標2,500院以上
 
 【収集フロー v4.0】
-  Phase 1: Nearby Search グリッド — 大阪市全域を800m間隔のグリッドで網羅
+  Phase 1: Nearby Search グリッド — 神戸市全域を800m間隔のグリッドで網羅
            type=dentist で歯科医院を全件取得（SEO・口コミ数に左右されない）
   Phase 2: Text Search 補完 — ジャンル別検索でPhase 1の漏れを補完
   Phase 3: AI評判分析 — 複数ソース統合でスコア生成
@@ -56,15 +56,12 @@ GENRES = [
 ]
 
 AREAS = [
-    "大阪市北区", "大阪市中央区", "大阪市西区", "大阪市天王寺区",
-    "大阪市浪速区", "大阪市淀川区", "大阪市都島区", "大阪市福島区",
-    "大阪市此花区", "大阪市港区", "大阪市大正区", "大阪市西淀川区",
-    "大阪市東淀川区", "大阪市東成区", "大阪市生野区", "大阪市旭区",
-    "大阪市城東区", "大阪市鶴見区", "大阪市阿倍野区", "大阪市住之江区",
-    "大阪市住吉区", "大阪市東住吉区", "大阪市平野区", "大阪市西成区",
+    "神戸市東灘区", "神戸市灘区", "神戸市中央区", "神戸市兵庫区",
+    "神戸市北区", "神戸市長田区", "神戸市須磨区", "神戸市垂水区",
+    "神戸市西区",
 ]
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; OsakaDentalResearch/3.0)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; KobeDentalResearch/1.0)"}
 
 
 # ─────────────────────────────────────────────
@@ -339,7 +336,7 @@ def analyze_reputation_and_expertise(
 - 実際に書かれている情報のみを根拠にする（推測・補完禁止）
 - 情報がない項目はスコア0・空配列・空文字にする
 - 第三者口コミ（Google・EPARK・Caloo）は公式サイトより信頼度が高い
-- notable=trueは総合的に「大阪歯科総研が強く推薦できる医院」と判断できる場合のみ
+- notable=trueは総合的に「神戸歯科総研が強く推薦できる医院」と判断できる場合のみ
 
 JSONのみ出力（コメント・説明文不要）:
 {{
@@ -474,18 +471,19 @@ def calc_total_score(analysis: dict, rating: float, total_rv: int) -> dict:
 # Google Places API
 # ─────────────────────────────────────────────
 
-# 大阪市のグリッド範囲
+# 神戸市のグリッド範囲（市域が広く山地を多く含むため大阪市よりやや広め。
+# 医院は市街地に集中するのでヒットしないグリッド点はAPI1回で済む）
 OSAKA_GRID = {
-    "lat_min": 34.590,
-    "lat_max": 34.760,
-    "lng_min": 135.390,
-    "lng_max": 135.590,
+    "lat_min": 34.600,
+    "lat_max": 34.820,
+    "lng_min": 134.960,
+    "lng_max": 135.310,
     "step":    0.008,   # 約880m間隔（半径600mと重複させて漏れを防ぐ）
     "radius":  600,     # Nearby Search 半径（m）
 }
 
 def generate_grid_points() -> list:
-    """大阪市全域のグリッド座標リストを生成"""
+    """神戸市全域のグリッド座標リストを生成"""
     g = OSAKA_GRID
     points = []
     lat = g["lat_min"]
@@ -663,7 +661,7 @@ def process_place(p: dict, db: dict, today: str, default_genre: str = "一般歯
     scores   = calc_total_score(analysis, rating, total_rv)
 
     addr_clean = re.sub(r'^〒\d{3}-\d{4}\s*', '', address)
-    addr_clean = re.sub(r'^(大阪府|兵庫県|京都府)', '', addr_clean).strip()
+    addr_clean = re.sub(r'^(兵庫県|大阪府|京都府)', '', addr_clean).strip()
 
     entry = {
         "place_id":        place_id,
@@ -745,7 +743,7 @@ def collect(run_phase1: bool = True, run_phase2: bool = True):
     grid_points = generate_grid_points()
 
     print(f"\n{'='*60}")
-    print(f"  大阪歯科総研 医院DB構築 v4.0  {today}")
+    print(f"  神戸歯科総研 医院DB構築 v4.0  {today}")
     print(f"  設計思想: 全院網羅（Nearby Search グリッド）+ AI評判生成")
     print(f"  グリッド数: {len(grid_points)}点（間隔{OSAKA_GRID['step']}度・半径{OSAKA_GRID['radius']}m）")
     print(f"  現在のDB  : {len(db)}院")
@@ -756,7 +754,7 @@ def collect(run_phase1: bool = True, run_phase2: bool = True):
 
     # ══ Phase 1: Nearby Search グリッド ══════════════════════
     if run_phase1:
-        print(f"【Phase 1】Nearby Search グリッド — 大阪市全域を座標で網羅")
+        print(f"【Phase 1】Nearby Search グリッド — 神戸市全域を座標で網羅")
         print(f"  目標: 検索順位・SEOに依存せず存在する全医院を取得\n")
 
         for i, (lat, lng) in enumerate(grid_points, 1):
@@ -788,9 +786,8 @@ def collect(run_phase1: bool = True, run_phase2: bool = True):
             "インプラント専門", "矯正専門", "根管治療専門",
             "審美歯科", "訪問歯科", "障害者歯科",
         ]
-        major_areas = ["大阪市北区", "大阪市中央区", "大阪市天王寺区",
-                       "大阪市淀川区", "大阪市城東区", "大阪市住吉区",
-                       "大阪市西区", "大阪市浪速区"]
+        major_areas = ["神戸市中央区", "神戸市東灘区", "神戸市灘区",
+                       "神戸市垂水区", "神戸市西区", "神戸市須磨区"]
 
         phase2_new = 0
         for q in supplement_queries:
@@ -819,7 +816,7 @@ def collect(run_phase1: bool = True, run_phase2: bool = True):
     print(f"  ウェブサイト  : {sum(1 for c in all_c if c.get('url'))}院")
     print(f"  notable院     : {sum(1 for c in all_c if c.get('notable'))}院")
     grid_pts = generate_grid_points()
-    print(f"  グリッド数    : {len(grid_pts)}点（推定カバレッジ: 大阪市全域）")
+    print(f"  グリッド数    : {len(grid_pts)}点（推定カバレッジ: 神戸市全域）")
     print(f"{'='*60}")
 
     try:
@@ -827,7 +824,7 @@ def collect(run_phase1: bool = True, run_phase2: bool = True):
         subprocess.run([
             "osascript", "-e",
             f'display notification "DB:{len(db)}院 新規:{total_new}院" '
-            f'with title "大阪歯科総研 DB更新完了 v4.0" sound name "Glass"'
+            f'with title "神戸歯科総研 DB更新完了 v4.0" sound name "Glass"'
         ], check=False)
     except Exception:
         pass

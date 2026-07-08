@@ -59,7 +59,7 @@ def geocode(address: str):
     # "市"の字だけで止まってしまい、全区が"大阪市"という同一の粗い問い合わせに
     # 丸められて座標が衝突するバグがあった（2026-07-08 発見・修正）。
     # 「区」で終わる区名までを確実に含めて切り出す。
-    m2 = re.search(r"大阪市[^\d]*?区", norm)
+    m2 = re.search(r"神戸市[^\d]*?区", norm)
     if m2:
         candidates.append(m2.group(0))
 
