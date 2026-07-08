@@ -34036,5 +34036,6694 @@
     "label": "一般枠",
     "linked_articles": [],
     "last_analyzed": "2026-07-08"
+  },
+  "ChIJGV6p_lXUVDUR87W0lkzvSSI": {
+    "place_id": "ChIJGV6p_lXUVDUR87W0lkzvSSI",
+    "name": "たきむら歯科クリニック",
+    "address": "明石市沢野３丁目2−７",
+    "lat": 34.6779927,
+    "lng": 134.9623948,
+    "phone": "078-927-0551",
+    "url": "https://www.takimura-dc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%8D%E3%82%80%E3%82%89%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJGV6p_lXUVDUR87W0lkzvSSI",
+    "rating": 3.9,
+    "total_reviews": 9,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "火曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "水曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "土曜日: 9時30分～13時00分, 14時30分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 75,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "小児歯科",
+      "清潔",
+      "丁寧な対応"
+    ],
+    "reputation_summary": "子ども連れでも安心できる、丁寧で清潔感のある歯科医院です。",
+    "phrases": [
+      "近所で父がお世話になっていました",
+      "写真撮影の許可をいただきましたら",
+      "院長もスタッフの方も皆さん愛想が良く丁寧です",
+      "良い点→キッズルームが有り子供同伴でも治療が受けられる、衛生士さんが優しい、先生が質問には真摯に答えてくれる、清潔"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 90,
+      "清潔感": 95,
+      "優しさ": 90,
+      "子ども対応": 95,
+      "痛みへの配慮": 85,
+      "待ち時間": 0
+    },
+    "doctor_name": "瀧村 武彦",
+    "doctor_career": "岡山大学卒、10年以上の経験",
+    "doctor_evidence": [
+      "患者の健康に貢献したいと考える",
+      "カウンセリングを重視"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "資料には最新設備についての記載なし",
+      "標準的な診療器具を使用"
+    ],
+    "transparency_evidence": [
+      "治療過程を分かりやすく説明する方針あり"
+    ],
+    "activity_evidence": [
+      "地域の皆に親しまれる医療を目指している"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフのチームワークを重視した環境",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "初めての歯科訪問を考えているお子様を持つ親",
+    "not_recommended_profile": "夜間診療を希望する忙しいビジネスマン",
+    "referral_to": [
+      "小さな子どもがいる人",
+      "歯医者が怖い人",
+      "母子家庭の方"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は、小児歯科に特化した丁寧な対応が期待できるため、子ども連れの方に最適です。一方、夜間のみ通院したい方には不向きです。",
+    "notable": true,
+    "notable_reason": "小児歯科の専門性と丁寧な対応が高く評価されているため",
+    "catchphrase": "お子様を安心して任せられる歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ-5PmhjnVVDUR_XZ_cAw_pdc": {
+    "place_id": "ChIJ-5PmhjnVVDUR_XZ_cAw_pdc",
+    "name": "森本歯科クリニック",
+    "address": "神戸市西区小山１丁目１−５",
+    "lat": 34.6833402,
+    "lng": 134.9886864,
+    "phone": "078-924-1182",
+    "url": "http://morimoto-dent.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E6%9C%AC%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJ-5PmhjnVVDUR_XZ_cAw_pdc",
+    "rating": 4.7,
+    "total_reviews": 167,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時30分～18時30分",
+      "火曜日: 9時00分～13時00分, 14時30分～18時30分",
+      "水曜日: 定休日",
+      "木曜日: 9時00分～13時00分, 14時30分～18時30分",
+      "金曜日: 9時00分～13時00分, 14時30分～18時30分",
+      "土曜日: 9時00分～13時00分, 14時30分～18時30分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 87,
+    "reputation_score": 22,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 12,
+    "activity_score": 10,
+    "google_bonus": 8,
+    "clinic_score": 27,
+    "current": 79,
+    "potential": 78,
+    "reputation_tags": [
+      "アットホーム",
+      "家族総出",
+      "丁寧な治療"
+    ],
+    "reputation_summary": "家族で通えるアットホームな歯科クリニックで、丁寧な治療が受けられます。",
+    "phrases": [
+      "3年ほど前から家族でお世話になっています",
+      "自宅から近い歯医者を探していて、口コミが良い森本歯科クリニックさんに行ってみました🦷",
+      "主人の勧めでこちらに通い始め、義母を含め家族でお世話になっています",
+      "この度、ジルコニアセラミックの、入れ歯を、お願いしました",
+      "今回、前歯にジルコニアセラミッククラウンを入れました"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 85,
+      "説明力": 90,
+      "清潔感": 95,
+      "優しさ": 90,
+      "子ども対応": 80,
+      "痛みへの配慮": 85,
+      "待ち時間": 75
+    },
+    "doctor_name": "森本健太",
+    "doctor_career": "神奈川歯科大学卒、インプラント専門医",
+    "doctor_evidence": [
+      "患者に寄り添った説明が評価されています。",
+      "家族で通う患者も多いです。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "義歯",
+        "審美歯科"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "ジルコニアセラミック",
+        "根管治療"
+      ]
+    },
+    "equipment_evidence": [
+      "徹底した滅菌対策がされています。",
+      "最新機器を使用していると明記。"
+    ],
+    "transparency_evidence": [
+      "治療方針の説明に力を入れています。"
+    ],
+    "activity_evidence": [
+      "高齢者向けの優しい治療を心がけています。",
+      "ブログで多くの情報を提供。"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフの教育が充実した環境",
+    "fit_for": [
+      "子ども",
+      "高齢者",
+      "家族"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "家族みんなで通いたい方に最適です。",
+    "not_recommended_profile": "夜間診療を求める方には不向き。",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "丁寧な治療を求める人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は家族全員が安心して通えるアットホームな環境が魅力です。一方、夜間のみ通いたい方は他院も検討した方が良いでしょう。",
+    "notable": true,
+    "notable_reason": "患者とのコミュニケーションを大切にする姿勢。",
+    "catchphrase": "家族で通える安心歯科",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ92GOvDnVVDURFPI9C6Ssxqg": {
+    "place_id": "ChIJ92GOvDnVVDURFPI9C6Ssxqg",
+    "name": "いしだ歯科クリニック",
+    "address": "神戸市西区小山１丁目３−２７ ティフビル",
+    "lat": 34.6843506,
+    "lng": 134.9890673,
+    "phone": "078-929-9292",
+    "url": "http://www.kobe249shikaishikai.com/member/doc102",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%97%E3%81%A0%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJ92GOvDnVVDURFPI9C6Ssxqg",
+    "rating": 3,
+    "total_reviews": 2,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ8_v4XDHVVDURV5G9Y8Ce9kM": {
+    "place_id": "ChIJ8_v4XDHVVDURV5G9Y8Ce9kM",
+    "name": "ヒダカ歯科クリニック",
+    "address": "神戸市西区水谷２丁目２３−５５",
+    "lat": 34.6796626,
+    "lng": 134.994911,
+    "phone": "078-995-8586",
+    "url": "http://hidaka-d-c.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%92%E3%83%80%E3%82%AB%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJ8_v4XDHVVDURV5G9Y8Ce9kM",
+    "rating": 3.9,
+    "total_reviews": 9,
+    "business_hours": [
+      "月曜日: 9時00分～19時00分",
+      "火曜日: 9時00分～19時00分",
+      "水曜日: 9時00分～19時00分",
+      "木曜日: 9時00分～19時00分",
+      "金曜日: 9時00分～19時00分",
+      "土曜日: 9時00分～19時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 58,
+    "reputation_score": 18,
+    "doctor_score": 20,
+    "equipment_score": 10,
+    "transparency_score": 5,
+    "activity_score": 5,
+    "google_bonus": 0,
+    "clinic_score": 15,
+    "current": 58,
+    "potential": 68,
+    "reputation_tags": [
+      "説明が丁寧",
+      "親知らず対応",
+      "治療実績あり"
+    ],
+    "reputation_summary": "患者さんに対する丁寧な説明が評価されている歯科クリニックです。",
+    "phrases": [
+      "詳しくしっかり説明してくれます",
+      "ただただショックです",
+      "歯周病の治療をしていただきました",
+      "半年間お世話になりました",
+      "初めての親知らずの抜歯をしてもらいました"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 80,
+      "清潔感": 60,
+      "優しさ": 70,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "日髙竜宏",
+    "doctor_career": "北海道医療大学歯学部卒業、歯周病治療の専門家。",
+    "doctor_evidence": [
+      "歯周病治療を専門に行っている",
+      "日本歯周病学会認定医の資格あり"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "歯周病",
+        "親知らずの抜歯"
+      ],
+      "parts": [
+        "奥歯"
+      ],
+      "techniques": [
+        "親知らず抜歯"
+      ]
+    },
+    "equipment_evidence": [
+      "公式サイトに機器情報は記載されていない"
+    ],
+    "transparency_evidence": [
+      "治療の詳細をしっかり説明するとの口コミあり"
+    ],
+    "activity_evidence": [
+      "ハロウィンイベントを開催している"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "求人情報なし",
+    "fit_for": [
+      "親知らずが気になる人",
+      "丁寧な説明を求める人"
+    ],
+    "not_fit_for": [
+      "急患希望の人",
+      "即日対応を望む人"
+    ],
+    "best_patient_profile": "親知らずの抜歯や歯周病治療を希望する方",
+    "not_recommended_profile": "急な治療を希望する方",
+    "referral_to": [
+      "話をよく聞いて欲しい人",
+      "歯科治療に不安な人",
+      "慢性的な歯周病の方"
+    ],
+    "not_referral_to": [
+      "愛車で通う人",
+      "夜しか来れない人"
+    ],
+    "ai_summary": "この医院は、親知らずの抜歯や歯周病治療をしっかり説明希望の方に向いています。一方、緊急性の高い治療を希望する方には他院を検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "丁寧な説明が特徴",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJE2wO6DPVVDURVRu4V9Ji2Sw": {
+    "place_id": "ChIJE2wO6DPVVDURVRu4V9Ji2Sw",
+    "name": "なかた歯科クリニック",
+    "address": "神戸市西区水谷２丁目７−１",
+    "lat": 34.6787183,
+    "lng": 134.9959613,
+    "phone": "078-918-8143",
+    "url": "https://nakatadental.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E3%81%9F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJE2wO6DPVVDURVRu4V9Ji2Sw",
+    "rating": 4.2,
+    "total_reviews": 17,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "火曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "水曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "木曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "金曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "土曜日: 9時30分～13時00分, 14時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 72,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 10,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 20,
+    "current": 70,
+    "potential": 68,
+    "reputation_tags": [
+      "治療方針",
+      "丁寧な説明",
+      "安心感"
+    ],
+    "reputation_summary": "治療方針の明確さと丁寧な説明が高評価の医院です。",
+    "phrases": [
+      "今通っている歯医者の治療方針や提示された見積費用に疑問があり、セカンドオピニオンとして初診で伺いました",
+      "初めての検診の際、衛生士さんから虫歯や磨き足りない箇所、歯茎の状態など細かく丁寧に教えて頂きました",
+      "虫歯かと思い受診しました",
+      "あまりにも酷かったので、、",
+      "とても安心して受診できます"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 90,
+      "清潔感": 85,
+      "優しさ": 90,
+      "子ども対応": 80,
+      "痛みへの配慮": 85,
+      "待ち時間": 70
+    },
+    "doctor_name": "中田 隆三",
+    "doctor_career": "昭和63年 新潟大学歯学部卒業",
+    "doctor_evidence": [
+      "痛みの少ない治療を重視されています。",
+      "ホスピタリティを大切にしています。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "親知らずの抜歯"
+      ],
+      "parts": [
+        "奥歯",
+        "前歯"
+      ],
+      "techniques": [
+        "最小限の侵襲治療",
+        "審美歯科"
+      ]
+    },
+    "equipment_evidence": [
+      "痛みを和らげるための麻酔機があります。",
+      "丁寧な治療法を提供しています。"
+    ],
+    "transparency_evidence": [
+      "費用に対する説明が丁寧です。"
+    ],
+    "activity_evidence": [
+      "地域の健康を支える活動に力を入れています。",
+      "訪問歯科診療も行っています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 5,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "勉強熱心で教育が充実しています。",
+    "fit_for": [
+      "高齢者",
+      "子ども",
+      "インプラント"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜だけ通える人"
+    ],
+    "best_patient_profile": "家族で通えるアットホームな歯科医院を求める人",
+    "not_recommended_profile": "急な治療が必要な人や時間がない人",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "定期的な検診を希望する人"
+    ],
+    "not_referral_to": [
+      "急患希望の方",
+      "厳しい診療時間を求める方"
+    ],
+    "ai_summary": "この医院は、丁寧な説明と患者への配慮がある治療を希望する方に向いています。一方、急を要する治療が必要な方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "安心して通える歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJJY3soSKBAGART7ipIlqaMSc": {
+    "place_id": "ChIJJY3soSKBAGART7ipIlqaMSc",
+    "name": "黒木歯科医院",
+    "address": "神戸市西区学園西町５丁目２−２",
+    "lat": 34.6830834,
+    "lng": 135.0562274,
+    "phone": "078-794-4180",
+    "url": "https://yamada-dt.com/?utm_source=GBP&utm_medium=GBP&utm_term=GBP&utm_content=GBP&utm_campaign=GBP",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E6%9C%A8%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJJY3soSKBAGART7ipIlqaMSc",
+    "rating": 4,
+    "total_reviews": 12,
+    "business_hours": [
+      "月曜日: 9時00分～12時30分, 14時00分～17時30分",
+      "火曜日: 9時00分～12時30分, 14時00分～17時30分",
+      "水曜日: 9時00分～12時30分, 14時00分～17時30分",
+      "木曜日: 定休日",
+      "金曜日: 9時00分～12時30分, 14時00分～17時30分",
+      "土曜日: 8時45分～12時15分, 14時00分～16時30分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 42,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 2,
+    "clinic_score": 0,
+    "current": 40,
+    "potential": 48,
+    "reputation_tags": [
+      "信頼性",
+      "清潔感",
+      "親切"
+    ],
+    "reputation_summary": "明るく清潔な院内で、信頼できる治療が受けられますが、看護師の対応にムラがあります。",
+    "phrases": [
+      "むし歯や歯周病の治療でお世話になりましたが、ここは本当に信頼できる歯医者さんです",
+      "院内は明るくて清潔感があり、とてもリラックスできる雰囲気です",
+      "先生も看護師さんも親切ですが、看護師さんで１人雑な人がいます"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 0,
+      "清潔感": 90,
+      "優しさ": 80,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "むし歯や歯周病の治療でお世話になっています。",
+      "信頼できる歯医者さんです。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "一般",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "丁寧な治療を望む患者",
+    "not_recommended_profile": "看護師の対応に不安を感じる方",
+    "referral_to": [
+      "信頼できる歯科医院を探している人",
+      "清潔な環境を重視する人",
+      "親切な対応を求める人"
+    ],
+    "not_referral_to": [
+      "急な治療が必要な人",
+      "夜9時以降しか通えない人"
+    ],
+    "ai_summary": "この医院は、信頼できる治療とリラックスできる環境を求める方に向いています。一方、看護師の対応に気になる方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "安心・清潔な歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJNU1vLRaBAGARx_a8AjQTgrE": {
+    "place_id": "ChIJNU1vLRaBAGARx_a8AjQTgrE",
+    "name": "いちせ歯科",
+    "address": "神戸市西区学園西町７丁目２−５ グランドオーク弐番館",
+    "lat": 34.6793305,
+    "lng": 135.055391,
+    "phone": "078-795-4818",
+    "url": "http://idc.dentalmall.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%A1%E3%81%9B%E6%AD%AF%E7%A7%91&query_place_id=ChIJNU1vLRaBAGARx_a8AjQTgrE",
+    "rating": 2.8,
+    "total_reviews": 4,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 39,
+    "reputation_score": 12,
+    "doctor_score": 22,
+    "equipment_score": 0,
+    "transparency_score": 5,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 5,
+    "current": 39,
+    "potential": 53,
+    "reputation_tags": [
+      "技術力あり",
+      "説明丁寧",
+      "不親切な声あり"
+    ],
+    "reputation_summary": "しっかりとした説明が評価される一方、不親切な対応の口コミも存在します。",
+    "phrases": [
+      "特に悪くないと思うし、しっかり説明してくれます",
+      "不親切でお勧めしません"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 80,
+      "清潔感": 0,
+      "優しさ": 40,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "一瀬 太作",
+    "doctor_career": "平成5年大阪歯科大学卒業、11年勤務後開院。",
+    "doctor_evidence": [
+      "患者様との信頼関係を重視",
+      "一人一人じっくり治療を行う"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [
+      "公式サイトで診療内容を明示しています。"
+    ],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "子ども",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "丁寧な説明を重視する患者",
+    "not_recommended_profile": "不親切な対応を気にする患者",
+    "referral_to": [
+      "丁寧な説明を求める人",
+      "信頼関係を重視する人",
+      "小さな子どもがいる人"
+    ],
+    "not_referral_to": [
+      "夜しか通えない人",
+      "待ち時間を気にする人"
+    ],
+    "ai_summary": "この医院は丁寧な説明を重視する患者に向いています。一方、不親切な対応を気にする方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "信頼関係を大切に",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJA4Hxqj2BAGARCKi4-Z8szkk": {
+    "place_id": "ChIJA4Hxqj2BAGARCKi4-Z8szkk",
+    "name": "たくぼ歯科クリニック",
+    "address": "神戸市西区学園西町１丁目１−１",
+    "lat": 34.6806752,
+    "lng": 135.0582074,
+    "phone": "078-793-8418",
+    "url": "https://www.takubodc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%8F%E3%81%BC%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJA4Hxqj2BAGARCKi4-Z8szkk",
+    "rating": 3.5,
+    "total_reviews": 15,
+    "business_hours": [
+      "月曜日: 10時00分～13時30分, 15時00分～19時00分",
+      "火曜日: 10時00分～13時30分, 15時00分～19時00分",
+      "水曜日: 定休日",
+      "木曜日: 10時00分～13時30分, 15時00分～19時00分",
+      "金曜日: 10時00分～13時30分, 15時00分～19時00分",
+      "土曜日: 10時00分～13時00分, 14時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 70,
+    "reputation_score": 15,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 70,
+    "potential": 78,
+    "reputation_tags": [
+      "優しいスタッフ",
+      "説明が丁寧",
+      "痛みへの配慮"
+    ],
+    "reputation_summary": "患者への配慮が評価される一方、説明不足が不安を生むこともある歯科医院です。",
+    "phrases": [
+      "定期健診で通わせてもらっています",
+      "家族に勧められて予約しました",
+      "スタッフさんが優しいし、治療の説明もモニターを活用して懇切丁寧にしてくれます",
+      "いつも家族でお世話になっております",
+      "定期検診に来ましたが、治療内容を説明されないまま治療が始まり、終始不安でした"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 60,
+      "清潔感": 75,
+      "優しさ": 80,
+      "子ども対応": 0,
+      "痛みへの配慮": 75,
+      "待ち時間": 0
+    },
+    "doctor_name": "田窪 一廣",
+    "doctor_career": "経験20年以上の歯科医師",
+    "doctor_evidence": [
+      "インプラント治療の経験があります。",
+      "公式サイトに臨床経験が記載されています。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "インプラント"
+      ],
+      "parts": [
+        "全体"
+      ],
+      "techniques": [
+        "インプラント"
+      ]
+    },
+    "equipment_evidence": [
+      "痛みの少ない治療への配慮がされています。"
+    ],
+    "transparency_evidence": [
+      "治療の説明がモニターで行われています。"
+    ],
+    "activity_evidence": [
+      "スキルアップに取り組む姿勢が表明されています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "家族連れ",
+      "歯科恐怖症",
+      "痛みに敏感な人"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "歯科治療に不安を抱える患者",
+    "not_recommended_profile": "詳細な説明を求める患者",
+    "referral_to": [
+      "家族連れ",
+      "痛みに敏感な人",
+      "歯医者が怖い人"
+    ],
+    "not_referral_to": [
+      "夜しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "たくぼ歯科クリニックは、優しいスタッフと痛みに配慮した治療が魅力的ですが、説明不足が不安を招くこともあります。治療に不安を抱える方に向いていますが、急な対応が必要な方には不向きかもしれません。",
+    "notable": true,
+    "notable_reason": "多くの患者が安心感を感じているため。",
+    "catchphrase": "優しくて痛みの少ない歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJq7evTn-BAGAR0GESOFweiQ8": {
+    "place_id": "ChIJq7evTn-BAGAR0GESOFweiQ8",
+    "name": "学園都市歯科ロコクリニック",
+    "address": "神戸市西区学園西町１丁目１３ 学園都市駅前ビル 303号",
+    "lat": 34.6815227,
+    "lng": 135.0575153,
+    "phone": "078-792-6400",
+    "url": "https://gakuen-lokocli.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AD%A6%E5%9C%92%E9%83%BD%E5%B8%82%E6%AD%AF%E7%A7%91%E3%83%AD%E3%82%B3%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJq7evTn-BAGAR0GESOFweiQ8",
+    "rating": 3.8,
+    "total_reviews": 6,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 14時00分～18時00分",
+      "火曜日: 9時30分～13時00分, 14時00分～18時00分",
+      "水曜日: 9時30分～13時00分, 14時00分～18時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時30分～13時00分, 14時00分～18時00分",
+      "土曜日: 9時30分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 60,
+    "reputation_score": 15,
+    "doctor_score": 15,
+    "equipment_score": 10,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 20,
+    "current": 60,
+    "potential": 56,
+    "reputation_tags": [
+      "親切な対応",
+      "痛みへの配慮",
+      "説明の丁寧さ"
+    ],
+    "reputation_summary": "親切な対応と説明は高評価だが、無駄に歯を削るとの声もあり",
+    "phrases": [
+      "突然、親不知が腫れて強い痛みが出てしまい、いつも通っている歯医者さんは予約が取れず、他に問い合わせた歯科もすべて予約不可でした",
+      "虫歯の痛みで突然な電話にも親切に対応と処置も分かりやすく説明をして頂き　忙しい中　　皆様　　ドクター　感じが良い方でした",
+      "とにかく無駄に歯を削られる"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 60,
+      "説明力": 80,
+      "清潔感": 70,
+      "優しさ": 85,
+      "子ども対応": 0,
+      "痛みへの配慮": 75,
+      "待ち時間": 70
+    },
+    "doctor_name": "豊住",
+    "doctor_career": "経歴不明",
+    "doctor_evidence": [
+      "患者に安心できる治療を提供",
+      "痛みを軽減する工夫をしている"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 2,
+      "患者目線": 4,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "ほぼ無痛の虫歯治療を実施",
+      "最新の医療機器を使用しているかは不明"
+    ],
+    "transparency_evidence": [
+      "診療及び治療の流れが明確に説明されている"
+    ],
+    "activity_evidence": [
+      "治療計画を患者と共に考える姿勢"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "教育制度が整っている職場",
+    "fit_for": [
+      "忙しい人",
+      "歯科恐怖症",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "丁寧な説明を求める患者",
+    "not_recommended_profile": "無駄な治療を避けたい患者",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "忙しい社会人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患を希望する人"
+    ],
+    "ai_summary": "学園都市歯科ロコクリニックは、説明が丁寧で優しい対応が魅力です。しかし、急患や夜間通院希望の方には不向きです。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "痛みを優しく配慮する歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJhbg3UDaBAGAR54i5plz3Evg": {
+    "place_id": "ChIJhbg3UDaBAGAR54i5plz3Evg",
+    "name": "幸田歯科医院",
+    "address": "神戸市西区学園東町６丁目6−４",
+    "lat": 34.6804866,
+    "lng": 135.0681033,
+    "phone": "078-797-0235",
+    "url": "https://www.koda-dent.com/?utm_source=Google&utm_medium=maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B9%B8%E7%94%B0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJhbg3UDaBAGAR54i5plz3Evg",
+    "rating": 4,
+    "total_reviews": 50,
+    "business_hours": [
+      "月曜日: 9時00分～12時00分, 15時00分～19時00分",
+      "火曜日: 9時00分～12時00分, 15時00分～19時00分",
+      "水曜日: 9時00分～12時00分, 15時00分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時00分～12時00分, 15時00分～19時00分",
+      "土曜日: 9時00分～12時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 77,
+    "reputation_score": 20,
+    "doctor_score": 15,
+    "equipment_score": 18,
+    "transparency_score": 12,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 30,
+    "current": 75,
+    "potential": 72,
+    "reputation_tags": [
+      "高齢者向け",
+      "丁寧な診察",
+      "最新技術"
+    ],
+    "reputation_summary": "痛みの出にくい治療と丁寧な診察が評判の歯科医院です。",
+    "phrases": [
+      "90代、高齢の母が自費入れ歯をこちらで作りました",
+      "数年間クリーニングや、歯の治療で通いました",
+      "丁寧に診察してくれます",
+      "虫歯治療で最新レーザー治療に興味があり当院を訪れました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 75,
+      "清潔感": 90,
+      "優しさ": 80,
+      "子ども対応": 85,
+      "痛みへの配慮": 90,
+      "待ち時間": 70
+    },
+    "doctor_name": "幸田",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "丁寧に診察してくれる",
+      "痛みを軽減する治療を提供"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "レーザー治療"
+      ]
+    },
+    "equipment_evidence": [
+      "最新レーザー治療を導入",
+      "痛みを軽減する装置利用"
+    ],
+    "transparency_evidence": [
+      "矯正治療の費用について透明性を持つ説明"
+    ],
+    "activity_evidence": [
+      "医院ブログで症例を紹介している",
+      "最新情報を常に発信"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "充実した教育制度",
+    "fit_for": [
+      "高齢者",
+      "子ども",
+      "痛みに敏感な人",
+      "矯正が必要な人"
+    ],
+    "not_fit_for": [
+      "夜間通院希望の人",
+      "急患希望者",
+      "駐車場必須な人"
+    ],
+    "best_patient_profile": "子どもを持つ親で矯正を考えている方",
+    "not_recommended_profile": "通院時間が限られている方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "高齢者"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は痛みに敏感な方や子どもの治療に向いています。一方、急な通院や夜間に来院希望の方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "最新技術と患者の痛みへの配慮が高く評価されているため。",
+    "catchphrase": "痛みを軽減する歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJCzOapr6GAGARek7jzA-fu6Y": {
+    "place_id": "ChIJCzOapr6GAGARek7jzA-fu6Y",
+    "name": "ファミリー歯科クリニック",
+    "address": "神戸市須磨区北落合３丁目２８−２ エイゼンビル 201",
+    "lat": 34.68452560000001,
+    "lng": 135.0894259,
+    "phone": "078-796-3020",
+    "url": "http://kobe-fdc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJCzOapr6GAGARek7jzA-fu6Y",
+    "rating": 3.5,
+    "total_reviews": 13,
+    "business_hours": [
+      "月曜日: 9時15分～13時00分, 14時00分～18時00分",
+      "火曜日: 9時15分～13時00分, 14時00分～18時00分",
+      "水曜日: 定休日",
+      "木曜日: 9時15分～13時00分, 14時00分～18時00分",
+      "金曜日: 9時15分～13時00分, 15時00分～18時00分",
+      "土曜日: 9時15分～13時00分, 14時00分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 60,
+    "reputation_score": 15,
+    "doctor_score": 15,
+    "equipment_score": 10,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 20,
+    "current": 60,
+    "potential": 56,
+    "reputation_tags": [
+      "家族向け",
+      "小児治療",
+      "混雑"
+    ],
+    "reputation_summary": "家族で利用する患者が多い一方、混雑が問題視されています。",
+    "phrases": [
+      "家族でお世話になっています",
+      "治療と検診で家族でお世話になっています",
+      "昨日、２本の抜歯をしました",
+      "（矯正の）先生が代わってから治療に行くのが辛くなった",
+      "子どもの頃から通っていましたが、どんどんどんどん混み始めて今では予約が何ヶ月か先になったりします"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 60,
+      "清潔感": 80,
+      "優しさ": 75,
+      "子ども対応": 85,
+      "痛みへの配慮": 70,
+      "待ち時間": 40
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "医院の口コミでは技術に対する評価があり。",
+      "説明力に関して不満の声も。"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 2,
+      "患者目線": 3,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "公式サイトから設備の特定情報は無いが、充実度あり。",
+      "技術向上のための研修がある。"
+    ],
+    "transparency_evidence": [
+      "公式サイトでは医院の活動が定期的に公開されています。"
+    ],
+    "activity_evidence": [
+      "外部講師を招いた研修が継続的に行われている。",
+      "医療専門学校との連携も運営。"
+    ],
+    "workplace_stars": {
+      "教育制度": 5,
+      "働きやすさ": 5,
+      "衛生士定着率": 4,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "充実した教育環境が特徴です。",
+    "fit_for": [
+      "子ども",
+      "ファミリー",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "家族全員で通院したい人。",
+    "not_recommended_profile": "待ち時間を気にする人。",
+    "referral_to": [
+      "家族で通いたい人",
+      "小さな子どもがいる人",
+      "優しい対応が欲しい人"
+    ],
+    "not_referral_to": [
+      "夜遅くしか通えない人",
+      "急患対応を求める人"
+    ],
+    "ai_summary": "この医院は家族で通いやすい環境が整っていますが、混雑が問題となっています。一方、急な受診が必要な方には他院を検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "家族の歯を守るクリニック",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJpWf8hM6HAGARqLJvHGfwNKM": {
+    "place_id": "ChIJpWf8hM6HAGARqLJvHGfwNKM",
+    "name": "もりした歯科医院",
+    "address": "神戸市須磨区中落合３丁目１−１０ ＬＵＣＣＡ名谷 3F",
+    "lat": 34.6803269,
+    "lng": 135.0924007,
+    "phone": "078-793-1320",
+    "url": "http://morishita-dental.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%82%82%E3%82%8A%E3%81%97%E3%81%9F%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJpWf8hM6HAGARqLJvHGfwNKM",
+    "rating": 4.4,
+    "total_reviews": 152,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 15時00分～20時00分",
+      "火曜日: 9時00分～13時00分, 15時00分～20時00分",
+      "水曜日: 9時00分～13時00分, 15時00分～20時00分",
+      "木曜日: 9時00分～13時00分, 15時00分～20時00分",
+      "金曜日: 9時00分～13時00分, 15時00分～20時00分",
+      "土曜日: 9時00分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 80,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 5,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "丁寧な説明",
+      "子ども対応",
+      "安心の治療"
+    ],
+    "reputation_summary": "治療に対する丁寧な説明が評判の医院で、特に子どもの治療に定評があります。",
+    "phrases": [
+      "もりした歯科医院　名谷",
+      "クリーニングと定期検診で伺いました",
+      "丁寧な説明と治療で大変満足しました",
+      "アメリカから戻ったばかりの4歳息子の虫歯治療でお世話になりました",
+      "歯医者怖いイメージでしたが、"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 90,
+      "清潔感": 85,
+      "優しさ": 80,
+      "子ども対応": 90,
+      "痛みへの配慮": 80,
+      "待ち時間": 70
+    },
+    "doctor_name": "森下 孝良",
+    "doctor_career": "昭和50年愛知学院大学歯学部卒業",
+    "doctor_evidence": [
+      "患者様との話し合いを大切にしています。",
+      "納得した上で治療を行う方針です。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 2,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "電動麻酔器やレーザー治療などを導入しています。",
+      "口腔外バキュームも完備しています。"
+    ],
+    "transparency_evidence": [
+      "治療の流れや料金が明確に記載されています。"
+    ],
+    "activity_evidence": [
+      "院内勉強会や講習会への参加を推奨しています。",
+      "チームワークを重視した治療を行っています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 5,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "チームワークを重視した教育環境が整っています。",
+    "fit_for": [
+      "子ども",
+      "歯科恐怖症",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "駐車場必須"
+    ],
+    "best_patient_profile": "子どもを持つ親が安心して通える医院です。",
+    "not_recommended_profile": "夜しか通えない方には向きません。",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "定期検診を希望する人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "遠方から通う人"
+    ],
+    "ai_summary": "この医院は、特に小さな子どもを連れた親や歯医者に不安を感じている方に向いています。一方で、急な治療が必要な方や、夜しか通えない方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "子どもも安心の歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJgQhWoZiGAGAR8A6mxw64M5E": {
+    "place_id": "ChIJgQhWoZiGAGAR8A6mxw64M5E",
+    "name": "定政歯科",
+    "address": "神戸市須磨区中落合２丁目２−５",
+    "lat": 34.6781771,
+    "lng": 135.0936589,
+    "phone": "078-793-3500",
+    "url": "https://www.sadamasa-shika.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%9A%E6%94%BF%E6%AD%AF%E7%A7%91&query_place_id=ChIJgQhWoZiGAGAR8A6mxw64M5E",
+    "rating": 2.6,
+    "total_reviews": 5,
+    "business_hours": [
+      "月曜日: 9時00分～12時30分, 14時00分～18時30分",
+      "火曜日: 9時00分～12時30分, 14時00分～19時00分",
+      "水曜日: 定休日",
+      "木曜日: 9時00分～12時30分, 14時00分～19時00分",
+      "金曜日: 9時00分～12時30分, 14時00分～18時30分",
+      "土曜日: 9時00分～13時00分, 14時00分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 75,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "優しい対応",
+      "安心感",
+      "感染対策徹底"
+    ],
+    "reputation_summary": "患者に優しく、清潔感のある居心地の良い医院です。",
+    "phrases": [
+      "15年ほど前、20代前半の頃に受診",
+      "先生や歯科衛生士さんに、大変よくしてもらっています"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 85,
+      "説明力": 75,
+      "清潔感": 90,
+      "優しさ": 90,
+      "子ども対応": 70,
+      "痛みへの配慮": 80,
+      "待ち時間": 70
+    },
+    "doctor_name": "定政 規夫",
+    "doctor_career": "地域密着型の歯科医療を40年提供",
+    "doctor_evidence": [
+      "15年前からの患者の信頼がある",
+      "公式サイトに最新治療機器の導入あり"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 5
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "歯科用CTや炭酸ガスレーザーを導入",
+      "空気清浄装置で院内感染対策"
+    ],
+    "transparency_evidence": [
+      "診療方針が公式サイトに明記されている"
+    ],
+    "activity_evidence": [
+      "地域密着型の診療を40年続けている"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "清潔で教育が行き届いた職場環境",
+    "fit_for": [
+      "子ども",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "定期的に歯科チェックを受ける方",
+    "not_recommended_profile": "夜間診療を希望する方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "高齢者の方"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の方"
+    ],
+    "ai_summary": "この医院は、痛みや不安を気にする方に最適です。一方で、夜間しか通えない方には他院を検討することをお勧めします。",
+    "notable": true,
+    "notable_reason": "長年の地域貢献と信頼のある医院",
+    "catchphrase": "安心の地域密着型歯科",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJgQhWoZiGAGARBuREKhHKV8g": {
+    "place_id": "ChIJgQhWoZiGAGARBuREKhHKV8g",
+    "name": "河田歯科医院",
+    "address": "神戸市須磨区中落合２丁目２−５ 名谷センタービル ２階",
+    "lat": 34.6781397,
+    "lng": 135.093721,
+    "phone": "078-793-3755",
+    "url": "https://www.kawata-dental.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%B3%E7%94%B0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJgQhWoZiGAGARBuREKhHKV8g",
+    "rating": 3.8,
+    "total_reviews": 12,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "火曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "水曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "木曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "金曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "土曜日: 9時00分～13時00分, 14時30分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 75,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "丁寧な対応",
+      "小児歯科",
+      "信頼の医院"
+    ],
+    "reputation_summary": "患者への丁寧な対応と幅広い治療領域が好評の医院です。",
+    "phrases": [
+      "先日、子どもたちと一緒に初めて伺いました",
+      "神戸に転勤し、歯医者を探していた時、以前の河田先生の勤務地の時に抜歯をしてもらいました",
+      "先生、スタッフのみなさんにいつも丁寧に対応してもらっています",
+      "先日初めてそちらに伺わせて頂きました",
+      "歯の痛みで受診し、レントゲン等撮りましたが、どの歯が痛いか特定できず、歯を削らずに被せ物をしてもらいました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 80,
+      "清潔感": 90,
+      "優しさ": 85,
+      "子ども対応": 90,
+      "痛みへの配慮": 80,
+      "待ち時間": 60
+    },
+    "doctor_name": "河田 恭太朗",
+    "doctor_career": "1975年 大阪大学歯学部 卒業",
+    "doctor_evidence": [
+      "地域のかかりつけ医として信頼を寄せられています。",
+      "顧客に丁寧な説明を提供しています。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 5
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "清潔な環境を守るために院内感染対策を行っています。",
+      "最新設備の情報は記載されていません。"
+    ],
+    "transparency_evidence": [
+      "丁寧な説明を通じて患者の不安を和らげています。"
+    ],
+    "activity_evidence": [
+      "地域の健康を支える活動に取り組んでいます。",
+      "矯正相談会を定期的に行っています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "チームワークを重視した職場環境",
+    "fit_for": [
+      "子ども",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "家族全員で通いやすい歯科医院を求める方",
+    "not_recommended_profile": "夜遅くに受診したい方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "家族で通いたい人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駅近を最優先する人"
+    ],
+    "ai_summary": "この医院は小さなお子さんや高齢者に優しい環境が整っているため、安心して通院できます。一方、急な対応を希望する方には他院をおすすめします。",
+    "notable": true,
+    "notable_reason": "地域に根ざした信頼性と患者対応に優れています。",
+    "catchphrase": "地域に愛される歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ5TIYVbKHAGARZvkfxtIxnu4": {
+    "place_id": "ChIJ5TIYVbKHAGARZvkfxtIxnu4",
+    "name": "名谷ステーションデンタル",
+    "address": "神戸市須磨区中落合２丁目３−３ tete名谷 1F",
+    "lat": 34.68004569999999,
+    "lng": 135.0944134,
+    "phone": "078-796-3190",
+    "url": "https://site.locaop.jp/an7nR?_src=gbp",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%8D%E8%B0%B7%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB&query_place_id=ChIJ5TIYVbKHAGARZvkfxtIxnu4",
+    "rating": 2.7,
+    "total_reviews": 38,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時00分～20時30分",
+      "火曜日: 9時00分～13時00分, 14時00分～20時30分",
+      "水曜日: 9時00分～13時00分, 14時00分～20時30分",
+      "木曜日: 9時00分～13時00分, 14時00分～20時30分",
+      "金曜日: 9時00分～13時00分, 14時00分～20時30分",
+      "土曜日: 9時00分～13時00分, 14時00分～20時30分",
+      "日曜日: 10時00分～13時00分, 14時00分～18時00分"
+    ],
+    "genre": "一般歯科",
+    "total_score": 10,
+    "reputation_score": 5,
+    "doctor_score": 5,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 10,
+    "potential": 12,
+    "reputation_tags": [
+      "接客態度",
+      "技術力",
+      "衛生士優秀"
+    ],
+    "reputation_summary": "受付や院長の対応に不満が多く、技術面でもトラブルが見受けられる評価です。",
+    "phrases": [
+      "先ず挨拶しても無視です",
+      "歯に虫歯があり治療してもらって詰め物をしたのですが、3ヶ月も経たない内に取れました",
+      "今も許せない　2025 2月1日(土)インプラント",
+      "受付の男性の接客態度はピカイチで悪いが中の歯科衛生士さんはとても優しい",
+      "受付、歯科衛生士、院長の対応が最悪です"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 30,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 70,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "インプラントのトラブル報告がある",
+      "治療が不十分と言われている"
+    ],
+    "doctor_stars": {
+      "専門性": 1,
+      "研究実績": 0,
+      "患者目線": 1,
+      "経験": 1
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "インプラント"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "インプラント",
+      "優しい対応が欲しい人"
+    ],
+    "not_fit_for": [
+      "受付の対応を重視する人",
+      "治療の精度を求める人"
+    ],
+    "best_patient_profile": "優しさを重視する患者さん",
+    "not_recommended_profile": "技術や早さを重要視する患者さん",
+    "referral_to": [
+      "優しい対応を求める人",
+      "インプラント希望者",
+      "衛生士を重視する人"
+    ],
+    "not_referral_to": [
+      "技術を重視する人",
+      "受付の対応を気にする人"
+    ],
+    "ai_summary": "この医院は、優しいスタッフの対応を重視する方には向いています。しかし、技術や受付の対応を重視する方には他院を検討すべきです。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "優しい衛生士がいる歯科",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJSetx5MGHAGAR61Ybuk7_4Tg": {
+    "place_id": "ChIJSetx5MGHAGAR61Ybuk7_4Tg",
+    "name": "SASAKI DENTAL OFFICE大丸須磨院",
+    "address": "神戸市須磨区中落合２丁目２−４ 大丸須磨店 ３Ｆ",
+    "lat": 34.6779123,
+    "lng": 135.0944566,
+    "phone": "078-798-7981",
+    "url": "https://www.sasakidental-office.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SASAKI%20DENTAL%20OFFICE%E5%A4%A7%E4%B8%B8%E9%A0%88%E7%A3%A8%E9%99%A2&query_place_id=ChIJSetx5MGHAGAR61Ybuk7_4Tg",
+    "rating": 3.6,
+    "total_reviews": 36,
+    "business_hours": [
+      "月曜日: 10時00分～14時00分, 15時00分～19時00分",
+      "火曜日: 10時00分～14時00分, 15時00分～19時00分",
+      "水曜日: 定休日",
+      "木曜日: 10時00分～14時00分, 15時00分～19時00分",
+      "金曜日: 10時00分～14時00分, 15時00分～19時00分",
+      "土曜日: 10時00分～14時00分, 15時00分～19時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 77,
+    "reputation_score": 18,
+    "doctor_score": 22,
+    "equipment_score": 15,
+    "transparency_score": 12,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 27,
+    "current": 77,
+    "potential": 83,
+    "reputation_tags": [
+      "清潔感",
+      "技術力",
+      "親切"
+    ],
+    "reputation_summary": "清潔で通いやすい医院。説明が丁寧で治療結果に満足する声が多い。",
+    "phrases": [
+      "初めは院内も綺麗で通い続けようと思っていました",
+      "※車で通う人は、3000円以上の金額でないと、駐車券が押してもらえず無料にならないそうです",
+      "虫歯治療を受けましたが、きちんと説明があり、結果もとても満足しています",
+      "初めてこちらの病院を利用し、"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 85,
+      "清潔感": 90,
+      "優しさ": 75,
+      "子ども対応": 0,
+      "痛みへの配慮": 70,
+      "待ち時間": 60
+    },
+    "doctor_name": "佐々木 隆行",
+    "doctor_career": "朝日大学歯学部卒業、県内医療法人で研鑽",
+    "doctor_evidence": [
+      "患者のニーズに合った治療を重視",
+      "説明を大切にしたカウンセリング"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "インプラント"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "GBR"
+      ]
+    },
+    "equipment_evidence": [
+      "感染症対策がしっかりしている",
+      "最新の医療器具を使用している"
+    ],
+    "transparency_evidence": [
+      "治療計画について詳細に説明しています"
+    ],
+    "activity_evidence": [
+      "インプラント治療に関する取材を受けた実績あり",
+      "専門学会に所属する医師が在籍"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "充実した教育制度と働きやすさが特徴",
+    "fit_for": [
+      "インプラント",
+      "高齢者",
+      "女性"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "駐車場必須"
+    ],
+    "best_patient_profile": "丁寧な説明を求める患者",
+    "not_recommended_profile": "すぐに治療を希望する患者",
+    "referral_to": [
+      "都心の便利な歯科を探す人",
+      "健康なうちから予防したい人",
+      "インプラント検討者"
+    ],
+    "not_referral_to": [
+      "急患が多い方",
+      "駐車場を重視する方"
+    ],
+    "ai_summary": "この医院は、治療の説明が丁寧で、安心して通いたい方に向いています。一方、急な対応を求める方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "患者への配慮が高く、安心して通える歯科医院",
+    "catchphrase": "安心して通える歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJPzpGCiqEAGARqz5iNa9FrfI": {
+    "place_id": "ChIJPzpGCiqEAGARqz5iNa9FrfI",
+    "name": "石井歯科医院",
+    "address": "神戸市須磨区清水台１−８",
+    "lat": 34.6797,
+    "lng": 135.10833,
+    "phone": "078-742-0133",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E4%BA%95%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJPzpGCiqEAGARqz5iNa9FrfI",
+    "rating": 1,
+    "total_reviews": 1,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 10,
+    "reputation_score": 10,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 10,
+    "potential": 0,
+    "reputation_tags": [
+      "営業時間不安定",
+      "地域密着",
+      "評判普通"
+    ],
+    "reputation_summary": "営業日のバラつきがあり、通院しにくいとの声が目立つ医院です。",
+    "phrases": [
+      "営業日がバラバラ‼️"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "平日の昼間に通える方",
+    "not_recommended_profile": "診療日が安定していない方",
+    "referral_to": [
+      "平日通院ができる人",
+      "地域住民",
+      "子どもの治療が必要な人"
+    ],
+    "not_referral_to": [
+      "急患希望の人",
+      "夜間しか通えない人"
+    ],
+    "ai_summary": "石井歯科医院は平日昼間に通院可能な方には向いていますが、営業日が不安定なため、通院予定が立てづらい方には他院を選択することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "営業日が不安定な医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJT_GHAYCGAGARgsKhYfqoAZQ": {
+    "place_id": "ChIJT_GHAYCGAGARgsKhYfqoAZQ",
+    "name": "津田歯科医院",
+    "address": "神戸市須磨区車竹ノ下１３１９−１ ミスティエイト",
+    "lat": 34.6815579,
+    "lng": 135.1117789,
+    "phone": "078-742-3988",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B4%A5%E7%94%B0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJT_GHAYCGAGARgsKhYfqoAZQ",
+    "rating": 3.8,
+    "total_reviews": 4,
+    "business_hours": [
+      "月曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "火曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "水曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "木曜日: 9時00分～12時00分",
+      "金曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "土曜日: 9時00分～12時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 10,
+    "reputation_score": 10,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 10,
+    "potential": 0,
+    "reputation_tags": [
+      "治療環境",
+      "診察室",
+      "口コミ"
+    ],
+    "reputation_summary": "治療環境に対する不満が目立つ医院です。",
+    "phrases": [
+      "いつもお世話になっています",
+      "診察室は物がごった返しで治療環境としてはとてつもなく酷いです"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "治療環境を重視する患者",
+    "referral_to": [],
+    "not_referral_to": [
+      "綺麗な医院を求める人",
+      "治療環境を重視する人"
+    ],
+    "ai_summary": "津田歯科医院は、治療環境を重視する方には不向きです。一方、費用を抑えたい方には検討の余地があります。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "治療環境に課題あり",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJq31m2dSFAGARBgm0BVLO49E": {
+    "place_id": "ChIJq31m2dSFAGARBgm0BVLO49E",
+    "name": "藤田歯科医院",
+    "address": "神戸市須磨区緑が丘１丁目１８−１０",
+    "lat": 34.6794373,
+    "lng": 135.1128302,
+    "phone": "078-743-5300",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%97%A4%E7%94%B0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJq31m2dSFAGARBgm0BVLO49E",
+    "rating": 4.7,
+    "total_reviews": 3,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ_b5N04yFAGAREOsBqTZK62Y": {
+    "place_id": "ChIJ_b5N04yFAGAREOsBqTZK62Y",
+    "name": "まえだ歯科医院",
+    "address": "神戸市長田区林山町１−１",
+    "lat": 34.678114,
+    "lng": 135.142768,
+    "phone": "078-612-0825",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%88%E3%81%A0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ_b5N04yFAGAREOsBqTZK62Y",
+    "rating": 4.6,
+    "total_reviews": 9,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 62,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 10,
+    "transparency_score": 5,
+    "activity_score": 5,
+    "google_bonus": 2,
+    "clinic_score": 15,
+    "current": 60,
+    "potential": 68,
+    "reputation_tags": [
+      "優しい先生",
+      "安心感あり",
+      "通いやすい"
+    ],
+    "reputation_summary": "優しいスタッフが揃い、簡単な治療を求める方におすすめの医院です。",
+    "phrases": [
+      "単純な歯石取りや簡単な虫歯の治療を望む方向けだと思います",
+      "土曜日の午後に予約無しで行きました（他の客1人だけ）",
+      "先生も働いてる方皆さん、笑顔で優しい素敵な方々です",
+      "他の方のレビューを見て、安心して行けました",
+      "とても優しい先生です"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 60,
+      "説明力": 70,
+      "清潔感": 70,
+      "優しさ": 90,
+      "子ども対応": 0,
+      "痛みへの配慮": 70,
+      "待ち時間": 60
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "優しい先生がいるとの口コミがあります。",
+      "他のレビューでも高評価です。"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 0,
+      "患者目線": 5,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "具体的な機器についての記載はありませんが、清潔感が評価されています。"
+    ],
+    "transparency_evidence": [
+      "口コミにより安心して訪問できる情報があります。"
+    ],
+    "activity_evidence": [
+      "多くの患者から高い評価を得ているようです。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "女性",
+      "高齢者",
+      "忙しい人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "優しい対応を求める患者。",
+    "not_recommended_profile": "専門的な治療が必要な患者。",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "気軽に通いたい人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は、優しい対応と清潔感を求める患者に向いています。一方、専門的な治療を望む方や急患の方には他院を検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "笑顔で優しい歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJTXnjHouFAGARBnS5tfuVl7A": {
+    "place_id": "ChIJTXnjHouFAGARBnS5tfuVl7A",
+    "name": "阪本歯科医院",
+    "address": "神戸市長田区片山町５丁目１１−２４ プリオーレリベルタ",
+    "lat": 34.6778427,
+    "lng": 135.1467791,
+    "phone": "078-691-8826",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%98%AA%E6%9C%AC%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJTXnjHouFAGARBnS5tfuVl7A",
+    "rating": 3.8,
+    "total_reviews": 9,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 15,
+    "reputation_score": 15,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 15,
+    "potential": 0,
+    "reputation_tags": [
+      "対応が丁寧",
+      "優しい",
+      "技術にムラ"
+    ],
+    "reputation_summary": "優しい対応が評価されつつ、技術にムラがあるとの意見もある歯科医院です。",
+    "phrases": [
+      "歯痛で検診を受け、何か月か通いましたが原因を突き止めて頂けず",
+      "とても良い歯医者さん",
+      "接客完璧！優しいし丁寧歯医者なら絶対ここ！ってレベルでした！ガチめに",
+      "虫歯の治療からスポーツで使うマウスピースまでお世話になってる歯医者さんです",
+      "•飛沫が顔に飛ばないようにするための防護措置が何もナシ(私が覚えている限りココが初)"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 50,
+      "説明力": 70,
+      "清潔感": 0,
+      "優しさ": 90,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "女性",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "清潔感を重視する方"
+    ],
+    "best_patient_profile": "優しい接客を求める患者",
+    "not_recommended_profile": "原因を突き止めたい患者",
+    "referral_to": [
+      "子どもがいる人",
+      "優しい歯医者を求める人",
+      "痛みに敏感な人"
+    ],
+    "not_referral_to": [
+      "原因を明確に知りたい人",
+      "清潔感を重視する人"
+    ],
+    "ai_summary": "阪本歯科医院は、優しい対応を重視する方に向いています。ただし、治療効果にバラツキがあり、特に原因究明を求める方には他院を検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "優しさが光る歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ4a0wqYqFAGARmE8D-G9vbs0": {
+    "place_id": "ChIJ4a0wqYqFAGARmE8D-G9vbs0",
+    "name": "土井歯科医院",
+    "address": "神戸市長田区房王寺町５丁目４−６",
+    "lat": 34.6808902,
+    "lng": 135.149304,
+    "phone": "078-691-7181",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%9C%9F%E4%BA%95%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ4a0wqYqFAGARmE8D-G9vbs0",
+    "rating": 1,
+    "total_reviews": 1,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJofceaXyPAGARMWNZkqeiizE": {
+    "place_id": "ChIJofceaXyPAGARMWNZkqeiizE",
+    "name": "医療法人社団 こうべ医信会 Mデンタルクリニック神戸",
+    "address": "神戸市兵庫区東山町３丁目１−８ 東山ハイツ",
+    "lat": 34.6805136,
+    "lng": 135.1641103,
+    "phone": "078-531-7176",
+    "url": "https://www.hayashi-dental.info/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3%20%E3%81%93%E3%81%86%E3%81%B9%E5%8C%BB%E4%BF%A1%E4%BC%9A%20M%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%E7%A5%9E%E6%88%B8&query_place_id=ChIJofceaXyPAGARMWNZkqeiizE",
+    "rating": 3.6,
+    "total_reviews": 31,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時00分～17時30分",
+      "火曜日: 9時00分～13時00分, 14時00分～17時30分",
+      "水曜日: 9時00分～13時00分, 14時00分～17時30分",
+      "木曜日: 9時00分～13時00分, 14時00分～17時30分",
+      "金曜日: 9時00分～13時00分, 14時00分～17時30分",
+      "土曜日: 定休日",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 75,
+    "reputation_score": 18,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 12,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "丁寧",
+      "新しい医院",
+      "予防歯科"
+    ],
+    "reputation_summary": "丁寧な対応と新しい施設での治療を評価する声が多い医院です。",
+    "phrases": [
+      "前から歯医者が少し苦手だったのですが、知人にすすめられてMデンタルクリニック神戸さんに通い始めました",
+      "新しい歯科医院になって1年",
+      "普段は定期健診で利用しています",
+      "林先生時代にとても丁寧に対応していただきました",
+      "産後、育児が忙しく中々自分の定期的な歯科通院まで気持ちの余裕がないまま5年がすぎました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 75,
+      "説明力": 80,
+      "清潔感": 85,
+      "優しさ": 80,
+      "子ども対応": 70,
+      "痛みへの配慮": 75,
+      "待ち時間": 60
+    },
+    "doctor_name": "林",
+    "doctor_career": "詳細な経歴は不明ですが、多くの声が寄せられています。",
+    "doctor_evidence": [
+      "丁寧な対応で評価されています",
+      "患者とのコミュニケーションを重視しています"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "新型コロナ対策に力を入れています",
+      "滅菌器を使用して衛生管理しています"
+    ],
+    "transparency_evidence": [
+      "治療方針を明確にしています"
+    ],
+    "activity_evidence": [
+      "定期的に患者の声を収集し、改善に努めています"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "アットホームな雰囲気の医院です。",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "忙しい人",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "定期健診を大切にしたい方",
+    "not_recommended_profile": "急な治療を希望する方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "女性",
+      "育児中の人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の人"
+    ],
+    "ai_summary": "この医院は、定期的な通院を考える方や歯科恐怖症の方に向いています。一方、急な治療を望む方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "安心して通える歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJY-vzvW2PAGAR9WD0IBhxQ60": {
+    "place_id": "ChIJY-vzvW2PAGAR9WD0IBhxQ60",
+    "name": "おぎた歯科医院",
+    "address": "神戸市兵庫区東山町１丁目１−５",
+    "lat": 34.680934,
+    "lng": 135.1645649,
+    "phone": "078-577-8810",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%8E%E3%81%9F%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJY-vzvW2PAGAR9WD0IBhxQ60",
+    "rating": 4.8,
+    "total_reviews": 4,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 40,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 40,
+    "potential": 48,
+    "reputation_tags": [
+      "丁寧な対応",
+      "清潔な医院",
+      "商店街内"
+    ],
+    "reputation_summary": "丁寧な対応と清潔な医院が魅力の歯科医院です。",
+    "phrases": [
+      "とても丁寧で親切な先生です",
+      "移転されてから綺麗な医院が気になっていて、行ってきました",
+      "東山商店街の中にある歯医者さん"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 100,
+      "優しさ": 100,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "丁寧で親切な対応を評価されています。",
+      "患者の不安を和らげる工夫がありそうです。"
+    ],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "特に難症例を治療希望"
+    ],
+    "best_patient_profile": "初めての方や恐怖心がある方",
+    "not_recommended_profile": "夜遅くしか通えない方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "高齢者",
+      "初めての方"
+    ],
+    "not_referral_to": [
+      "急患希望の人",
+      "夜遅くしか通えない人"
+    ],
+    "ai_summary": "この医院は丁寧で親切な治療を求める方に向いています。一方、特に急な治療が必要な方には他院を検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "親切・丁寧な歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJVwm2AG6PAGARMYX4wUR8YT4": {
+    "place_id": "ChIJVwm2AG6PAGARMYX4wUR8YT4",
+    "name": "清瀬歯科医院",
+    "address": "神戸市兵庫区松本通２丁目４−番21号",
+    "lat": 34.67918100000001,
+    "lng": 135.163136,
+    "phone": "078-521-2563",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B8%85%E7%80%AC%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJVwm2AG6PAGARMYX4wUR8YT4",
+    "rating": 3.7,
+    "total_reviews": 9,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "火曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "水曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "土曜日: 9時30分～13時00分, 14時30分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 65,
+    "reputation_score": 25,
+    "doctor_score": 25,
+    "equipment_score": 0,
+    "transparency_score": 15,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 15,
+    "current": 65,
+    "potential": 60,
+    "reputation_tags": [
+      "親切なスタッフ",
+      "丁寧な治療",
+      "安心感"
+    ],
+    "reputation_summary": "親切で丁寧な説明を受けられる信頼できる医院です。",
+    "phrases": [
+      "院長さんも従業員の方もみんな親切なのが嬉しい",
+      "とても丁寧な説明、治療をしていただけます",
+      "いつも丁寧な診察ありがとうございます",
+      "丁寧な治療をしてもらえます",
+      "丁寧な仕事で分かりやすい説明をしてくれる歯医者さんですね"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 90,
+      "説明力": 95,
+      "清潔感": 0,
+      "優しさ": 95,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "丁寧な説明を受けられる院長です。",
+      "信頼できる治療が特徴です。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 5,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [
+      "分かりやすい説明が好評です。"
+    ],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "子ども",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "丁寧な治療を求める患者",
+    "not_recommended_profile": "即時の治療を希望する方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "子ども連れの人",
+      "丁寧な説明を求める人"
+    ],
+    "not_referral_to": [
+      "急患希望の人",
+      "夜のみ通える人"
+    ],
+    "ai_summary": "この医院は丁寧な治療と親切な対応を求める方に向いています。一方、急な対応が必要な方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "親切で丁寧な治療が評判の医院です。",
+    "catchphrase": "信頼の丁寧な治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ79s2RmmPAGAR_cHGyF_DvV0": {
+    "place_id": "ChIJ79s2RmmPAGAR_cHGyF_DvV0",
+    "name": "橋本歯科医院",
+    "address": "神戸市兵庫区湊川町４丁目１−１",
+    "lat": 34.6834829,
+    "lng": 135.1624615,
+    "phone": "078-511-3960",
+    "url": "https://kobe-hasimoto-dc.com/?utm_source=google&utm_medium=maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A9%8B%E6%9C%AC%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ79s2RmmPAGAR_cHGyF_DvV0",
+    "rating": 4.5,
+    "total_reviews": 2,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 15時00分～19時00分",
+      "火曜日: 9時00分～13時00分, 15時00分～17時00分",
+      "水曜日: 定休日",
+      "木曜日: 9時00分～13時00分, 15時00分～19時00分",
+      "金曜日: 9時00分～13時00分, 15時00分～19時00分",
+      "土曜日: 9時00分～13時00分, 14時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 77,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 12,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 77,
+    "potential": 78,
+    "reputation_tags": [
+      "丁寧な治療",
+      "患者寄り添い",
+      "土曜診療"
+    ],
+    "reputation_summary": "患者に寄り添った治療を提供する丁寧な歯科医院です。",
+    "phrases": [
+      "丁寧で、患者に寄り添った治療でした"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 80,
+      "清潔感": 80,
+      "優しさ": 90,
+      "子ども対応": 75,
+      "痛みへの配慮": 85,
+      "待ち時間": 70
+    },
+    "doctor_name": "橋本院長",
+    "doctor_career": "祖父から受け継いだ技術で治療にあたる",
+    "doctor_evidence": [
+      "患者に寄り添った治療方針",
+      "わかりやすい説明を心掛けている"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "駐車場完備で通いやすい環境",
+      "訪問歯科にも対応している"
+    ],
+    "transparency_evidence": [
+      "治療方針の説明を重視している"
+    ],
+    "activity_evidence": [
+      "地域の校医として活動している",
+      "近隣小学校の校医を務める"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "教育制度が整った働きやすい環境",
+    "fit_for": [
+      "子ども",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "丁寧な治療を求める人",
+    "not_recommended_profile": "緊急処置を必要とする人",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "高齢者"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急に治療が必要な人"
+    ],
+    "ai_summary": "橋本歯科医院は、丁寧な治療を受けたい方に向いています。一方、急患など緊急対応が必要な方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "地域に根付いた患者寄り添いの治療が魅力です。",
+    "catchphrase": "皆様に寄り添う歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJXZLQLnKPAGARDEnlfyiSnTw": {
+    "place_id": "ChIJXZLQLnKPAGARDEnlfyiSnTw",
+    "name": "きむら歯科医院",
+    "address": "神戸市兵庫区上沢通３丁目２−１",
+    "lat": 34.6771811,
+    "lng": 135.1638485,
+    "phone": "078-576-0305",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8D%E3%82%80%E3%82%89%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJXZLQLnKPAGARDEnlfyiSnTw",
+    "rating": 4.8,
+    "total_reviews": 5,
+    "business_hours": [
+      "月曜日: 9時00分～11時30分, 14時00分～18時30分",
+      "火曜日: 9時00分～11時30分, 14時00分～18時30分",
+      "水曜日: 9時00分～11時30分, 14時00分～18時30分",
+      "木曜日: 9時00分～11時30分",
+      "金曜日: 9時00分～11時30分, 14時00分～18時30分",
+      "土曜日: 9時00分～11時30分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 42,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 2,
+    "clinic_score": 0,
+    "current": 40,
+    "potential": 48,
+    "reputation_tags": [
+      "待たない",
+      "技術力",
+      "信頼感"
+    ],
+    "reputation_summary": "患者の待ち時間がほぼなく、先生の技術力に信頼を寄せる声があります。",
+    "phrases": [
+      "ここの先生の言ったことは大概当たる…!もぅあかんよ…て言ってた齒はどんどんだめになってくる",
+      "待ち時間（入るときも、支払いも）ほぼなし"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 100
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "先生の診断が信頼されている",
+      "多くの患者が技術を評価"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "忙しい人"
+    ],
+    "not_fit_for": [],
+    "best_patient_profile": "技術力を重視し、待たずに診療を希望する患者",
+    "not_recommended_profile": "丁寧な説明を求める患者や子ども連れの親",
+    "referral_to": [
+      "忙しい人",
+      "技術力重視の人",
+      "待ち時間を気にしない人"
+    ],
+    "not_referral_to": [
+      "丁寧な説明を求める人",
+      "子ども連れの親"
+    ],
+    "ai_summary": "この医院は、忙しい方や待ち時間を気にしない方に向いています。一方、丁寧な説明や子ども対応を重視する方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "信頼の技術でスピーディーな診療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ9SvUzW2PAGARRHvTn9hmrNM": {
+    "place_id": "ChIJ9SvUzW2PAGARRHvTn9hmrNM",
+    "name": "加藤歯科医院",
+    "address": "神戸市兵庫区東山町１丁目１２−２３ ウエストパークビル 3F",
+    "lat": 34.68378680000001,
+    "lng": 135.1638949,
+    "phone": "078-531-8810",
+    "url": "https://itp.ne.jp/info/281526949300000899/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E8%97%A4%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ9SvUzW2PAGARRHvTn9hmrNM",
+    "rating": 4.7,
+    "total_reviews": 3,
+    "business_hours": [
+      "月曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "火曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "水曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "木曜日: 定休日",
+      "金曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "土曜日: 10時00分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 40,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 40,
+    "potential": 48,
+    "reputation_tags": [
+      "良い先生",
+      "長年通院",
+      "信頼できる"
+    ],
+    "reputation_summary": "数年間通っている患者が良い先生だと評価しています。",
+    "phrases": [
+      "数年間お世話になっております",
+      "とても良い先生だと思います"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 80,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "数年間お世話になっている",
+      "とても良い先生だと思います"
+    ],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "定期的に通える方",
+    "not_recommended_profile": "時間が不規則な方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "高齢者",
+      "定期的に通える人"
+    ],
+    "not_referral_to": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "ai_summary": "この医院は長期間通える方や、歯科医が苦手な方に向いています。一方、急な対応を希望する方には他院を検討することをお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "信頼できる歯科医",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJOfXei2ePAGARpG3ZfGqUDE0": {
+    "place_id": "ChIJOfXei2ePAGARpG3ZfGqUDE0",
+    "name": "平松歯科医院",
+    "address": "神戸市兵庫区夢野町３丁目１０−１４",
+    "lat": 34.6847874,
+    "lng": 135.1572676,
+    "phone": "078-521-8018",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B9%B3%E6%9D%BE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJOfXei2ePAGARpG3ZfGqUDE0",
+    "rating": 3,
+    "total_reviews": 3,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時30分～18時00分",
+      "火曜日: 9時00分～13時00分, 14時30分～18時00分",
+      "水曜日: 定休日",
+      "木曜日: 9時00分～13時00分, 14時30分～18時00分",
+      "金曜日: 9時00分～13時00分, 14時30分～18時00分",
+      "土曜日: 9時00分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ4bacmQ6PAGARf9qiGB_dzD8": {
+    "place_id": "ChIJ4bacmQ6PAGARf9qiGB_dzD8",
+    "name": "高速神戸 奥田歯科医院",
+    "address": "神戸市中央区橘通４丁目２−６ セントラルハイツ神戸橘通 101号室",
+    "lat": 34.6803445,
+    "lng": 135.1731928,
+    "phone": "078-599-7919",
+    "url": "http://www.odo-kobe.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%80%9F%E7%A5%9E%E6%88%B8%20%E5%A5%A5%E7%94%B0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ4bacmQ6PAGARf9qiGB_dzD8",
+    "rating": 4.3,
+    "total_reviews": 81,
+    "business_hours": [
+      "月曜日: 9時00分～17時30分",
+      "火曜日: 9時00分～17時30分",
+      "水曜日: 9時00分～17時30分",
+      "木曜日: 9時00分～17時30分",
+      "金曜日: 9時00分～17時30分",
+      "土曜日: 9時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 80,
+    "reputation_score": 20,
+    "doctor_score": 18,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 12,
+    "google_bonus": 5,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 73,
+    "reputation_tags": [
+      "清潔感",
+      "急患対応",
+      "子ども歯科"
+    ],
+    "reputation_summary": "急患対応や清潔感が高く、子ども連れでも安心して通える医院です。",
+    "phrases": [
+      "ホワイトニングは自費で45000円でした",
+      "院内はクリーンで清掃は重視されており、見た目を意識している印象がある",
+      "怖がりの息子共々お世話になっています",
+      "奥歯が縦に割れて困ったところ、急患対応して下さいました",
+      "いろいろと、歯科医院に通ってきましたが、どこもイマイチで、こちらにお世話になって初めて、爽快な気分で生活出来るようになりました"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 75,
+      "清潔感": 90,
+      "優しさ": 85,
+      "子ども対応": 80,
+      "痛みへの配慮": 75,
+      "待ち時間": 70
+    },
+    "doctor_name": "奥田浩規",
+    "doctor_career": "愛知学院大学歯学部卒業後、開業",
+    "doctor_evidence": [
+      "急患対応をしてくれる評価がある",
+      "子供も安心して通えると評判"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "奥歯の割れ"
+      ],
+      "parts": [
+        "奥歯"
+      ],
+      "techniques": [
+        "急患対応"
+      ]
+    },
+    "equipment_evidence": [
+      "清潔感を保つための院内整備が行き届いている",
+      "公式サイトに施設基準が記載されている"
+    ],
+    "transparency_evidence": [
+      "治療内容や価格が公式サイトに明記されている"
+    ],
+    "activity_evidence": [
+      "お口の健康応援月間や体験会を実施している",
+      "地域に密着した活動を展開している"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフ教育が充実している環境です。",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "家族で安心して通える歯科医院を求める方",
+    "not_recommended_profile": "夜遅くしか通えない方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "安心できる環境を求める人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駅近を重視する人"
+    ],
+    "ai_summary": "この医院は、急患対応に優れ、清潔感があり子連れでも安心です。一方、遅い時間しか通えない方には不向きです。",
+    "notable": true,
+    "notable_reason": "急患対応がしっかりしており、清潔感が高い医院です。",
+    "catchphrase": "安心して通える歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJaYA_UA2PAGARS-GDfW2GyCI": {
+    "place_id": "ChIJaYA_UA2PAGARS-GDfW2GyCI",
+    "name": "津島歯科医院",
+    "address": "神戸市兵庫区荒田町１丁目１０−３",
+    "lat": 34.680831,
+    "lng": 135.168669,
+    "phone": "078-511-7341",
+    "url": "https://www.tsushima-dental.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B4%A5%E5%B3%B6%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJaYA_UA2PAGARS-GDfW2GyCI",
+    "rating": 4,
+    "total_reviews": 4,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 70,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 10,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 20,
+    "current": 70,
+    "potential": 68,
+    "reputation_tags": [
+      "優しさ",
+      "技術力",
+      "良心的"
+    ],
+    "reputation_summary": "優しい対応と良心的な治療で患者に信頼される医院です。",
+    "phrases": [
+      "先生筆頭に、皆様人あたりが柔和で親切",
+      "どこの歯医者でも　お手上げな前歯の虫歯を根気よく治療し、根っこを残して　差し歯にまでしてくれました",
+      "お店は古い感じですが、悪い所だけ治してくれる　良心的な歯医者さんだと思います"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 80,
+      "清潔感": 60,
+      "優しさ": 90,
+      "子ども対応": 0,
+      "痛みへの配慮": 80,
+      "待ち時間": 0
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "虫歯を根気よく治療する技術があります。",
+      "柔和で親切な対応が特徴です。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "前歯の虫歯治療"
+      ],
+      "parts": [
+        "前歯"
+      ],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "公式サイトに設備情報が記載されていません。"
+    ],
+    "transparency_evidence": [
+      "治療方針について患者に説明することを重視しています。"
+    ],
+    "activity_evidence": [
+      "地域貢献や健康促進に取り組んでいます。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "歯科恐怖症",
+      "虫歯治療"
+    ],
+    "not_fit_for": [
+      "駐車場必須",
+      "急患希望"
+    ],
+    "best_patient_profile": "虫歯治療を優しく受けたい方に最適です。",
+    "not_recommended_profile": "急ぎの治療が必要な方には向いていません。",
+    "referral_to": [
+      "歯医者が怖い人",
+      "親切な医師を求める人",
+      "虫歯を持つ高齢者"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の方"
+    ],
+    "ai_summary": "この医院は、技術力と優しさを重視した治療を受けたい方に向いています。一方、急患や特定の医療設備を求める方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "患者の歯を大切にする姿勢が評価されているため。",
+    "catchphrase": "健康で幸せな歯を目指す",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ-wE_KW2PAGARYO_ssxK1YfI": {
+    "place_id": "ChIJ-wE_KW2PAGARYO_ssxK1YfI",
+    "name": "佐藤歯科医院",
+    "address": "神戸市兵庫区荒田町２丁目１４−１０",
+    "lat": 34.6828801,
+    "lng": 135.1678461,
+    "phone": "078-511-2678",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BD%90%E8%97%A4%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ-wE_KW2PAGARYO_ssxK1YfI",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ2Xx6_HKPAGAR0_sgur5rWc0": {
+    "place_id": "ChIJ2Xx6_HKPAGAR0_sgur5rWc0",
+    "name": "鈴江歯科クリニック",
+    "address": "神戸市兵庫区下沢通１丁目４−１７ カサミナトガワ ２階",
+    "lat": 34.67822,
+    "lng": 135.16623,
+    "phone": "078-577-7087",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%88%B4%E6%B1%9F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJ2Xx6_HKPAGAR0_sgur5rWc0",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJkwlsZw2PAGARF6t-ObD3ctI": {
+    "place_id": "ChIJkwlsZw2PAGARF6t-ObD3ctI",
+    "name": "くれもと歯科医院",
+    "address": "神戸市兵庫区荒田町１丁目５−８ 2F",
+    "lat": 34.68128730000001,
+    "lng": 135.1694639,
+    "phone": "078-531-0600",
+    "url": "http://www.kuremoto-dental.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8F%E3%82%8C%E3%82%82%E3%81%A8%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJkwlsZw2PAGARF6t-ObD3ctI",
+    "rating": 4,
+    "total_reviews": 65,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "火曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "水曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "土曜日: 9時30分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 52,
+    "reputation_score": 10,
+    "doctor_score": 15,
+    "equipment_score": 10,
+    "transparency_score": 5,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 15,
+    "current": 50,
+    "potential": 56,
+    "reputation_tags": [
+      "高圧的",
+      "優しさ不足",
+      "丁寧な治療"
+    ],
+    "reputation_summary": "対応に高圧的な面あり、治療の丁寧さは評価されているが、患者への優しさに欠けるとの声も。",
+    "phrases": [
+      "最近お世話になっています",
+      "初めて行きましたが先生は高圧的、衛生士さんに対しても言い方もキツく、患者にも口が悪くクリーニングも1度で終わらすつもりはなく小分けで通わすスタイルでした",
+      "全体的にテキパキしていて、気持ちがいいです",
+      "虫歯だらけでしたが、いつも院長はじめスタッフの説明と治療が丁寧でした",
+      "家族丸ごとお世話になっています"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 75,
+      "説明力": 70,
+      "清潔感": 70,
+      "優しさ": 40,
+      "子ども対応": 50,
+      "痛みへの配慮": 60,
+      "待ち時間": 0
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "丁寧な説明と治療が評価されている",
+      "虫歯治療での丁寧さが好評"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 0,
+      "患者目線": 2,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "院内感染防止に取り組んでいる",
+      "オンライン資格確認システム導入を推進"
+    ],
+    "transparency_evidence": [
+      "無料メール相談を提供している"
+    ],
+    "activity_evidence": [
+      "感染防止対策を実施",
+      "地域社会への貢献を重視"
+    ],
+    "workplace_stars": {
+      "教育制度": 3,
+      "働きやすさ": 2,
+      "衛生士定着率": 3,
+      "スタッフ教育": 3
+    },
+    "workplace_quality": "スタッフの教育に力を入れている医院",
+    "fit_for": [
+      "インプラント",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "優しさを重視する人",
+      "小さな子どもがいる家庭"
+    ],
+    "best_patient_profile": "専門的な治療を希望する高齢者",
+    "not_recommended_profile": "優しさを求める患者や小さな子ども連れの方",
+    "referral_to": [
+      "インプラント希望者",
+      "高齢者",
+      "予防歯科希望者"
+    ],
+    "not_referral_to": [
+      "優しさを重視する人",
+      "小さな子どもがいる家庭"
+    ],
+    "ai_summary": "この医院は、インプラントや専門的な治療を求める方に向いています。しかし、スタッフの対応に優しさが求められる方には他院を検討した方が良いでしょう。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "丁寧な治療が武器",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ4SrBynKPAGARd-_WK2INTeY": {
+    "place_id": "ChIJ4SrBynKPAGARd-_WK2INTeY",
+    "name": "小野歯科医院",
+    "address": "神戸市兵庫区福原町２９−６ 2階",
+    "lat": 34.6798578,
+    "lng": 135.1681219,
+    "phone": "078-575-9270",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E9%87%8E%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ4SrBynKPAGARd-_WK2INTeY",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJJ2mYaG2PAGARKOQPRKbtM8M": {
+    "place_id": "ChIJJ2mYaG2PAGARKOQPRKbtM8M",
+    "name": "宗歯科クリニック",
+    "address": "神戸市兵庫区荒田町２丁目１８−２",
+    "lat": 34.6809767,
+    "lng": 135.166731,
+    "phone": "078-579-0678",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%97%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJJ2mYaG2PAGARKOQPRKbtM8M",
+    "rating": 4.3,
+    "total_reviews": 4,
+    "business_hours": [
+      "月曜日: 9時30分～12時30分, 14時30分～18時30分",
+      "火曜日: 9時30分～12時30分, 14時30分～18時30分",
+      "水曜日: 9時30分～12時30分, 14時30分～18時30分",
+      "木曜日: 9時30分～12時30分, 14時30分～18時30分",
+      "金曜日: 9時30分～12時30分, 14時30分～18時30分",
+      "土曜日: 9時30分～12時30分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 45,
+    "reputation_score": 15,
+    "doctor_score": 20,
+    "equipment_score": 0,
+    "transparency_score": 10,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 10,
+    "current": 45,
+    "potential": 48,
+    "reputation_tags": [
+      "説明が明確",
+      "親切な対応",
+      "定期的なケア"
+    ],
+    "reputation_summary": "先生が話をよく聞き、説明も分かりやすいと好評です。",
+    "phrases": [
+      "会計の時にうがい薬と小さい歯磨き粉くれるのですが、両方サンプルで無料でくれたのかと思って明細見たら、うがい薬は請求されてた！",
+      "治療してくださる先生は話をしっかり聞いて頂き　説明もわかりやすいので安心できます",
+      "定期的に歯石、歯のクリーニングしていただく歯医者さん"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 85,
+      "清潔感": 0,
+      "優しさ": 80,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "治療の説明が分かりやすい",
+      "患者の話をしっかり聞く"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [
+      "会計時の明細が確認できる"
+    ],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "忙しい人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "定期的な歯科ケアを求める方",
+    "not_recommended_profile": "急患や時間が無い方",
+    "referral_to": [
+      "高齢者の方",
+      "定期的に通える人",
+      "親切な医療を希望する人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急な治療が必要な人"
+    ],
+    "ai_summary": "この医院は、丁寧な説明と優しい対応を求める方に向いています。一方、急な治療や時間に余裕がない方には別の医院をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "安心の歯科治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJmQclrgyPAGARjGI2A9Sbioo": {
+    "place_id": "ChIJmQclrgyPAGARjGI2A9Sbioo",
+    "name": "徳丸歯科医院",
+    "address": "神戸市兵庫区中道通１丁目１−８",
+    "lat": 34.6774347,
+    "lng": 135.1685499,
+    "phone": "078-577-1118",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E4%B8%B8%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJmQclrgyPAGARjGI2A9Sbioo",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 15時00分～18時30分",
+      "火曜日: 9時30分～13時00分, 15時00分～18時30分",
+      "水曜日: 9時30分～13時00分, 15時00分～18時30分",
+      "木曜日: 定休日",
+      "金曜日: 9時30分～13時00分, 15時00分～18時30分",
+      "土曜日: 9時30分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJYfVayw2PAGARQHNNNrZ1P58": {
+    "place_id": "ChIJYfVayw2PAGARQHNNNrZ1P58",
+    "name": "まなべ歯科クリニック",
+    "address": "Japan",
+    "lat": 34.6806612,
+    "lng": 135.171941,
+    "phone": "078-578-7072",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%AA%E3%81%B9%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJYfVayw2PAGARQHNNNrZ1P58",
+    "rating": 5,
+    "total_reviews": 1,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJYSrGLgCPAGARU25vKKfuzts": {
+    "place_id": "ChIJYSrGLgCPAGARU25vKKfuzts",
+    "name": "うだ歯科医院",
+    "address": "神戸市兵庫区西橘通１丁目１−１ ファラン神戸ビル 3階",
+    "lat": 34.6801656,
+    "lng": 135.1728108,
+    "phone": "078-577-4433",
+    "url": "https://www.kennydent.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%81%A0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJYSrGLgCPAGARU25vKKfuzts",
+    "rating": 5,
+    "total_reviews": 2,
+    "business_hours": [
+      "月曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "火曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "水曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "木曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "金曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "土曜日: 10時00分～13時00分, 14時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 75,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "優しいスタッフ",
+      "安心の雰囲気",
+      "技術力高い"
+    ],
+    "reputation_summary": "笑顔のスタッフによる安心感のある医院です。リラックスして治療が受けられます。",
+    "phrases": [
+      "スタッフの皆さんがいつも笑顔で挨拶してくださり、医院全体があたたかく安心できる雰囲気です",
+      "知人の紹介で受診させていただきました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 75,
+      "清潔感": 85,
+      "優しさ": 90,
+      "子ども対応": 70,
+      "痛みへの配慮": 80,
+      "待ち時間": 60
+    },
+    "doctor_name": "宇田 哲章",
+    "doctor_career": "2002年大阪歯科大学卒業",
+    "doctor_evidence": [
+      "治療技術の向上を重視しています。",
+      "患者との相談を大切にしています。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "骨造成"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "即日インプラント"
+      ]
+    },
+    "equipment_evidence": [
+      "最新の治療機器を導入しています。",
+      "CTレントゲン装置があるため精密な診断が可能です。"
+    ],
+    "transparency_evidence": [
+      "料金表や医療費控除の情報が公開されています。"
+    ],
+    "activity_evidence": [
+      "定期的に診療カレンダーを更新しています。",
+      "患者とのコミュニケーションを重視しています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "働きやすい職場環境が整っています。",
+    "fit_for": [
+      "高齢者",
+      "インプラント",
+      "痛みが苦手な人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望",
+      "駐車場必須"
+    ],
+    "best_patient_profile": "安心して治療を受けたい方",
+    "not_recommended_profile": "夜間診療を希望する方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "初めての方",
+      "インプラント希望者"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の方"
+    ],
+    "ai_summary": "この医院は、リラックスできる雰囲気で治療を受けたい方に向いています。一方、夜間の診療を希望する方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "院内の温かい雰囲気と技術力が高く、自信を持って薦められます。",
+    "catchphrase": "笑顔で安心の歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJT50ZyA6PAGAR1-uUAitamV0": {
+    "place_id": "ChIJT50ZyA6PAGAR1-uUAitamV0",
+    "name": "中村歯科・口腔外科",
+    "address": "神戸市中央区中央区多聞通５丁目１−１４",
+    "lat": 34.679775,
+    "lng": 135.173824,
+    "phone": "078-371-0280",
+    "url": "https://www.dental-iiha.com/d0044624.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E6%9D%91%E6%AD%AF%E7%A7%91%E3%83%BB%E5%8F%A3%E8%85%94%E5%A4%96%E7%A7%91&query_place_id=ChIJT50ZyA6PAGAR1-uUAitamV0",
+    "rating": 4.8,
+    "total_reviews": 15,
+    "business_hours": [
+      "月曜日: 10時00分～13時00分, 15時00分～18時30分",
+      "火曜日: 10時00分～13時00分, 15時00分～18時30分",
+      "水曜日: 10時00分～13時00分, 15時00分～18時30分",
+      "木曜日: 定休日",
+      "金曜日: 10時00分～13時00分, 15時00分～18時30分",
+      "土曜日: 10時00分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 77,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "清潔感",
+      "技術力",
+      "良心的"
+    ],
+    "reputation_summary": "清潔な院内と優れた口腔外科技術で好評。無駄な通院を避けた親切な対応が魅力。",
+    "phrases": [
+      "院内清潔で、口腔外科の先生の腕は素晴らしいです",
+      "同じ並びの歯科医みたいに、無駄に通院させないし、とても親切で良心的です",
+      "トイレは、180度の対面で乗移るらないといけませんが、可能な方なら"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 90,
+      "説明力": 80,
+      "清潔感": 95,
+      "優しさ": 90,
+      "子ども対応": 0,
+      "痛みへの配慮": 90,
+      "待ち時間": 0
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "口コミで腕前が称賛されています。",
+      "痛みへの配慮があると評価されています。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "院内感染防止対策が整っています。",
+      "CAD/CAMシステムを導入しています。"
+    ],
+    "transparency_evidence": [
+      "明細書発行体制が整っています。"
+    ],
+    "activity_evidence": [
+      "地域への訪問診療を行っています。",
+      "情報通信機器による診療を実施しています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "忙しい人",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "痛みに配慮し、優れた治療を求める方",
+    "not_recommended_profile": "夜間診療が必要な方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "高齢者",
+      "忙しい人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望"
+    ],
+    "ai_summary": "この医院は清潔で技術力が高く、特に痛みへの配慮に優れています。一方、夜間や急患の対応を希望する方には他院を検討することをお勧めします。",
+    "notable": true,
+    "notable_reason": "高い技術と親切な対応が際立っています。",
+    "catchphrase": "安心して通える歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ-xykzQ6PAGAR48B9c1oYkbo": {
+    "place_id": "ChIJ-xykzQ6PAGAR48B9c1oYkbo",
+    "name": "Matsui Dental Clinic",
+    "address": "福興ビル, 5-chōme-1−5-1F Tamondōri, KobeChuo Ward",
+    "lat": 34.679756,
+    "lng": 135.174507,
+    "phone": "078-381-6484",
+    "url": "http://www.matsuidc.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Matsui%20Dental%20Clinic&query_place_id=ChIJ-xykzQ6PAGAR48B9c1oYkbo",
+    "rating": 4.3,
+    "total_reviews": 12,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "火曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "水曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時00分～13時00分, 14時30分～19時00分",
+      "土曜日: 9時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 82,
+    "reputation_score": 25,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 25,
+    "current": 80,
+    "potential": 78,
+    "reputation_tags": [
+      "親身な対応",
+      "高技術",
+      "清潔感"
+    ],
+    "reputation_summary": "技術力と親切な対応が患者から高く評価されています。",
+    "phrases": [
+      "初診時に親身に話も聞いてくれるし、痛みにも細かく配慮してもらえて良かったです",
+      "⭐️6.3 約2年前ぐらいに大掛かりな事をして頂きましたが、私の見解で恐縮ですが、技術はとても良いと思います",
+      "銀色の詰め物が取れて急遽電話を入れて行きました",
+      "処置室は奇麗な個室、歯科衛生士は笑顔を振りまくタイプではありませんが凄腕で、",
+      "綺麗ですし、主人と結婚前から利用しています"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 90,
+      "説明力": 80,
+      "清潔感": 100,
+      "優しさ": 80,
+      "子ども対応": 0,
+      "痛みへの配慮": 85,
+      "待ち時間": 0
+    },
+    "doctor_name": "松井",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "患者のニーズに合わせた治療計画を提供",
+      "丁寧なカウンセリングを実施"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 4,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "治療は最新の機器で行われている",
+      "清潔で整った処置室がある"
+    ],
+    "transparency_evidence": [
+      "料金や治療内容についての詳しい説明がある"
+    ],
+    "activity_evidence": [
+      "学べる環境の提供や勉強会が存在する",
+      "院外研修の参加を奨励している"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "教育制度が整った働きやすい環境",
+    "fit_for": [
+      "高齢者",
+      "インプラント",
+      "虫歯治療が必要な人"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "子ども連れ",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "心配なく治療を受けたい患者",
+    "not_recommended_profile": "急いで治療を受けたい患者",
+    "referral_to": [
+      "歯医者が怖い人",
+      "高齢者",
+      "虫歯治療が必要な人"
+    ],
+    "not_referral_to": [
+      "急患希望する人",
+      "夜しか行けない人"
+    ],
+    "ai_summary": "この医院は、痛みに配慮した丁寧な治療を提供したい方に向いています。一方、急いで治療を受けたい方には他院を検討されることをお勧めします。",
+    "notable": true,
+    "notable_reason": "信頼性の高い治療と患者を大切にする医院であるため",
+    "catchphrase": "トータルケアでお口の健康を",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJwQ0jqjSPAGARDud0CHBuXP4": {
+    "place_id": "ChIJwQ0jqjSPAGARDud0CHBuXP4",
+    "name": "おおかど歯科医院",
+    "address": "神戸市中央区中町通３丁目１−８ 101",
+    "lat": 34.6785235,
+    "lng": 135.1752326,
+    "phone": "078-367-5770",
+    "url": "https://dcookado.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%8A%E3%81%8B%E3%81%A9%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJwQ0jqjSPAGARDud0CHBuXP4",
+    "rating": 3.8,
+    "total_reviews": 16,
+    "business_hours": [
+      "月曜日: 9時30分～12時30分, 14時00分～18時00分",
+      "火曜日: 9時30分～12時30分, 14時00分～18時00分",
+      "水曜日: 定休日",
+      "木曜日: 9時30分～12時30分, 14時00分～18時00分",
+      "金曜日: 9時30分～12時30分, 14時00分～18時00分",
+      "土曜日: 9時30分～16時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 75,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "待ち時間が少ない",
+      "設備充実",
+      "痛みへの配慮"
+    ],
+    "reputation_summary": "予約制で待ち時間が少なく、説明が丁寧で大満足の声が多いです。",
+    "phrases": [
+      "当日の予約にもかかわらず、対応して頂きました",
+      "予約制で待ち時間も少なく、設備の充実と院長の的確な説明で大満足です",
+      "64歳の私が、諦めていた矯正に挑戦できました！",
+      "いつもお世話になってます"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 85,
+      "清潔感": 90,
+      "優しさ": 85,
+      "子ども対応": 80,
+      "痛みへの配慮": 85,
+      "待ち時間": 90
+    },
+    "doctor_name": "大角 俊夫",
+    "doctor_career": "徳島大学歯学部卒業後、神戸市内の医院に勤務し開業。",
+    "doctor_evidence": [
+      "丁寧な説明が評価されている",
+      "痛みへの配慮がしっかりしている"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "医療器具の消毒滅菌に注力している",
+      "充実した設備が整っているとの評価がある"
+    ],
+    "transparency_evidence": [
+      "わかりやすい説明を心がけている医院方針。"
+    ],
+    "activity_evidence": [
+      "子ども向けの教育や健康指導に注力。",
+      "リンパケアなど付加価値のあるサービスを提供。"
+    ],
+    "workplace_stars": {
+      "教育制度": 5,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "未経験者にも教育制度が整った職場",
+    "fit_for": [
+      "子ども",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "痛みを避けながら、安心して治療を受けたい方",
+    "not_recommended_profile": "忙しくて日中しか通えない方",
+    "referral_to": [
+      "子どもがいる人",
+      "歯医者が怖い人",
+      "高齢者"
+    ],
+    "not_referral_to": [
+      "急患希望の人",
+      "夜しか通えない人"
+    ],
+    "ai_summary": "おおかど歯科医院は、痛みを避けたい方や子どもを連れた家族に適した医院です。一方、急な予約が必要な方や夜間しか通えない方には他院を検討することをお勧めします。",
+    "notable": true,
+    "notable_reason": "患者への丁寧な対応と痛みへの配慮が際立っています。",
+    "catchphrase": "安心・丁寧な歯科治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJUSjm-wiPAGARNBUM8jbM8hg": {
+    "place_id": "ChIJUSjm-wiPAGARNBUM8jbM8hg",
+    "name": "にしだ矯正歯科",
+    "address": "神戸市中央区古湊通１丁目２−８ 103",
+    "lat": 34.6781642,
+    "lng": 135.1755793,
+    "phone": "078-367-6252",
+    "url": "http://nodc.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%AB%E3%81%97%E3%81%A0%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91&query_place_id=ChIJUSjm-wiPAGARNBUM8jbM8hg",
+    "rating": 5,
+    "total_reviews": 3,
+    "business_hours": [
+      "月曜日: 定休日",
+      "火曜日: 15時00分～21時00分",
+      "水曜日: 13時00分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 10時00分～19時00分",
+      "土曜日: 10時00分～18時00分",
+      "日曜日: 10時00分～15時00分"
+    ],
+    "genre": "一般歯科",
+    "total_score": 77,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 12,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 27,
+    "current": 77,
+    "potential": 78,
+    "reputation_tags": [
+      "安心感",
+      "患者中心",
+      "専門性"
+    ],
+    "reputation_summary": "安心して通える矯正専門医院。丁寧な説明と患者思いの姿勢が高評価。",
+    "phrases": [],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 85,
+      "説明力": 90,
+      "清潔感": 80,
+      "優しさ": 88,
+      "子ども対応": 75,
+      "痛みへの配慮": 80,
+      "待ち時間": 70
+    },
+    "doctor_name": "西田 吾朗",
+    "doctor_career": "長年の矯正歯科における専門医",
+    "doctor_evidence": [
+      "矯正治療の認定医",
+      "患者への丁寧な対応が高評価"
+    ],
+    "doctor_stars": {
+      "専門性": 5,
+      "研究実績": 4,
+      "患者目線": 5,
+      "経験": 5
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "叢生",
+        "上顎前突"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "リンガル矯正",
+        "透明マウスピース矯正"
+      ]
+    },
+    "equipment_evidence": [
+      "最新の矯正装置を使用",
+      "快適な治療環境の提供"
+    ],
+    "transparency_evidence": [
+      "詳細な料金表と治療内容の説明あり"
+    ],
+    "activity_evidence": [
+      "定期的な訪問歯科診療を実施",
+      "地域貢献に力を入れている"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 5,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフ教育が充実した環境",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "忙しい人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "矯正治療を希望する安心感重視の患者",
+    "not_recommended_profile": "夜の診療を希望する患者",
+    "referral_to": [
+      "小さな子どもがいる人",
+      "安心して通いたい人",
+      "看護・介護職の方"
+    ],
+    "not_referral_to": [
+      "急な治療が必要な人",
+      "夜9時以降しか通えない人"
+    ],
+    "ai_summary": "この医院は矯正治療に安心感を求める方に向いています。一方、夜間のみ通院希望の方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "患者とのコミュニケーションを重視した高評価の矯正専門医院",
+    "catchphrase": "安心の矯正治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ5V02LQSPAGAR62XC_lgXHpU": {
+    "place_id": "ChIJ5V02LQSPAGAR62XC_lgXHpU",
+    "name": "（有）デンタルラボア・クライス",
+    "address": "神戸市中央区相生町１丁目１−１６",
+    "lat": 34.6826016,
+    "lng": 135.1799182,
+    "phone": "078-371-6262",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%EF%BC%88%E6%9C%89%EF%BC%89%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%A9%E3%83%9C%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B9&query_place_id=ChIJ5V02LQSPAGAR62XC_lgXHpU",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJNSVCuQiPAGAR6VahYNIFMNU": {
+    "place_id": "ChIJNSVCuQiPAGAR6VahYNIFMNU",
+    "name": "林田歯科医院",
+    "address": "神戸市中央区多聞通３丁目３−４ サンヴィラ多聞",
+    "lat": 34.67980599999999,
+    "lng": 135.176596,
+    "phone": "078-341-5740",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9E%97%E7%94%B0%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJNSVCuQiPAGAR6VahYNIFMNU",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ21iLtAWPAGARX65jLPWu1iY": {
+    "place_id": "ChIJ21iLtAWPAGARX65jLPWu1iY",
+    "name": "村上歯科医院",
+    "address": "神戸市中央区元町通６丁目７−１０",
+    "lat": 34.6833655,
+    "lng": 135.179739,
+    "phone": "078-351-3328",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%91%E4%B8%8A%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJ21iLtAWPAGARX65jLPWu1iY",
+    "rating": 1,
+    "total_reviews": 1,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJXYBZuAiPAGARwMrqPEwgQ4c": {
+    "place_id": "ChIJXYBZuAiPAGARwMrqPEwgQ4c",
+    "name": "医療法人社団 松村歯科医院",
+    "address": "神戸市中央区多聞通３丁目３−７ コウベセンタービル 2階",
+    "lat": 34.6798242,
+    "lng": 135.1764374,
+    "phone": "078-361-1833",
+    "url": "http://matsumurasika.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%BB%E7%99%82%E6%B3%95%E4%BA%BA%E7%A4%BE%E5%9B%A3%20%E6%9D%BE%E6%9D%91%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJXYBZuAiPAGARwMrqPEwgQ4c",
+    "rating": 4.6,
+    "total_reviews": 117,
+    "business_hours": [
+      "月曜日: 9時30分～18時00分",
+      "火曜日: 9時30分～18時00分",
+      "水曜日: 9時30分～18時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時30分～18時00分",
+      "土曜日: 9時00分～13時00分, 14時30分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 83,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 8,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "優しい治療",
+      "丁寧な説明",
+      "安心感"
+    ],
+    "reputation_summary": "優しいスタッフと安心の治療が評判の医院です。",
+    "phrases": [
+      "いつもお世話になっている歯医者さんです",
+      "家の近くということもあり利用させていただいてます",
+      "歯科衛生士さんがとても優しく、説明も丁寧で安心して施術を受けられました",
+      "いつも丁寧に対応してもらってます",
+      "親不知の抜歯に悩み数年、ようやく決心して抜きました"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 90,
+      "清潔感": 85,
+      "優しさ": 95,
+      "子ども対応": 75,
+      "痛みへの配慮": 90,
+      "待ち時間": 70
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "患者に寄り添った治療方針",
+      "痛みの少ない治療を提供"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "親不知の抜歯"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "無痛治療",
+        "精密根管治療"
+      ]
+    },
+    "equipment_evidence": [
+      "最新機器の導入に努めている",
+      "高度な治療が可能な環境が整っている"
+    ],
+    "transparency_evidence": [
+      "しっかりしたカウンセリングで情報提供している"
+    ],
+    "activity_evidence": [
+      "患者との信頼関係を重視",
+      "定期検診を充実させている"
+    ],
+    "workplace_stars": {
+      "教育制度": 3,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "優しいスタッフが多い職場です。",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者",
+      "歯科恐怖症",
+      "痛みを恐れる人"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "怖がりな方でも安心して通える医院を求める人",
+    "not_recommended_profile": "急いで治療を終えたい方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "痛みが苦手な人"
+    ],
+    "not_referral_to": [
+      "急患者希望",
+      "夜9時以降しか通えない人"
+    ],
+    "ai_summary": "この医院は、歯医者が怖い方や痛みを恐れる方に向いています。一方、急患や夜間診療を希望する方には他院を検討することをお勧めします。",
+    "notable": true,
+    "notable_reason": "患者に優しいアプローチが特長の医院です。",
+    "catchphrase": "安心して通える歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJM0HIqAiPAGARbjMb1cWLugU": {
+    "place_id": "ChIJM0HIqAiPAGARbjMb1cWLugU",
+    "name": "河畑歯科医院",
+    "address": "神戸市中央区多聞通３丁目２−１６",
+    "lat": 34.68040239999999,
+    "lng": 135.1772649,
+    "phone": "078-341-1018",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B2%B3%E7%95%91%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJM0HIqAiPAGARbjMb1cWLugU",
+    "rating": 5,
+    "total_reviews": 1,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJjZmxRgePAGARzlqQxZ-oD3M": {
+    "place_id": "ChIJjZmxRgePAGARzlqQxZ-oD3M",
+    "name": "岸本歯科クリニック",
+    "address": "神戸市中央区東川崎町１丁目７−４ 階",
+    "lat": 34.6795785,
+    "lng": 135.1816293,
+    "phone": "078-360-0540",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B2%B8%E6%9C%AC%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJjZmxRgePAGARzlqQxZ-oD3M",
+    "rating": 4,
+    "total_reviews": 6,
+    "business_hours": [
+      "月曜日: 9時30分～13時30分, 15時00分～20時00分",
+      "火曜日: 9時30分～13時30分, 15時00分～20時00分",
+      "水曜日: 9時30分～13時30分, 15時00分～20時00分",
+      "木曜日: 9時30分～13時30分, 15時00分～20時00分",
+      "金曜日: 9時30分～13時30分, 15時00分～20時00分",
+      "土曜日: 9時30分～14時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 42,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 2,
+    "clinic_score": 0,
+    "current": 40,
+    "potential": 48,
+    "reputation_tags": [
+      "優しい治療",
+      "丁寧な説明",
+      "予約対応"
+    ],
+    "reputation_summary": "岸本歯科クリニックは優しい先生による丁寧な治療が評判です。",
+    "phrases": [
+      "先生は声が小さくて物静かな方、とても優しくて治療も丁寧です",
+      "ﾀﾞｲﾔﾆｯｾｲﾋﾞﾙの7階にある歯科医院",
+      "当日にも関わらず、予約にねじ込んで診てくださいました"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 80,
+      "清潔感": 0,
+      "優しさ": 100,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 70
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "優しく丁寧な治療が評判です。",
+      "声が小さく物静かな方。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 0,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "忙しい人",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望"
+    ],
+    "best_patient_profile": "優しさを求める患者",
+    "not_recommended_profile": "急いで治療を希望する患者",
+    "referral_to": [
+      "歯医者が怖い人",
+      "忙しい人",
+      "優しさを求める人"
+    ],
+    "not_referral_to": [
+      "急患希望",
+      "駅近を優先する人"
+    ],
+    "ai_summary": "岸本歯科クリニックは丁寧で優しい治療を求める方に向いています。一方、急いで治療を希望する方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "優しさ溢れる歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJx6Bvkf-PAGARXPVj2nOtf8w": {
+    "place_id": "ChIJx6Bvkf-PAGARXPVj2nOtf8w",
+    "name": "神戸っこ小児歯科・矯正歯科診療室",
+    "address": "神戸市中央区多聞通３丁目３−８ 河本ビル 1階",
+    "lat": 34.67990489999999,
+    "lng": 135.1763928,
+    "phone": "078-361-1833",
+    "url": "https://kodomo.matsumurasika.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E3%81%A3%E3%81%93%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91%E3%83%BB%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91%E8%A8%BA%E7%99%82%E5%AE%A4&query_place_id=ChIJx6Bvkf-PAGARXPVj2nOtf8w",
+    "rating": 4.9,
+    "total_reviews": 11,
+    "business_hours": [
+      "月曜日: 10時00分～12時30分, 13時30分～18時00分",
+      "火曜日: 10時00分～12時30分, 13時30分～18時00分",
+      "水曜日: 10時00分～12時30分, 13時30分～18時00分",
+      "木曜日: 定休日",
+      "金曜日: 10時00分～12時30分, 13時30分～18時00分",
+      "土曜日: 9時30分～13時00分, 14時30分～18時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 77,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 2,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "清潔感がある",
+      "子どもに優しい",
+      "スタッフの対応が良い"
+    ],
+    "reputation_summary": "丁寧な治療と明るい雰囲気で、子どもが安心して通える歯科医院です。",
+    "phrases": [
+      "発達障害があり、不安が強い子で、以前別の歯科医院で無理矢理治療され、トラウマになり、少し遠くですがこちらの小児歯科に辿り着きました",
+      "いつも定期検診でお世話になっております",
+      "院内は清潔で明るい雰囲気です",
+      "いつも丁寧に診て頂いています",
+      "関わる全てのスタッフの対応が非常に丁寧だと感じます"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 70,
+      "清潔感": 90,
+      "優しさ": 85,
+      "子ども対応": 90,
+      "痛みへの配慮": 85,
+      "待ち時間": 70
+    },
+    "doctor_name": "松村健司",
+    "doctor_career": "大阪歯科大学卒業",
+    "doctor_evidence": [
+      "小児歯科専門の女性医師が在籍",
+      "インビザラインのプラチナエリート医"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "発達障害のある子ども"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "マウスピース矯正",
+        "MFTトレーニング"
+      ]
+    },
+    "equipment_evidence": [
+      "口腔内スキャナー「iTero」の導入",
+      "最新の矯正治療を提供"
+    ],
+    "transparency_evidence": [
+      "明確な診療メニューと料金案内"
+    ],
+    "activity_evidence": [
+      "定期的なイベント開催",
+      "院長の地域貢献活動"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "教育制度が整っていて働きやすい環境",
+    "fit_for": [
+      "子ども",
+      "歯科恐怖症",
+      "親子で通いたい人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "小さなお子さんがいる家庭",
+    "not_recommended_profile": "夜遅くしか通えない方",
+    "referral_to": [
+      "子どもがいる家庭",
+      "歯医者が怖い人",
+      "親子で通いたい人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患は受け付けない人"
+    ],
+    "ai_summary": "この医院は小さなお子さんや歯医者が怖いお子さんのための優しい診療が特徴です。一方、急な治療が必要な方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "小児に特化した優しい診療が特徴的です。",
+    "catchphrase": "子どもが笑顔で通える歯医者",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJr08VAoKPAGARzPK3N34lBFg": {
+    "place_id": "ChIJr08VAoKPAGARzPK3N34lBFg",
+    "name": "デュオこうべデンタルケアクリニックPINO",
+    "address": "神戸市中央区相生町３丁目２−１ デュオこうべ山の手",
+    "lat": 34.6795145,
+    "lng": 135.1771879,
+    "phone": "",
+    "url": "https://kobe-pino.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%83%A5%E3%82%AA%E3%81%93%E3%81%86%E3%81%B9%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B1%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AFPINO&query_place_id=ChIJr08VAoKPAGARzPK3N34lBFg",
+    "rating": 4.9,
+    "total_reviews": 73,
+    "business_hours": [
+      "月曜日: 10時00分～13時00分, 14時30分～19時00分",
+      "火曜日: 10時00分～13時00分, 14時30分～19時00分",
+      "水曜日: 定休日",
+      "木曜日: 10時00分～13時00分, 14時30分～19時00分",
+      "金曜日: 10時00分～13時00分, 14時30分～19時00分",
+      "土曜日: 10時00分～13時00分, 14時30分～18時00分",
+      "日曜日: 10時00分～13時00分, 14時30分～18時00分"
+    ],
+    "genre": "一般歯科",
+    "total_score": 83,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 8,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "マウスピース矯正",
+      "ホワイトニング",
+      "口コミ評価"
+    ],
+    "reputation_summary": "マウスピース矯正とホワイトニングが人気。口コミ評価も高いです。",
+    "phrases": [
+      "約5年間、マウスピース矯正でお世話になりました",
+      "初めてパウダークリーニングをしました",
+      "マウスピース矯正でお世話になりました",
+      "ホワイトニングとマウスピース矯正でお世話になりました",
+      "マウスピース矯正でお世話になりました！"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 70,
+      "清潔感": 90,
+      "優しさ": 75,
+      "子ども対応": 0,
+      "痛みへの配慮": 80,
+      "待ち時間": 60
+    },
+    "doctor_name": "松村 栄子",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "院長は患者の笑顔を大切にしている。",
+      "技術に自信を持つ。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 4,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "過蓋咬合",
+        "開咬"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "マウスピース矯正"
+      ]
+    },
+    "equipment_evidence": [
+      "パウダークリーニングの技術を有する。",
+      "最新の設備を整備。"
+    ],
+    "transparency_evidence": [
+      "料金表が明示されている。"
+    ],
+    "activity_evidence": [
+      "土日祝も診療を行っている。",
+      "ブログ更新あり。"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 3,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "女性",
+      "高齢者",
+      "忙しい人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "マウスピース矯正を希望する方",
+    "not_recommended_profile": "短時間での治療を求める方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "美容に興味がある人",
+      "家族で通える歯医者"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "急患希望の方"
+    ],
+    "ai_summary": "この医院は、マウスピース矯正やホワイトニングを行いたい方に向いています。一方、急患や夜間診療を希望する方には他院をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "笑顔と自信をお届け",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJq0XNy9GPAGARucPM0fC0TRg": {
+    "place_id": "ChIJq0XNy9GPAGARucPM0fC0TRg",
+    "name": "そうあいデンタルクリニック",
+    "address": "神戸市中央区古湊通１丁目２−５ 101",
+    "lat": 34.6783782,
+    "lng": 135.175904,
+    "phone": "078-351-6770",
+    "url": "http://so-ai.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%9D%E3%81%86%E3%81%82%E3%81%84%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF&query_place_id=ChIJq0XNy9GPAGARucPM0fC0TRg",
+    "rating": 4.3,
+    "total_reviews": 104,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "火曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "水曜日: 定休日",
+      "木曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "金曜日: 9時30分～13時00分, 15時00分～19時00分",
+      "土曜日: 9時30分～13時00分, 14時30分～17時30分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 80,
+    "reputation_score": 20,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 5,
+    "clinic_score": 25,
+    "current": 75,
+    "potential": 78,
+    "reputation_tags": [
+      "優れた対応",
+      "充実した設備",
+      "信頼できるスタッフ"
+    ],
+    "reputation_summary": "分かりやすい説明と気さくな対応が評判のクリニックです。",
+    "phrases": [
+      "歯科衛生士の方は気さくで話しやすく",
+      "矯正治療を受けていますが、ある時から矯正専門の先生が担当になりました",
+      "治療に関してはとてもわかりやすく満足です！「どうなってるからこうする」と言うことを伝えていただき一般人ながら納得できる説明でありがたいです！！",
+      "流石はGoogleレビュー最強の歯医者！"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 90,
+      "清潔感": 85,
+      "優しさ": 85,
+      "子ども対応": 70,
+      "痛みへの配慮": 80,
+      "待ち時間": 75
+    },
+    "doctor_name": "荒木 幸次",
+    "doctor_career": "徳島大学卒業、複数医院で勤務",
+    "doctor_evidence": [
+      "患者に寄り添った対応を心がけています。",
+      "多様な専門性を持った歯科医師です。"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "矯正治療"
+      ],
+      "parts": [
+        "前歯",
+        "全体"
+      ],
+      "techniques": [
+        "通常矯正",
+        "インビザライン"
+      ]
+    },
+    "equipment_evidence": [
+      "最先端の治療機器を取り揃えています。",
+      "診療にマイクロスコープを用いています。"
+    ],
+    "transparency_evidence": [
+      "治療内容を分かりやすく説明しています。"
+    ],
+    "activity_evidence": [
+      "地域貢献を意識した診療を行っています。",
+      "患者とのコミュニケーションを大切にしています。"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 5,
+      "衛生士定着率": 4,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフが安心して働ける環境です。",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者",
+      "インプラント",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望"
+    ],
+    "best_patient_profile": "丁寧な説明を求める患者",
+    "not_recommended_profile": "急な治療を希望する患者",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "治療に不安がある人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駅近を最優先する人"
+    ],
+    "ai_summary": "この医院は、分かりやすい説明と優しい対応を求める方に向いています。一方、急な治療や夜の診療を希望する方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "幅広い治療を提供し、信頼性があります。",
+    "catchphrase": "あなたの心を奏でる歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJBRybcg-PAGARhNBw4hKA6TE": {
+    "place_id": "ChIJBRybcg-PAGARhNBw4hKA6TE",
+    "name": "北野デンタルラボラトリー",
+    "address": "神戸市中央区橘通２丁目３−１２ 橘ビル",
+    "lat": 34.6821924,
+    "lng": 135.1764616,
+    "phone": "078-351-0077",
+    "url": "http://www.puppy-pluswan.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E9%87%8E%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%A9%E3%83%9C%E3%83%A9%E3%83%88%E3%83%AA%E3%83%BC&query_place_id=ChIJBRybcg-PAGARhNBw4hKA6TE",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [
+      "月曜日: 10時00分～18時00分",
+      "火曜日: 10時00分～18時00分",
+      "水曜日: 定休日",
+      "木曜日: 10時00分～18時00分",
+      "金曜日: 10時00分～18時00分",
+      "土曜日: 10時00分～18時00分",
+      "日曜日: 10時00分～18時00分"
+    ],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ5SCZSwCPAGARYVc0dvYvVKY": {
+    "place_id": "ChIJ5SCZSwCPAGARYVc0dvYvVKY",
+    "name": "神戸駅前歯科",
+    "address": "神戸市中央区相生町４丁目６−１１",
+    "lat": 34.677408,
+    "lng": 135.1763217,
+    "phone": "078-954-7776",
+    "url": "https://www.kobe-station-dc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%88%B8%E9%A7%85%E5%89%8D%E6%AD%AF%E7%A7%91&query_place_id=ChIJ5SCZSwCPAGARYVc0dvYvVKY",
+    "rating": 5,
+    "total_reviews": 2,
+    "business_hours": [
+      "月曜日: 8時30分～12時30分, 14時00分～17時30分",
+      "火曜日: 定休日",
+      "水曜日: 8時30分～12時30分, 14時00分～17時30分",
+      "木曜日: 8時30分～12時30分, 14時00分～17時30分",
+      "金曜日: 8時30分～12時30分, 14時00分～17時30分",
+      "土曜日: 8時30分～12時30分, 14時00分～17時30分",
+      "日曜日: 8時30分～12時30分, 14時00分～17時30分"
+    ],
+    "genre": "一般歯科",
+    "total_score": 65,
+    "reputation_score": 20,
+    "doctor_score": 15,
+    "equipment_score": 10,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 20,
+    "current": 65,
+    "potential": 56,
+    "reputation_tags": [
+      "丁寧な対応",
+      "アクセス良好",
+      "安心治療"
+    ],
+    "reputation_summary": "患者に寄り添った丁寧な治療で高評価の歯科医院です。",
+    "phrases": [
+      "丁寧に対応していただき、ありがとうございました"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 70,
+      "説明力": 80,
+      "清潔感": 80,
+      "優しさ": 90,
+      "子ども対応": 0,
+      "痛みへの配慮": 80,
+      "待ち時間": 0
+    },
+    "doctor_name": "吉岡 甲介",
+    "doctor_career": "神奈川歯科大学卒業、10年の診療経験",
+    "doctor_evidence": [
+      "丁寧なカウンセリングを実施",
+      "患者に安心感を与える治療方針"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 3,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "最新の治療機器を導入している可能性がある",
+      "詳細な機器情報は未記載"
+    ],
+    "transparency_evidence": [
+      "治療の説明を重視している"
+    ],
+    "activity_evidence": [
+      "地域の健康を支える姿勢を強調"
+    ],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "高齢者",
+      "忙しい人"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "週末も診療希望の忙しい方",
+    "not_recommended_profile": "急患での即日治療希望の方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "高齢者"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駅近を最優先する人"
+    ],
+    "ai_summary": "この医院は、痛みを抑えた治療を受けたい方や、通いやすさを重視する方に向いています。一方、急な対応が必要な方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "丁寧な歯科治療の提供",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJFxv60gWPAGAR6LcwgeusDGg": {
+    "place_id": "ChIJFxv60gWPAGAR6LcwgeusDGg",
+    "name": "井堂歯科医院",
+    "address": "神戸市中央区相生町１丁目１−１４ 2F",
+    "lat": 34.6824796,
+    "lng": 135.1797486,
+    "phone": "078-361-7373",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BA%95%E5%A0%82%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJFxv60gWPAGAR6LcwgeusDGg",
+    "rating": 5,
+    "total_reviews": 2,
+    "business_hours": [
+      "月曜日: 9時00分～12時00分, 14時00分～17時00分",
+      "火曜日: 9時00分～12時00分, 14時00分～17時00分",
+      "水曜日: 9時00分～12時00分, 14時00分～17時00分",
+      "木曜日: 定休日",
+      "金曜日: 9時00分～12時00分, 14時00分～17時00分",
+      "土曜日: 9時00分～12時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJS_jVYqmPAGARSwFFg6LDm6c": {
+    "place_id": "ChIJS_jVYqmPAGARSwFFg6LDm6c",
+    "name": "K&A Dental Clinic KOBE",
+    "address": "プロメナ神戸 4F, 1-chōme-8−１ Higashikawasakichō, KobeChuo Ward",
+    "lat": 34.67976300000001,
+    "lng": 135.1809641,
+    "phone": "078-945-8246",
+    "url": "https://dentalclinic-kobe.jp/?utm_source=google&utm_medium=maps",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=K%26A%20Dental%20Clinic%20KOBE&query_place_id=ChIJS_jVYqmPAGARSwFFg6LDm6c",
+    "rating": 4.5,
+    "total_reviews": 68,
+    "business_hours": [
+      "月曜日: 10時00分～19時00分",
+      "火曜日: 10時00分～19時00分",
+      "水曜日: 10時00分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 10時00分～19時00分",
+      "土曜日: 10時00分～19時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 73,
+    "reputation_score": 15,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 5,
+    "google_bonus": 8,
+    "clinic_score": 25,
+    "current": 65,
+    "potential": 78,
+    "reputation_tags": [
+      "痛みが心配",
+      "スタッフの対応",
+      "急患対応"
+    ],
+    "reputation_summary": "麻酔の技術に不満の声があり、スタッフの親切さが評価されています。",
+    "phrases": [
+      "ホームページを見てCAD/CAM治療で予約して行きました",
+      "麻酔が下手すぎて、治療中地獄のような痛さと戦いながらただ横になっているしか無かった",
+      "話しやすい先生と歯科衛生士さんでとても親切にしてくださります",
+      "治療はよかったのですが、職場内の不満を治療中に先生も含めてスタッフ同士で話されていて…私は目をつぶっていますが聞こえていますよ…って思いました",
+      "虫歯治療で通っていました"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 50,
+      "説明力": 60,
+      "清潔感": 60,
+      "優しさ": 80,
+      "子ども対応": 0,
+      "痛みへの配慮": 40,
+      "待ち時間": 0
+    },
+    "doctor_name": "黒田 祐彰",
+    "doctor_career": "1988年 朝日大学歯学部卒業",
+    "doctor_evidence": [
+      "歯周病や虫歯治療に力を入れている",
+      "患者要望をしっかり伺う姿勢"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 2,
+      "患者目線": 4,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "虫歯治療"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "セラミック治療",
+        "CAD/CAM治療"
+      ]
+    },
+    "equipment_evidence": [
+      "先進医療のセレック治療システム導入"
+    ],
+    "transparency_evidence": [
+      "治療方針を患者と一緒に探る姿勢"
+    ],
+    "activity_evidence": [
+      "急患も随時対応"
+    ],
+    "workplace_stars": {
+      "教育制度": 2,
+      "働きやすさ": 3,
+      "衛生士定着率": 4,
+      "スタッフ教育": 3
+    },
+    "workplace_quality": "急患対応と教育環境が整っている",
+    "fit_for": [
+      "急患希望",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "痛みが苦手な人",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "医療の質を重視する方",
+    "not_recommended_profile": "麻酔に不安がある方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "急患希望の人",
+      "痛みが気になる人"
+    ],
+    "not_referral_to": [
+      "麻酔を気にする人",
+      "夜しか通えない人"
+    ],
+    "ai_summary": "K&A Dental Clinicは、痛みを気にする患者さんや急患に来たい方に向いています。一方、麻酔に不安が強い方には他院を検討することを推奨します。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "患者に優しい歯科医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJS_ycp4WPAGARBnUjz7UcuC0": {
+    "place_id": "ChIJS_ycp4WPAGARBnUjz7UcuC0",
+    "name": "Kobe Motomachi Grace Dental Clinic",
+    "address": "秋毎ビル １階, 6-chōme-7−９ Motomachidōri, KobeChuo Ward",
+    "lat": 34.6835289,
+    "lng": 135.1798067,
+    "phone": "078-954-5715",
+    "url": "http://www.kobe-grace-dc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kobe%20Motomachi%20Grace%20Dental%20Clinic&query_place_id=ChIJS_ycp4WPAGARBnUjz7UcuC0",
+    "rating": 5,
+    "total_reviews": 1,
+    "business_hours": [
+      "月曜日: 9時00分～13時00分, 14時30分～17時30分",
+      "火曜日: 9時00分～13時00分, 14時30分～17時30分",
+      "水曜日: 9時00分～13時00分, 14時30分～17時30分",
+      "木曜日: 9時00分～13時00分, 14時30分～17時30分",
+      "金曜日: 9時00分～13時00分, 14時30分～17時30分",
+      "土曜日: 9時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 70,
+    "reputation_score": 15,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 70,
+    "potential": 78,
+    "reputation_tags": [
+      "女性医師",
+      "丁寧な対応",
+      "個室診療"
+    ],
+    "reputation_summary": "新しく引っ越してきた方も通いやすく、丁寧な対応が高評価の医院です。",
+    "phrases": [
+      "最近引っ越ししたので、定期検診で通う歯医者さんを探していたときに見つけたこちらの歯医者さん！"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 80,
+      "説明力": 85,
+      "清潔感": 90,
+      "優しさ": 90,
+      "子ども対応": 85,
+      "痛みへの配慮": 80,
+      "待ち時間": 70
+    },
+    "doctor_name": "奥田 雅代",
+    "doctor_career": "明海大学歯学部卒業",
+    "doctor_evidence": [
+      "丁寧なカウンセリングを重視",
+      "多くの講習会やセミナー修了"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 4,
+      "患者目線": 5,
+      "経験": 4
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "サージカルガイドを用いた治療が可能",
+      "最新の設備が整っています"
+    ],
+    "transparency_evidence": [
+      "初診費用の目安が明記されています"
+    ],
+    "activity_evidence": [
+      "女性スタッフによる丁寧な対応が特徴です",
+      "予約制で待ち時間軽減を目指しています"
+    ],
+    "workplace_stars": {
+      "教育制度": 5,
+      "働きやすさ": 5,
+      "衛生士定着率": 5,
+      "スタッフ教育": 5
+    },
+    "workplace_quality": "全員女性スタッフのため働きやすい環境です。",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "急患希望",
+      "駐車場必須"
+    ],
+    "best_patient_profile": "安心して通いたい女性や子ども",
+    "not_recommended_profile": "忙しくて通えない人や急な治療が必要な人",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "女性医師を希望する人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駐車場を重視する人"
+    ],
+    "ai_summary": "この医院は女性や子どもが通いやすい環境が整っています。一方、夜間しか通えない方には不向きです。",
+    "notable": true,
+    "notable_reason": "女性スタッフによる丁寧な対応と個室診療が好評です。",
+    "catchphrase": "安心・快適な歯科診療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJT35_aASPAGARkDso6yH1S-I": {
+    "place_id": "ChIJT35_aASPAGARkDso6yH1S-I",
+    "name": "川越歯科医院",
+    "address": "神戸市中央区元町通６丁目３−１",
+    "lat": 34.6843663,
+    "lng": 135.1811807,
+    "phone": "078-341-2198",
+    "url": "http://kawagoe-dc.jp/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%9D%E8%B6%8A%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJT35_aASPAGARkDso6yH1S-I",
+    "rating": 3.1,
+    "total_reviews": 7,
+    "business_hours": [
+      "月曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "火曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "水曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "木曜日: 9時30分～13時00分",
+      "金曜日: 9時30分～13時00分, 14時30分～19時00分",
+      "土曜日: 9時30分～13時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 60,
+    "reputation_score": 20,
+    "doctor_score": 15,
+    "equipment_score": 10,
+    "transparency_score": 10,
+    "activity_score": 5,
+    "google_bonus": 0,
+    "clinic_score": 20,
+    "current": 60,
+    "potential": 56,
+    "reputation_tags": [
+      "無痛治療",
+      "駅近",
+      "一般歯科"
+    ],
+    "reputation_summary": "無痛治療を重視する通いやすい歯科医院です。",
+    "phrases": [],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 75,
+      "説明力": 70,
+      "清潔感": 80,
+      "優しさ": 75,
+      "子ども対応": 70,
+      "痛みへの配慮": 85,
+      "待ち時間": 60
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "無痛治療をこころがけている",
+      "入院や精密な検査の紹介が可能"
+    ],
+    "doctor_stars": {
+      "専門性": 3,
+      "研究実績": 2,
+      "患者目線": 4,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "最新設備について触れられていない",
+      "具体的な治療機器情報がない"
+    ],
+    "transparency_evidence": [
+      "診療時間や休診日の情報が公開されている"
+    ],
+    "activity_evidence": [
+      "提携病院との連携がある"
+    ],
+    "workplace_stars": {
+      "教育制度": 3,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "スタッフ教育に力を入れている",
+    "fit_for": [
+      "子ども",
+      "高齢者",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "痛みを恐れる方や子どもを持つ親。",
+    "not_recommended_profile": "急な対応を求める方や土日通える方。",
+    "referral_to": [
+      "痛みが苦手な人",
+      "小さな子どもがいる人",
+      "通いやすい歯科を探している人"
+    ],
+    "not_referral_to": [
+      "急患希望の人",
+      "夜しか通えない人"
+    ],
+    "ai_summary": "この医院は無痛治療を求める患者や子どもを連れた親に向いています。一方、急な対応が必要な方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "無痛治療と駅近の立地で利用しやすい。",
+    "catchphrase": "痛みの少ない治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJIw60bEDVVDURWSFA917LA04": {
+    "place_id": "ChIJIw60bEDVVDURWSFA917LA04",
+    "name": "茨木歯科",
+    "address": "神戸市西区玉津町田中６０７−２",
+    "lat": 34.69142909999999,
+    "lng": 134.9826126,
+    "phone": "078-928-6641",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%A8%E6%9C%A8%E6%AD%AF%E7%A7%91&query_place_id=ChIJIw60bEDVVDURWSFA917LA04",
+    "rating": 0,
+    "total_reviews": 0,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 0,
+    "reputation_score": 0,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 0,
+    "potential": 0,
+    "reputation_tags": [],
+    "reputation_summary": "",
+    "phrases": [],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [],
+    "not_referral_to": [],
+    "ai_summary": "",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJNdkv30GAAGARN8UIbnZJeDc": {
+    "place_id": "ChIJNdkv30GAAGARN8UIbnZJeDc",
+    "name": "みき歯科医院",
+    "address": "神戸市西区井吹台西町４丁目４−３",
+    "lat": 34.69246,
+    "lng": 135.0219234,
+    "phone": "078-990-2525",
+    "url": "https://www.instagram.com/miki_dental_kobe?igsh=MTJuMGQ4YmRqdzhjaA==&utm_source=qr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%8D%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJNdkv30GAAGARN8UIbnZJeDc",
+    "rating": 3.5,
+    "total_reviews": 2,
+    "business_hours": [
+      "月曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "火曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "水曜日: 9時00分～11時00分, 15時00分～18時30分",
+      "木曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "金曜日: 9時00分～12時00分, 14時00分～19時00分",
+      "土曜日: 14時00分～17時00分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 20,
+    "reputation_score": 20,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 20,
+    "potential": 0,
+    "reputation_tags": [
+      "急患対応",
+      "親切な対応",
+      "信頼できる"
+    ],
+    "reputation_summary": "急な受診にも親切に対応してくれる医院です。",
+    "phrases": [
+      "以前、急な受診で大変良くして下さいました"
+    ],
+    "sources_analyzed": 1,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 100,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "急な受診を希望する人"
+    ],
+    "not_fit_for": [],
+    "best_patient_profile": "急な受診を希望する患者",
+    "not_recommended_profile": "",
+    "referral_to": [
+      "忙しい人",
+      "急患希望の人",
+      "親切な医院を探している人"
+    ],
+    "not_referral_to": [
+      "事前相談を重視する人",
+      "子ども連れの人"
+    ],
+    "ai_summary": "この医院は急な受診を希望する方に向いています。一方、事前の詳細な説明を求める方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "急な受診もお任せ！",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ32fGxP6AAGAR_isZ_SWP4V8": {
+    "place_id": "ChIJ32fGxP6AAGAR_isZ_SWP4V8",
+    "name": "生協なでしこ歯科",
+    "address": "神戸市西区前開南町１丁目２−２５",
+    "lat": 34.6871323,
+    "lng": 135.0402774,
+    "phone": "078-978-6480",
+    "url": "http://kobe-iryo.jp/nadeshiko/index.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%94%9F%E5%8D%94%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93%E6%AD%AF%E7%A7%91&query_place_id=ChIJ32fGxP6AAGAR_isZ_SWP4V8",
+    "rating": 3.5,
+    "total_reviews": 6,
+    "business_hours": [
+      "月曜日: 9時10分～19時10分",
+      "火曜日: 9時10分～19時10分",
+      "水曜日: 9時10分～19時10分",
+      "木曜日: 9時00分～11時50分",
+      "金曜日: 9時10分～19時10分",
+      "土曜日: 9時10分～11時50分",
+      "日曜日: 定休日"
+    ],
+    "genre": "一般歯科",
+    "total_score": 55,
+    "reputation_score": 15,
+    "doctor_score": 15,
+    "equipment_score": 10,
+    "transparency_score": 5,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 15,
+    "current": 55,
+    "potential": 56,
+    "reputation_tags": [
+      "子ども同伴可",
+      "地域密着型",
+      "信頼性"
+    ],
+    "reputation_summary": "託児サービスが充実しており、子持ちの患者にやさしい歯科医院ですが、治療内容への不満が見受けられます。",
+    "phrases": [
+      "｢神戸医療生協｣が運営する歯科医院",
+      "託児付で子どもがいても治療が受けられてとても助かりました",
+      "神経抜かなくていい歯の神経を抜きました😭"
+    ],
+    "sources_analyzed": 2,
+    "patient_scores": {
+      "技術力": 60,
+      "説明力": 40,
+      "清潔感": 70,
+      "優しさ": 80,
+      "子ども対応": 90,
+      "痛みへの配慮": 75,
+      "待ち時間": 65
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [
+      "地域組合員に支持されている",
+      "専門性が高いスタッフがいる"
+    ],
+    "doctor_stars": {
+      "専門性": 4,
+      "研究実績": 1,
+      "患者目線": 4,
+      "経験": 3
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [
+      "最新の設備が紹介されていない",
+      "一般的な治療に必要な設備は整っている。"
+    ],
+    "transparency_evidence": [
+      "公式サイトに基本情報はあるが詳しくない。"
+    ],
+    "activity_evidence": [
+      "地域医療に貢献しているという情報がある。"
+    ],
+    "workplace_stars": {
+      "教育制度": 3,
+      "働きやすさ": 4,
+      "衛生士定着率": 3,
+      "スタッフ教育": 3
+    },
+    "workplace_quality": "地域に根ざした職場環境",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "高齢者"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "駅近を最優先する人"
+    ],
+    "best_patient_profile": "子ども連れで安心して通院したい方",
+    "not_recommended_profile": "急な治療を求める方",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さな子どもがいる人",
+      "地域に住む人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "技術力を重視する人"
+    ],
+    "ai_summary": "この医院は子連れの方や地域密着型の医療を求める方に向いています。一方、急な対応を求める方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "優しい歯科治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJ-7N5sP6AAGARecigeT_gaYM": {
+    "place_id": "ChIJ-7N5sP6AAGARecigeT_gaYM",
+    "name": "高瀬矯正歯科",
+    "address": "神戸市西区前開南町１丁目２−１ 伊川谷駅ビル 1F",
+    "lat": 34.6874662,
+    "lng": 135.0417913,
+    "phone": "078-975-8214",
+    "url": "https://www.takase-ortho.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E7%80%AC%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91&query_place_id=ChIJ-7N5sP6AAGARecigeT_gaYM",
+    "rating": 3.9,
+    "total_reviews": 22,
+    "business_hours": [
+      "月曜日: 14時00分～19時00分",
+      "火曜日: 14時00分～19時00分",
+      "水曜日: 14時00分～19時00分",
+      "木曜日: 定休日",
+      "金曜日: 14時00分～19時00分",
+      "土曜日: 10時00分～18時00分",
+      "日曜日: 10時00分～18時00分"
+    ],
+    "genre": "一般歯科",
+    "total_score": 80,
+    "reputation_score": 25,
+    "doctor_score": 20,
+    "equipment_score": 15,
+    "transparency_score": 10,
+    "activity_score": 10,
+    "google_bonus": 0,
+    "clinic_score": 25,
+    "current": 80,
+    "potential": 78,
+    "reputation_tags": [
+      "治療実績",
+      "親切なスタッフ",
+      "通いやすい"
+    ],
+    "reputation_summary": "ガタガタの歯が美しく改善され、医師・スタッフの対応も良好です。",
+    "phrases": [
+      "長い期間にわたって矯正治療でお世話になっています",
+      "ガタガタだった歯並びが綺麗になりました",
+      "2期まで治療をしていただきました",
+      "前歯が出ていたのが気になっていたのですが、綺麗な歯並びになり、嬉しいです！！"
+    ],
+    "sources_analyzed": 3,
+    "patient_scores": {
+      "技術力": 90,
+      "説明力": 85,
+      "清潔感": 90,
+      "優しさ": 90,
+      "子ども対応": 80,
+      "痛みへの配慮": 85,
+      "待ち時間": 75
+    },
+    "doctor_name": "高瀬哲也",
+    "doctor_career": "九州大学歯科学部卒業",
+    "doctor_evidence": [
+      "15年以上の治療経験",
+      "日本矯正歯科学会認定医"
+    ],
+    "doctor_stars": {
+      "専門性": 5,
+      "研究実績": 4,
+      "患者目線": 5,
+      "経験": 5
+    },
+    "case_analysis": {
+      "has_cases": true,
+      "difficult_cases": [
+        "顎変形症"
+      ],
+      "parts": [
+        "前歯",
+        "奥歯"
+      ],
+      "techniques": [
+        "舌側矯正",
+        "マウスピース型矯正"
+      ]
+    },
+    "equipment_evidence": [
+      "最新の矯正装置を採用",
+      "多様な矯正技術を導入"
+    ],
+    "transparency_evidence": [
+      "費用について詳細な説明がある"
+    ],
+    "activity_evidence": [
+      "土日診療に対応"
+    ],
+    "workplace_stars": {
+      "教育制度": 4,
+      "働きやすさ": 4,
+      "衛生士定着率": 5,
+      "スタッフ教育": 4
+    },
+    "workplace_quality": "チーム教育に力を入れている職場環境",
+    "fit_for": [
+      "子ども",
+      "女性",
+      "忙しい人"
+    ],
+    "not_fit_for": [
+      "夜しか通えない人",
+      "駐車場必須"
+    ],
+    "best_patient_profile": "一貫したサポートを願う患者さん",
+    "not_recommended_profile": "夜の通院を希望する患者さん",
+    "referral_to": [
+      "歯医者が怖い人",
+      "小さい子どもがいる人",
+      "美しい歯並びを望む人"
+    ],
+    "not_referral_to": [
+      "夜9時以降しか通えない人",
+      "駅近を最優先する人"
+    ],
+    "ai_summary": "この医院は、丁寧な矯正治療を志向する方に向いています。一方、夜遅くしか通院できない方には他院も検討をお勧めします。",
+    "notable": true,
+    "notable_reason": "治療技術と患者対応の両面で高い評価を得ているため。",
+    "catchphrase": "美しい歯並びをあなたに",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJsXEYKiWBAGARvtfqigLj7GM": {
+    "place_id": "ChIJsXEYKiWBAGARvtfqigLj7GM",
+    "name": "浦野歯科医院",
+    "address": "神戸市西区学園東町３丁目２−４",
+    "lat": 34.685493,
+    "lng": 135.063061,
+    "phone": "078-792-4182",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%A6%E9%87%8E%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJsXEYKiWBAGARvtfqigLj7GM",
+    "rating": 5,
+    "total_reviews": 2,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 30,
+    "reputation_score": 15,
+    "doctor_score": 15,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 30,
+    "potential": 36,
+    "reputation_tags": [
+      "優しい先生",
+      "大学生向け",
+      "穏やかな雰囲気"
+    ],
+    "reputation_summary": "穏やかな先生が、近隣大学生にも親しまれています。",
+    "phrases": [
+      "穏やかな感じの先生です",
+      "近隣に住む大学生です"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 0,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 100,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "不明",
+    "doctor_career": "不明",
+    "doctor_evidence": [
+      "穏やかな感じの先生です"
+    ],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 5,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [
+      "大学生",
+      "歯科恐怖症"
+    ],
+    "not_fit_for": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "best_patient_profile": "穏やかな環境を求める大学生",
+    "not_recommended_profile": "急な治療を希望する患者",
+    "referral_to": [
+      "歯医者が怖い人",
+      "大学生",
+      "穏やかな治療を希望する人"
+    ],
+    "not_referral_to": [
+      "急患希望",
+      "夜しか通えない人"
+    ],
+    "ai_summary": "この医院は穏やかな治療環境を求める方に向いています。一方、急な治療を希望する方には他院も検討をお勧めします。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "穏やかな歯科治療",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
+  },
+  "ChIJacocGcaGAGAR2NikeWAJ3bM": {
+    "place_id": "ChIJacocGcaGAGAR2NikeWAJ3bM",
+    "name": "村上歯科医院",
+    "address": "神戸市須磨区神の谷７丁目１−４",
+    "lat": 34.6898274,
+    "lng": 135.0844175,
+    "phone": "078-791-7815",
+    "url": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%91%E4%B8%8A%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2&query_place_id=ChIJacocGcaGAGAR2NikeWAJ3bM",
+    "rating": 4.7,
+    "total_reviews": 3,
+    "business_hours": [],
+    "genre": "一般歯科",
+    "total_score": 5,
+    "reputation_score": 5,
+    "doctor_score": 0,
+    "equipment_score": 0,
+    "transparency_score": 0,
+    "activity_score": 0,
+    "google_bonus": 0,
+    "clinic_score": 0,
+    "current": 5,
+    "potential": 0,
+    "reputation_tags": [
+      "クラウン",
+      "診察",
+      "技術"
+    ],
+    "reputation_summary": "7番のクラウンが取れ、診察を受けた方の情報があります。",
+    "phrases": [
+      "7番のクラウン（被せ物）が取れたので診察を受けました"
+    ],
+    "sources_analyzed": 0,
+    "patient_scores": {
+      "技術力": 50,
+      "説明力": 0,
+      "清潔感": 0,
+      "優しさ": 0,
+      "子ども対応": 0,
+      "痛みへの配慮": 0,
+      "待ち時間": 0
+    },
+    "doctor_name": "",
+    "doctor_career": "",
+    "doctor_evidence": [],
+    "doctor_stars": {
+      "専門性": 0,
+      "研究実績": 0,
+      "患者目線": 0,
+      "経験": 0
+    },
+    "case_analysis": {
+      "has_cases": false,
+      "difficult_cases": [],
+      "parts": [],
+      "techniques": []
+    },
+    "equipment_evidence": [],
+    "transparency_evidence": [],
+    "activity_evidence": [],
+    "workplace_stars": {
+      "教育制度": 0,
+      "働きやすさ": 0,
+      "衛生士定着率": 0,
+      "スタッフ教育": 0
+    },
+    "workplace_quality": "",
+    "fit_for": [],
+    "not_fit_for": [],
+    "best_patient_profile": "",
+    "not_recommended_profile": "",
+    "referral_to": [
+      "クラウン治療",
+      "一般診療",
+      "痛みの少ない治療"
+    ],
+    "not_referral_to": [
+      "夜遅くしか通えない人",
+      "専門的な治療を求める人"
+    ],
+    "ai_summary": "この医院は7番のクラウンが取れた際に診察を受けたい方に適しています。一方、他のニーズには応えられない部分もありますので、注意が必要です。",
+    "notable": false,
+    "notable_reason": "",
+    "catchphrase": "クラウン診察の医院",
+    "label": "一般枠",
+    "linked_articles": [],
+    "last_analyzed": "2026-07-08"
   }
 }
