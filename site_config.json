@@ -22,11 +22,12 @@
     "西区"
   ],
   "stats": {
-    "clinics_analyzed": 0,
-    "reviews_parsed": 0,
-    "sites_crawled": 0,
-    "clinics_published": 0,
-    "reviews_published": 0
+    "clinics_analyzed": 1015,
+    "reviews_parsed": 21631,
+    "sites_crawled": 705,
+    "clinics_published": 768,
+    "reviews_published": 13187,
+    "ai_analyzed": 631
   },
   "_stats_note": "データ収集完了後に実数を入れる。トップページの手打ち数字と必ず一致させること",
   "_official_stat_note": "令和6年医療施設調査（2024-10-01時点）：神戸市内の歯科診療所887施設（東灘150/灘87/兵庫57/長田60/須磨76/垂水105/北94/中央170/西88）。収集完了後、この数値との乖離を監査の目安にする。"
