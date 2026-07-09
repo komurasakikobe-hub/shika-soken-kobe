@@ -7,7 +7,7 @@
 ## サイト概要
 - 対象：神戸市9区（東灘・灘・中央・兵庫・北・長田・須磨・垂水・西）の歯科医院ポータル
 - 設定の正本：`site_config.json`（Python側）＋ `assets/site-config.js`（ブラウザ側）。都市固有の値は必ずここに集約
-- 記事生成側の設定：`AI評判設計システム/client_config_kobe.json`（使用時に client_config.json へコピーして差し替え）
+- 記事生成側の設定：`AI評判設計システム/client_config_kobe.json`（daily_post.sh の CLIENT_CONFIG 環境変数で直接指定する。旧コピー差し替え運用は廃止・2026-07-10）
 - ドメイン・GA4測定IDは未定（公開前にユーザーが決定）
 
 ## 立ち上げ進捗（2026-07-08 開始）
