@@ -10,7 +10,7 @@ window.ODR_CONFIG = {
   cityShort: "神戸",
   siteName: "神戸歯科総研",
   ga4MeasurementIds: [
-    "",  // shika-soken
+    "G-WCQ4V24CDK",  // shika-soken
     "",  // kokedama
   ],
 };
