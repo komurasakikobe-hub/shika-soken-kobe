@@ -28,7 +28,7 @@
 - [x] GitHub Privateリポジトリ作成・push（shika-soken-kobe.git）
 - [x] Cloudflare Pages接続・ドメイン決定（kobe.shikasoken.com。ただし本番はCloudflare Pages側が大阪の共有リポジトリshika-sokenの`kobe`ブランチを見る構成のため、pushは`origin`（専用repo）と`osaka-shared`（共有repo）の両方に行うこと。横展開マニュアル参照）
 - [ ] GA4新プロパティ・Search Console（ユーザー操作）— site-config.jsに測定IDなし、未設定
-- [ ] 毎日投稿 launchd（時刻は大阪と30分ずらして 9:30）— reviewrefreshのみ登録済み、dailypostは未登録
+- [ ] 毎日投稿：コラムは大阪歯科総研に全都市集約済みのため、この都市単独でのdaily_post.sh launchd化は不要（[[shared-column-policy]]）。個別記事生成が必要な場合はユーザー承認必須
 
 ## 注意（大阪版で踏んだ地雷 — 横展開マニュアル §3 の要約）
 - slug衝突（generate_slug_map.py 必須）／ジオコーディング座標集約（同一座標4件以上を監査）
