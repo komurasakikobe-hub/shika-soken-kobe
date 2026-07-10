@@ -22,10 +22,10 @@
     "西区"
   ],
   "stats": {
-    "clinics_analyzed": 1015,
+    "clinics_analyzed": 1039,
     "reviews_parsed": 21631,
     "sites_crawled": 705,
-    "clinics_published": 768,
+    "clinics_published": 789,
     "reviews_published": 13187,
     "ai_analyzed": 631
   },
