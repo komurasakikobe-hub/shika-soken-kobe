@@ -21,11 +21,11 @@
     "西区"
   ],
   "stats": {
-    "clinics_analyzed": 1039,
-    "reviews_parsed": 21631,
-    "sites_crawled": 705,
+    "clinics_analyzed": 789,
+    "reviews_parsed": 13485,
+    "sites_crawled": 505,
     "clinics_published": 789,
-    "reviews_published": 13187,
+    "reviews_published": 13485,
     "ai_analyzed": 631
   },
   "_stats_note": "データ収集完了後に実数を入れる。トップページの手打ち数字と必ず一致させること",
