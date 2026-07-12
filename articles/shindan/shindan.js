@@ -12,7 +12,7 @@ const odrTrack = (name, params) => {
   if (typeof window.odrTrack === "function") window.odrTrack(name, params);
 };
 
-// ── エリア定義（神戸市9区・住所の区名で一致） ──────
+// ── エリア定義（神戸市9区。旧ウィザードのAREA_KEYWORDSを再利用） ──────
 const AREA_KEYWORDS = {
   "東灘区（摂津本山・住吉）": ["神戸市東灘区", "東灘区"],
   "中央区（旧居留地・春日野道）": ["神戸市中央区", "中央区"],
@@ -27,22 +27,6 @@ const AREA_KEYWORDS = {
 const WARD_LIST = [{ key: "all", label: "神戸市全体" }].concat(
   Object.keys(AREA_KEYWORDS).map(k => ({ key: k, label: k.replace(/（.*）/, "") }))
 );
-
-// ── エリア一致判定（住所＋最寄駅名。単一市は最寄駅名の完全一致で判定） ──────
-const AREA_MATCH_BY_STATION = false;
-function matchesArea(clinic, kws) {
-  if (!kws) return false;
-  const stn = (clinic.nearest_station && clinic.nearest_station.name) || "";
-  if (AREA_MATCH_BY_STATION) return kws.some(kw => stn === kw);
-  const addr = clinic.address || "";
-  return kws.some(kw => addr.includes(kw) || (stn && stn === kw));
-}
-function regionLabelOf(clinic) {
-  for (const key in AREA_KEYWORDS) {
-    if (matchesArea(clinic, AREA_KEYWORDS[key])) return key.replace(/（.*）/, "");
-  }
-  return "";
-}
 
 // ── 悩み・治療 ─────────────────────────────────────────────
 const TREATMENT_MAP = {
@@ -223,7 +207,8 @@ function isWardMatch(clinic, wardKey) {
   if (!wardKey || wardKey === "all") return true;
   const kws = AREA_KEYWORDS[wardKey];
   if (!kws) return true;
-  return matchesArea(clinic, kws);
+  const addr = clinic.address || "";
+  return kws.some(kw => addr.includes(kw));
 }
 
 // ── フィルタ適用後のプールを取得（地域・治療は絞り込み、
@@ -668,8 +653,9 @@ function computeWardRanks() {
   wardRankMap = new Map();
   const groups = new Map();
   allClinics.forEach(c => {
-    const w = regionLabelOf(c);
-    if (!w) return;
+    const m = (c.address || "").match(/神戸市([一-龥]+区)/);
+    if (!m) return;
+    const w = m[1];
     if (!groups.has(w)) groups.set(w, []);
     groups.get(w).push({ pid: c.place_id || "", score: calcRankScore(c).score });
   });
@@ -684,7 +670,8 @@ const PRIZE = { 1: ["金賞", "GOLD"], 2: ["銀賞", "SILVER"], 3: ["銅賞", "B
 
 function cardHTML(clinic, rank, matched) {
   const addr = clinic.address || "";
-  const ward = regionLabelOf(clinic);
+  const wardMatch = addr.match(/神戸市([一-龥]+区)/);
+  const ward = wardMatch ? wardMatch[1] : "";
   const stationText = formatStationText(clinic.nearest_station, clinic);
   const info = infoLevel(clinic);
   const rating = clinic.rating ? clinic.rating.toFixed(1) : "—";
