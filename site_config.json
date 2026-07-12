@@ -6,6 +6,7 @@
   "site_name": "神戸歯科総研",
   "site_name_en": "KOBE DENTAL RESEARCH",
   "domain": "kobe.shikasoken.com",
+  "stations_module": "kobe_stations",
   "_domain_note": "仮ドメイン。独自ドメインを購入するか、shikasoken.comのサブドメインにするかは公開前にユーザーが決定する",
   "industry": "歯科",
   "contact_email": "komurasaki.kobe@gmail.com",
