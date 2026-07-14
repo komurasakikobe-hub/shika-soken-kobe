@@ -1293,7 +1293,7 @@ def _existing_date_published(path):
 def build_article(a, titles=None):
     today = date.today()
     stamp = today.strftime("%Y年%m月")
-    url = f"https://{DOMAIN}/articles/research/{a['slug']}.html"
+    url = f"https://{DOMAIN}/articles/research/{a['slug']}"
     title = f"{a['title']}｜{SITE} データ研究"
     published = _existing_date_published(OUT.parent / f"{a['slug']}.html") or today.isoformat()
 
