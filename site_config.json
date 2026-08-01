@@ -25,15 +25,53 @@
   "stats": {
     "clinics_analyzed": 789,
     "reviews_parsed": 13485,
-    "sites_crawled": 505,
+    "sites_crawled": 527,
     "clinics_published": 789,
     "reviews_published": 13485,
-    "ai_analyzed": 631
+    "ai_analyzed": 642
   },
-  "_stats_note": "データ収集完了後に実数を入れる。トップページの手打ち数字と必ず一致させること",
+  "_stats_note": "データ収集完了後に実数を入れる。トップページの手打ち数字と必ず一致させること。2026-07-29更新：clinic_db.json実測（掲載医院＝not q_excluded and name、789件）に基づき再計算。sites_crawled=掲載医院のうちurl非空（527）、ai_analyzed=掲載医院のうちtotal_score>0（642。clinic_collector.py L892が定義する『AI分析済み』＝total_score>0を、同ファイルの全体集計ではなく掲載医院に限定して適用）。DB全体（1039件、除外医院含む）で同じ集計をすると口コミ合計22028・url非空715・total_score>0が849となり、掲載医院限定の本stats値とは母集団が異なるため未反映（混同しないこと）。",
   "_official_stat_note": "令和6年医療施設調査（2024-10-01時点）：神戸市内の歯科診療所887施設（東灘150/灘87/兵庫57/長田60/須磨76/垂水105/北94/中央170/西88）。収集完了後、この数値との乖離を監査の目安にする。",
   "ga4_measurement_ids": [
     "G-WCQ4V24CDK",
     ""
-  ]
+  ],
+  "ward_pages": {
+    "東灘区": [
+      "higashinada",
+      "住吉・御影"
+    ],
+    "灘区": [
+      "nada",
+      "六甲道・王子公園"
+    ],
+    "中央区": [
+      "chuo",
+      "三宮・元町"
+    ],
+    "兵庫区": [
+      "hyogo",
+      "新開地"
+    ],
+    "北区": [
+      "kita",
+      "鈴蘭台・有馬"
+    ],
+    "長田区": [
+      "nagata",
+      "新長田"
+    ],
+    "須磨区": [
+      "suma",
+      "須磨・板宿"
+    ],
+    "垂水区": [
+      "tarumi",
+      "垂水・舞子"
+    ],
+    "西区": [
+      "nishi",
+      "西神中央"
+    ]
+  }
 }
