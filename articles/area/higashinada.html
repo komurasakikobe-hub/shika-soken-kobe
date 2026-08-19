@@ -19,6 +19,7 @@
 <script src="../../assets/site-config.js"></script>
 <script src="../../assets/odr-track.js"></script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "東灘区（住吉・御影）の歯医者・歯科医院 データランキング｜口コミ3,343件をAI分析", "description": "神戸市東灘区の歯科医院134院を、Google口コミ3,343件と公式サイト等の公開情報からAIが分析。公開情報の充実度と評判にもとづくデータランキングです（優劣の断定ではありません）。", "url": "https://kobe.shikasoken.com/articles/area/higashinada", "isPartOf": {"@type": "WebSite", "name": "神戸歯科総研", "url": "https://kobe.shikasoken.com/"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "東灘区で夜おそくまで診てもらえる歯医者はありますか。", "acceptedAnswer": {"@type": "Answer", "text": "診療時間を確認できた108院のうち、19時30分以降も診療しているのは30院でした。"}}, {"@type": "Question", "name": "東灘区で土日に通える歯医者はありますか。", "acceptedAnswer": {"@type": "Answer", "text": "土曜日に診療しているのが103院、日曜日が21院です（診療時間を確認できた108院中）。"}}, {"@type": "Question", "name": "東灘区で歯科用CTのある歯医者を知りたいです。", "acceptedAnswer": {"@type": "Answer", "text": "設備の情報を解析できた118院のうち、歯科用CTの導入を確認できたのは19院です。確認できなかった医院に無いという意味ではないため、気になる場合は直接お問い合わせください。"}}, {"@type": "Question", "name": "この順番はどうやって決めているのですか。", "acceptedAnswer": {"@type": "Answer", "text": "口コミの内容、院長情報、設備、情報公開の度合い、活動状況を配点にして機械的に並べています。掲載順が金銭で変わることはありません。治療の優劣を示すものでもありません。"}}]}</script>
 <style>
 body{margin:0;background:var(--odr-paper);color:var(--odr-ink);font-family:var(--odr-sans);line-height:1.9;}
 .odr-brandbar{position:sticky;top:0;z-index:100;}
@@ -32,13 +33,32 @@ h1{font-size:clamp(1.25rem,3vw,1.8rem);font-weight:900;margin:0 0 12px;line-heig
 .stats span{font-size:.68rem;color:#9cbbae;letter-spacing:.1em;}
 main{max-width:860px;margin:0 auto;padding:36px clamp(16px,4vw,40px) 72px;}
 h2{font-size:1.1rem;color:var(--odr-pine);border-left:4px solid var(--odr-terra);padding-left:10px;margin:32px 0 16px;}
-.acard{display:block;background:#fff;border:1px solid var(--odr-line);border-radius:14px;padding:18px 22px;margin-bottom:12px;text-decoration:none;color:inherit;transition:box-shadow .2s;}
-.acard:hover{box-shadow:var(--shadow-lift);}
-.acard-name{font-weight:700;font-size:1rem;color:var(--odr-pine);margin:0 0 4px;}
+.acard{display:block;background:#fff;border:1px solid var(--odr-line);border-radius:14px;padding:18px 22px;margin-bottom:14px;color:inherit;}
+.acard-head{display:block;text-decoration:none;color:inherit;position:relative;}
+.acard-name{font-weight:700;font-size:1.02rem;color:var(--odr-pine);margin:0 0 4px;padding-right:34px;}
 .acard-meta{font-size:.78rem;color:var(--odr-ink2);margin:0 0 8px;}
-.tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;}
+.arank{position:absolute;right:0;top:0;font-family:var(--odr-mono);font-size:.78rem;color:var(--odr-terra);border:1px solid var(--odr-line);border-radius:8px;padding:1px 8px;}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;}
 .tag{background:#eaf2ee;color:var(--odr-pine);font-size:.7rem;font-weight:700;border-radius:999px;padding:3px 10px;}
-.acard-ai{font-size:.8rem;color:var(--odr-ink2);margin:0;}
+.afacts{margin:0 0 10px;padding:12px 14px;background:#fafbfa;border:1px solid var(--odr-line);border-radius:10px;}
+.afact{display:flex;gap:10px;font-size:.8rem;padding:3px 0;}
+.afact dt{flex:0 0 9.5em;color:var(--odr-ink2);}
+.afact dd{margin:0;flex:1;word-break:auto-phrase;}
+.acard-ai{font-size:.84rem;color:var(--odr-ink);margin:0 0 6px;word-break:auto-phrase;}
+.acard-phil{font-size:.8rem;color:var(--odr-ink2);margin:0 0 8px;}
+.acard-more{font-size:.8rem;color:var(--odr-pine);font-weight:700;text-decoration:none;}
+.acard-more:hover{text-decoration:underline;}
+.lead p{font-size:.92rem;margin:0 0 12px;word-break:auto-phrase;}
+.ctable{background:#fff;border:1px solid var(--odr-line);border-radius:12px;padding:6px 16px;margin-bottom:10px;}
+.crow{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:9px 0;border-bottom:1px solid var(--odr-line);font-size:.86rem;}
+.crow:last-child{border-bottom:none;}
+.cval{white-space:nowrap;font-family:var(--odr-mono);}
+.cval b{font-size:1.05rem;color:var(--odr-pine);}
+.cval small{color:var(--odr-ink2);font-size:.72rem;}
+.faq{background:#fff;border:1px solid var(--odr-line);border-radius:10px;padding:12px 16px;margin-bottom:8px;}
+.faq summary{cursor:pointer;font-weight:700;font-size:.9rem;color:var(--odr-pine);}
+.faq p{font-size:.86rem;color:var(--odr-ink2);margin:10px 0 0;word-break:auto-phrase;}
+@media(max-width:760px){.afact{flex-direction:column;gap:2px;}.afact dt{flex:none;font-size:.74rem;}.crow{flex-direction:column;gap:2px;}}
 .cta{display:block;background:var(--odr-pine);color:#fff;text-align:center;font-weight:700;border-radius:999px;padding:15px;margin:28px 0;text-decoration:none;}
 .cta:hover{background:var(--odr-pine-2);}
 .rlinks{margin:0 0 8px;padding-left:1.3em;}
@@ -75,60 +95,178 @@ h2{font-size:1.1rem;color:var(--odr-pine);border-left:4px solid var(--odr-terra)
   </div>
 </section>
 <main>
-  <h2>東灘区の分析スコア上位10院</h2>
-  <a class="acard" href="../clinics/%E3%81%B2%E3%81%97%E3%81%8B%E3%82%8F%E6%AD%AF%E7%A7%91%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">ひしかわ歯科矯正歯科</p>
-  <p class="acard-meta">Google ★4.3（29件） ・ 神戸市東灘区本山南町７丁目３−１５ 本山南パークマン</p>
+  <div class="lead"><p>神戸市東灘区で分析対象にしている歯科医院は134院です。このうち118院にGoogleの口コミがあり、合計3,343件を読み取りました。公式サイトまで解析できたのは99院です。最寄り駅で見ると摂津本山駅が27院、住吉駅が18院、深江駅が17院です。</p><p>ここから先は、診療時間・最寄り駅・公開情報で確認できた設備といった「調べれば分かること」を医院ごとに並べています。通いやすさは人によって違うので、順番はあくまで参考にしてください。</p></div>
+  <h2>東灘区の分析スコア上位15院</h2>
+  <article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%B2%E3%81%97%E3%81%8B%E3%82%8F%E6%AD%AF%E7%A7%91%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">1</span>
+    <p class="acard-name">ひしかわ歯科矯正歯科</p>
+    <p class="acard-meta">Google ★4.3（口コミ29件） ・ 神戸市東灘区本山南町７丁目３−１５ 本山南パークマンション</p>
+  </a>
   <div class="tags"><span class="tag">親切</span><span class="tag">清潔感</span><span class="tag">丁寧な説明</span></div>
-  <p class="acard-ai">この医院は、親切で丁寧な医療を求める方に向いています。一方、深夜しか通えない方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E3%81%AB%E3%81%84%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">にい歯科・矯正歯科</p>
-  <p class="acard-meta">Google ★4.5（158件） ・ 神戸市東灘区青木５丁目５−１５</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>深江駅から徒歩7〜11分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>マイクロスコープ・口腔内スキャナー・個室</dd></div><div class="afact"><dt>院長</dt><dd>菱川 泰夫</dd></div><div class="afact"><dt>電話</dt><dd>078-862-5420</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は、親切で丁寧な医療を求める方に向いています。一方、深夜しか通えない方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%B2%E3%81%97%E3%81%8B%E3%82%8F%E6%AD%AF%E7%A7%91%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">ひしかわ歯科矯正歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%AB%E3%81%84%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">2</span>
+    <p class="acard-name">にい歯科・矯正歯科</p>
+    <p class="acard-meta">Google ★4.5（口コミ158件） ・ 神戸市東灘区青木５丁目５−１５</p>
+  </a>
   <div class="tags"><span class="tag">親切</span><span class="tag">通いやすい</span><span class="tag">総合力</span></div>
-  <p class="acard-ai">にい歯科・矯正歯科は、患者に寄り添う診療が好評で、通いやすさも魅力です。急患希望の方には向いていない可能性があります。…</p>
-</a><a class="acard" href="../clinics/%E3%81%BF%E3%81%8B%E3%81%92%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">みかげ小児歯科・矯正歯科クリニック</p>
-  <p class="acard-meta">Google ★4.8（670件） ・ 神戸市東灘区御影郡家１丁目３４−９ 御影郡家マンショ</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>青木駅から徒歩1〜2分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は20時まで（夜の時間帯まで診療）</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・マイクロスコープ・個室・駐車場</dd></div><div class="afact"><dt>院長</dt><dd>新居 泰浩</dd></div><div class="afact"><dt>電話</dt><dd>078-431-6500</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">にい歯科・矯正歯科は、患者に寄り添う診療が好評で、通いやすさも魅力です。急患希望の方には向いていない可能性があります。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%AB%E3%81%84%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">にい歯科・矯正歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%BF%E3%81%8B%E3%81%92%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">3</span>
+    <p class="acard-name">みかげ小児歯科・矯正歯科クリニック</p>
+    <p class="acard-meta">Google ★4.8（口コミ670件） ・ 神戸市東灘区御影郡家１丁目３４−９ 御影郡家マンション 1 階</p>
+  </a>
   <div class="tags"><span class="tag">優しい先生</span><span class="tag">子供に安心</span><span class="tag">楽しい体験</span></div>
-  <p class="acard-ai">みかげ小児歯科・矯正歯科クリニックは、子供に優しい対応と楽しい雰囲気が評判の小児歯科です。夜間帯の診療は行っていないため、通院時間にご注意ください。…</p>
-</a><a class="acard" href="../clinics/%E8%B6%B3%E7%AB%8B%E5%84%AA%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">足立優歯科</p>
-  <p class="acard-meta">Google ★4.8（146件） ・ 神戸市東灘区岡本１丁目３−３３</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>御影駅から徒歩5〜9分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は17時30分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室・駐車場・バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>河崎 真也</dd></div><div class="afact"><dt>電話</dt><dd>078-811-7016</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">みかげ小児歯科・矯正歯科クリニックは、子供に優しい対応と楽しい雰囲気が評判の小児歯科です。夜間帯の診療は行っていないため、通院時間にご注意ください。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%BF%E3%81%8B%E3%81%92%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">みかげ小児歯科・矯正歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E8%B6%B3%E7%AB%8B%E5%84%AA%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">4</span>
+    <p class="acard-name">足立優歯科</p>
+    <p class="acard-meta">Google ★4.8（口コミ146件） ・ 神戸市東灘区岡本１丁目３−３３</p>
+  </a>
   <div class="tags"><span class="tag">優しい院長</span><span class="tag">長年の信頼</span><span class="tag">自由診療専門</span></div>
-  <p class="acard-ai">この医院は質の高い自由診療を希望する方に向いています。一方、保険診療を重視する方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E7%9F%B3%EF%A8%91%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
-  <p class="acard-name">石﨑歯科医院</p>
-  <p class="acard-meta">Google ★4.7（131件） ・ 神戸市東灘区魚崎北町１丁目５−１８</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>摂津本山駅から徒歩1〜2分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時30分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり・日曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・マイクロスコープ・口腔内スキャナー・個室・駐車場・バリアフリー</dd></div><div class="afact"><dt>電話</dt><dd>078-411-0024</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は質の高い自由診療を希望する方に向いています。一方、保険診療を重視する方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E8%B6%B3%E7%AB%8B%E5%84%AA%E6%AD%AF%E7%A7%91.html">足立優歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E7%9F%B3%EF%A8%91%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
+    <span class="arank">5</span>
+    <p class="acard-name">石﨑歯科医院</p>
+    <p class="acard-meta">Google ★4.7（口コミ131件） ・ 神戸市東灘区魚崎北町１丁目５−１８</p>
+  </a>
   <div class="tags"><span class="tag">腕が良い</span><span class="tag">スピード治療</span><span class="tag">アットホーム</span></div>
-  <p class="acard-ai">この医院はスピーディかつ丁寧な治療を求める方に向いています。一方、特に夜間診療を必要とする方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E3%83%9E%E3%83%9E%E3%81%A8%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%AF%E3%81%84%E3%81%97%E3%82%83%E3%81%95%E3%82%93%E7%A5%9E%E6%88%B8%E7%94%B2%E5%8D%97%E5%B1%B1%E6%89%8B%E9%99%A2.html">
-  <p class="acard-name">ママとこどものはいしゃさん神戸甲南山手院</p>
-  <p class="acard-meta">Google ★4.6（81件） ・ 神戸市東灘区森南町１丁目７−１２ INICIO甲南山</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>青木駅から徒歩4〜8分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時30分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・マイクロスコープ・口腔内スキャナー・個室・駐車場・バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>石﨑 順啓</dd></div><div class="afact"><dt>電話</dt><dd>078-411-2407</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院はスピーディかつ丁寧な治療を求める方に向いています。一方、特に夜間診療を必要とする方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E7%9F%B3%EF%A8%91%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">石﨑歯科医院の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%83%9E%E3%83%9E%E3%81%A8%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%AF%E3%81%84%E3%81%97%E3%82%83%E3%81%95%E3%82%93%E7%A5%9E%E6%88%B8%E7%94%B2%E5%8D%97%E5%B1%B1%E6%89%8B%E9%99%A2.html">
+    <span class="arank">6</span>
+    <p class="acard-name">ママとこどものはいしゃさん神戸甲南山手院</p>
+    <p class="acard-meta">Google ★4.6（口コミ81件） ・ 神戸市東灘区森南町１丁目７−１２ INICIO甲南山手102</p>
+  </a>
   <div class="tags"><span class="tag">子ども優先</span><span class="tag">優しい治療</span><span class="tag">信頼感</span></div>
-  <p class="acard-ai">この医院は子ども向けの優しい治療を提供しており、特に子どもがいる家庭に適しています。一方、急な治療を希望する方には他院を検討することをお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E3%81%B5%E3%81%98%E3%82%82%E3%81%A8%E6%AD%AF%E7%A7%91%E8%A8%BA%E7%99%82%E6%89%80.html">
-  <p class="acard-name">ふじもと歯科診療所</p>
-  <p class="acard-meta">Google ★4.6（67件） ・ 神戸市東灘区田中町２丁目９−１３ ニックあさひ 1F</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>甲南山手駅から徒歩2〜4分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>駐車場・バリアフリー</dd></div><div class="afact"><dt>電話</dt><dd>078-412-8241</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は子ども向けの優しい治療を提供しており、特に子どもがいる家庭に適しています。一方、急な治療を希望する方には他院を検討することをお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%83%9E%E3%83%9E%E3%81%A8%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E3%81%AF%E3%81%84%E3%81%97%E3%82%83%E3%81%95%E3%82%93%E7%A5%9E%E6%88%B8%E7%94%B2%E5%8D%97%E5%B1%B1%E6%89%8B%E9%99%A2.html">ママとこどものはいしゃさん神戸甲南山手院の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%B5%E3%81%98%E3%82%82%E3%81%A8%E6%AD%AF%E7%A7%91%E8%A8%BA%E7%99%82%E6%89%80.html">
+    <span class="arank">7</span>
+    <p class="acard-name">ふじもと歯科診療所</p>
+    <p class="acard-meta">Google ★4.6（口コミ67件） ・ 神戸市東灘区田中町２丁目９−１３ ニックあさひ 1F</p>
+  </a>
   <div class="tags"><span class="tag">信頼できる</span><span class="tag">家族向け</span><span class="tag">丁寧な治療</span></div>
-  <p class="acard-ai">この医院は小さなお子さんや家族で通えて、痛みへの配慮もあるため安心です。一方、夜間の診療を希望する方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E7%A5%9E%E6%88%B8%E3%82%B7%E3%83%86%E3%82%A3%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91_%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">神戸シティデンタルクリニック矯正歯科・小児歯科</p>
-  <p class="acard-meta">Google ★4.9（64件） ・ 神戸市東灘区住吉宮町７丁目２−３ ヴイレッタの杜住吉</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>摂津本山駅から徒歩4〜7分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時30分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室・駐車場・バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>藤本</dd></div><div class="afact"><dt>電話</dt><dd>078-451-7887</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は小さなお子さんや家族で通えて、痛みへの配慮もあるため安心です。一方、夜間の診療を希望する方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%B5%E3%81%98%E3%82%82%E3%81%A8%E6%AD%AF%E7%A7%91%E8%A8%BA%E7%99%82%E6%89%80.html">ふじもと歯科診療所の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E7%A5%9E%E6%88%B8%E3%82%B7%E3%83%86%E3%82%A3%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91_%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">8</span>
+    <p class="acard-name">神戸シティデンタルクリニック矯正歯科・小児歯科</p>
+    <p class="acard-meta">Google ★4.9（口コミ64件） ・ 神戸市東灘区住吉宮町７丁目２−３ ヴイレッタの杜住吉101</p>
+  </a>
   <div class="tags"><span class="tag">安心感</span><span class="tag">技術力</span><span class="tag">親切</span></div>
-  <p class="acard-ai">この医院は、歯医者が苦手な方や小さなお子様をお持ちの方に特に向いています。一方、夜間しか通えない方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E3%81%AB%E3%81%97%E3%81%86%E3%81%BF%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">にしうみ歯科・矯正歯科</p>
-  <p class="acard-meta">Google ★5（53件） ・ 神戸市東灘区深江北町４丁目８−１９ ドルフ深江スタツ</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>住吉駅から徒歩3〜5分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は17時45分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・マイクロスコープ</dd></div><div class="afact"><dt>電話</dt><dd>050-3100-9435</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は、歯医者が苦手な方や小さなお子様をお持ちの方に特に向いています。一方、夜間しか通えない方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E7%A5%9E%E6%88%B8%E3%82%B7%E3%83%86%E3%82%A3%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91_%E5%B0%8F%E5%85%90%E6%AD%AF%E7%A7%91.html">神戸シティデンタルクリニック矯正歯科・小児歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%AB%E3%81%97%E3%81%86%E3%81%BF%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">9</span>
+    <p class="acard-name">にしうみ歯科・矯正歯科</p>
+    <p class="acard-meta">Google ★5（口コミ53件） ・ 神戸市東灘区深江北町４丁目８−１９ ドルフ深江スタツィオ 101</p>
+  </a>
   <div class="tags"><span class="tag">患者思い</span><span class="tag">丁寧な説明</span><span class="tag">信頼できる</span></div>
-  <p class="acard-ai">この医院は丁寧な説明や痛みへの配慮を重視する方に向いています。一方、即日治療を希望する方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E7%99%BD%E7%A5%9E%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">白神歯科クリニック</p>
-  <p class="acard-meta">Google ★4.4（21件） ・ 神戸市東灘区田中町１丁目３−２２ ＯＺパレス １F</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>深江駅から徒歩1〜2分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・駐車場</dd></div><div class="afact"><dt>力を入れている治療</dt><dd>インプラント治療・矯正治療・審美治療・歯周外科治療</dd></div><div class="afact"><dt>院長</dt><dd>西海 俊孝</dd></div><div class="afact"><dt>電話</dt><dd>078-451-8283</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は丁寧な説明や痛みへの配慮を重視する方に向いています。一方、即日治療を希望する方には他院も検討をお勧めします。</p>
+  <p class="acard-phil">院の方針として「患者様のより良い未来のために」を掲げています。</p>
+  <a class="acard-more" href="../clinics/%E3%81%AB%E3%81%97%E3%81%86%E3%81%BF%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">にしうみ歯科・矯正歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E7%99%BD%E7%A5%9E%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">10</span>
+    <p class="acard-name">白神歯科クリニック</p>
+    <p class="acard-meta">Google ★4.4（口コミ21件） ・ 神戸市東灘区田中町１丁目３−２２ ＯＺパレス １F</p>
+  </a>
   <div class="tags"><span class="tag">良い説明</span><span class="tag">安心感</span><span class="tag">家族向け</span></div>
-  <p class="acard-ai">この医院はインプラント治療や説明重視の方に向いています。一方、夜間通院が必要な方には他院も検討をお勧めします。…</p>
-</a>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>摂津本山駅から徒歩3〜5分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・個室</dd></div><div class="afact"><dt>院長</dt><dd>白神 翔</dd></div><div class="afact"><dt>電話</dt><dd>078-855-7585</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院はインプラント治療や説明重視の方に向いています。一方、夜間通院が必要な方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E7%99%BD%E7%A5%9E%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">白神歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E9%96%A2%E5%B7%9D%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
+    <span class="arank">11</span>
+    <p class="acard-name">関川歯科医院</p>
+    <p class="acard-meta">Google ★4.5（口コミ6件） ・ 神戸市東灘区魚崎北町５丁目７−１０</p>
+  </a>
+  <div class="tags"><span class="tag">家族で通える</span><span class="tag">子供の矯正</span><span class="tag">安心の衛生管理</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>青木駅から徒歩6〜11分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は17時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり・日曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室・駐車場</dd></div><div class="afact"><dt>院長</dt><dd>関川 明人</dd></div><div class="afact"><dt>電話</dt><dd>078-411-2603</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は子どもから高齢者まで幅広く対応しています。特に子供の矯正を希望する家庭には最適です。一方、夜間診療を必要とする方には不向きかもしれません。</p>
+  
+  <a class="acard-more" href="../clinics/%E9%96%A2%E5%B7%9D%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">関川歯科医院の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E5%AF%8C%E5%A1%9A%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
+    <span class="arank">12</span>
+    <p class="acard-name">富塚歯科医院</p>
+    <p class="acard-meta">Google ★4.4（口コミ64件） ・ 神戸市東灘区森南町１丁目９−３ KDXレジデンス甲南山手 １Ｆ</p>
+  </a>
+  <div class="tags"><span class="tag">インプラント</span><span class="tag">口腔外科</span><span class="tag">親切</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>甲南山手駅から徒歩2〜4分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・マイクロスコープ・口腔内スキャナー</dd></div><div class="afact"><dt>電話</dt><dd>078-441-6480</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院はインプラントなどの治療を重視する方に向いています。一方、歯科治療に敏感な方には他院を検討することをお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E5%AF%8C%E5%A1%9A%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">富塚歯科医院の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%88%E3%81%B3%E3%81%99%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">13</span>
+    <p class="acard-name">えびすデンタルクリニック</p>
+    <p class="acard-meta">Google ★4.3（口コミ49件） ・ 神戸市東灘区北青木３丁目３−１</p>
+  </a>
+  <div class="tags"><span class="tag">親切なスタッフ</span><span class="tag">安心感</span><span class="tag">丁寧な治療</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>青木駅から徒歩1〜2分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時30分まで（夜の時間帯まで診療）</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>マイクロスコープ・個室・駐車場</dd></div><div class="afact"><dt>院長</dt><dd>胡 克実</dd></div><div class="afact"><dt>電話</dt><dd>078-413-4618</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">えびすデンタルクリニックは、親切なスタッフが丁寧な治療を提供し、安心して通える医院です。急患希望の方には向いていない可能性があります。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%88%E3%81%B3%E3%81%99%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">えびすデンタルクリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E4%B8%AD%E6%9D%91%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">14</span>
+    <p class="acard-name">中村デンタルクリニック</p>
+    <p class="acard-meta">Google ★3.7（口コミ7件） ・ 神戸市東灘区住吉東町５丁目１−１ ケイユービル</p>
+  </a>
+  <div class="tags"><span class="tag">設備が新しい</span><span class="tag">家族で通える</span><span class="tag">痛みの改善</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>住吉駅から徒歩2〜5分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時30分まで（夜の時間帯まで診療）</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・駐車場</dd></div><div class="afact"><dt>院長</dt><dd>中村院長</dd></div><div class="afact"><dt>電話</dt><dd>078-811-4182</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">中村デンタルクリニックは、最新の設備を備え、家族全員が通いやすい環境を提供しています。また、急患には対応していない可能性があります。</p>
+  
+  <a class="acard-more" href="../clinics/%E4%B8%AD%E6%9D%91%E3%83%87%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">中村デンタルクリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%AF%E3%81%90%E3%81%8F%E3%82%80%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">15</span>
+    <p class="acard-name">はぐくむ歯科クリニック</p>
+    <p class="acard-meta">Google ★4（口コミ17件） ・ 神戸市東灘区青木６丁目４−１７</p>
+  </a>
+  <div class="tags"><span class="tag">地元評判</span><span class="tag">清潔感</span><span class="tag">配慮不足</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>青木駅から徒歩1〜2分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室・バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>上田 育伸</dd></div><div class="afact"><dt>電話</dt><dd>078-803-8978</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は清潔感が強調されており、子ども連れのご家庭にも向いています。一方、受付の態度に敏感な方には他院を勧めます。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%AF%E3%81%90%E3%81%8F%E3%82%80%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">はぐくむ歯科クリニックの分析を詳しく見る →</a>
+</article>
   <a class="cta" href="../shindan/index.html?ward=%E6%9D%B1%E7%81%98%E5%8C%BA">症状・希望条件も選んで、東灘区の医院を絞り込む →</a>
-  <h2>東灘区のデータを詳しく見る</h2><p>設備情報を解析できた118院のうち、歯科用CTの導入が公式サイト等で確認できたのは19院でした。</p><p>夜間診療の案内が確認できた医院は、東灘区の分析対象134院のうち0院です。</p><p>こうした設備や診療時間の傾向は、市全体のデータをまとめた研究記事で背景まで確認できます。</p><ul class="rlinks"><li><a href="../research/equipment-gap.html">精密機器の導入率は地域・医院でどれだけ違うか（設備データの研究）</a></li><li><a href="../research/worktime-access.html">夜間・週末に通える歯科はどれだけあるか（診療時間データの研究）</a></li></ul><p class="rnote">件数・割合は当サイトが公開情報から機械的に解析できた範囲の値です。「確認できなかった」は「無い」という意味ではありません。</p>
+  <h2>東灘区で条件から絞る</h2><p>夜間や土日に通えるか、駐車場があるかは、医院選びで最初に効いてくる条件です。東灘区の分析対象134院について、公開情報から確認できた数を並べます。</p><div class="ctable"><div class="crow"><span class="clabel">19時30分以降も診療している</span><span class="cval"><b>30</b>院 <small>／確認できた108院中</small></span></div><div class="crow"><span class="clabel">土曜日に診療している</span><span class="cval"><b>103</b>院 <small>／確認できた108院中</small></span></div><div class="crow"><span class="clabel">日曜日に診療している</span><span class="cval"><b>21</b>院 <small>／確認できた108院中</small></span></div><div class="crow"><span class="clabel">歯科用CTの導入を確認できた</span><span class="cval"><b>19</b>院 <small>／確認できた118院中</small></span></div><div class="crow"><span class="clabel">個室の案内を確認できた</span><span class="cval"><b>25</b>院 <small>／確認できた118院中</small></span></div><div class="crow"><span class="clabel">駐車場の案内を確認できた</span><span class="cval"><b>33</b>院 <small>／確認できた118院中</small></span></div><div class="crow"><span class="clabel">バリアフリーの案内を確認できた</span><span class="cval"><b>20</b>院 <small>／確認できた118院中</small></span></div></div><p class="rnote">分母は、その項目を公開情報から判定できた医院数です。「確認できなかった」は「無い」という意味ではありません。最新の診療時間は必ず医院にご確認ください。</p>
+  <h2>よくある質問</h2><details class="faq"><summary>東灘区で夜おそくまで診てもらえる歯医者はありますか。</summary><p>診療時間を確認できた108院のうち、19時30分以降も診療しているのは30院でした。</p></details><details class="faq"><summary>東灘区で土日に通える歯医者はありますか。</summary><p>土曜日に診療しているのが103院、日曜日が21院です（診療時間を確認できた108院中）。</p></details><details class="faq"><summary>東灘区で歯科用CTのある歯医者を知りたいです。</summary><p>設備の情報を解析できた118院のうち、歯科用CTの導入を確認できたのは19院です。確認できなかった医院に無いという意味ではないため、気になる場合は直接お問い合わせください。</p></details><details class="faq"><summary>この順番はどうやって決めているのですか。</summary><p>口コミの内容、院長情報、設備、情報公開の度合い、活動状況を配点にして機械的に並べています。掲載順が金銭で変わることはありません。治療の優劣を示すものでもありません。</p></details>
+  <h2>東灘区のデータを詳しく見る</h2><p>設備や診療時間の傾向は、市全体のデータをまとめた研究記事で背景まで確認できます。</p><ul class="rlinks"><li><a href="../research/equipment-gap.html">精密機器の導入率は地域・医院でどれだけ違うか（設備データの研究）</a></li><li><a href="../research/worktime-access.html">夜間・週末に通える歯科はどれだけあるか（診療時間データの研究）</a></li></ul>
   <p class="disc">スコア・順位は公開情報（口コミ・公式サイト等）の充実度と評判分析にもとづく参考表示であり、医院の技術や治療結果の優劣を示すものではありません。順位は条件の選択で変動します。掲載順が金銭で変わることはありません。受診の判断は必ず歯科医師にご相談ください。
   掲載情報の訂正は<a href="../../teisei.html">こちら</a>／詳細は<a href="../../policy.html">運営ポリシー・免責事項</a>。</p>
 </main>

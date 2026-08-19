@@ -19,6 +19,7 @@
 <script src="../../assets/site-config.js"></script>
 <script src="../../assets/odr-track.js"></script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "垂水区（垂水・舞子）の歯医者・歯科医院 データランキング｜口コミ1,612件をAI分析", "description": "神戸市垂水区の歯科医院100院を、Google口コミ1,612件と公式サイト等の公開情報からAIが分析。公開情報の充実度と評判にもとづくデータランキングです（優劣の断定ではありません）。", "url": "https://kobe.shikasoken.com/articles/area/tarumi", "isPartOf": {"@type": "WebSite", "name": "神戸歯科総研", "url": "https://kobe.shikasoken.com/"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "垂水区で夜おそくまで診てもらえる歯医者はありますか。", "acceptedAnswer": {"@type": "Answer", "text": "診療時間を確認できた83院のうち、19時30分以降も診療しているのは18院でした。"}}, {"@type": "Question", "name": "垂水区で土日に通える歯医者はありますか。", "acceptedAnswer": {"@type": "Answer", "text": "土曜日に診療しているのが81院、日曜日が11院です（診療時間を確認できた83院中）。"}}, {"@type": "Question", "name": "垂水区で歯科用CTのある歯医者を知りたいです。", "acceptedAnswer": {"@type": "Answer", "text": "設備の情報を解析できた86院のうち、歯科用CTの導入を確認できたのは13院です。確認できなかった医院に無いという意味ではないため、気になる場合は直接お問い合わせください。"}}, {"@type": "Question", "name": "この順番はどうやって決めているのですか。", "acceptedAnswer": {"@type": "Answer", "text": "口コミの内容、院長情報、設備、情報公開の度合い、活動状況を配点にして機械的に並べています。掲載順が金銭で変わることはありません。治療の優劣を示すものでもありません。"}}]}</script>
 <style>
 body{margin:0;background:var(--odr-paper);color:var(--odr-ink);font-family:var(--odr-sans);line-height:1.9;}
 .odr-brandbar{position:sticky;top:0;z-index:100;}
@@ -32,13 +33,32 @@ h1{font-size:clamp(1.25rem,3vw,1.8rem);font-weight:900;margin:0 0 12px;line-heig
 .stats span{font-size:.68rem;color:#9cbbae;letter-spacing:.1em;}
 main{max-width:860px;margin:0 auto;padding:36px clamp(16px,4vw,40px) 72px;}
 h2{font-size:1.1rem;color:var(--odr-pine);border-left:4px solid var(--odr-terra);padding-left:10px;margin:32px 0 16px;}
-.acard{display:block;background:#fff;border:1px solid var(--odr-line);border-radius:14px;padding:18px 22px;margin-bottom:12px;text-decoration:none;color:inherit;transition:box-shadow .2s;}
-.acard:hover{box-shadow:var(--shadow-lift);}
-.acard-name{font-weight:700;font-size:1rem;color:var(--odr-pine);margin:0 0 4px;}
+.acard{display:block;background:#fff;border:1px solid var(--odr-line);border-radius:14px;padding:18px 22px;margin-bottom:14px;color:inherit;}
+.acard-head{display:block;text-decoration:none;color:inherit;position:relative;}
+.acard-name{font-weight:700;font-size:1.02rem;color:var(--odr-pine);margin:0 0 4px;padding-right:34px;}
 .acard-meta{font-size:.78rem;color:var(--odr-ink2);margin:0 0 8px;}
-.tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:8px;}
+.arank{position:absolute;right:0;top:0;font-family:var(--odr-mono);font-size:.78rem;color:var(--odr-terra);border:1px solid var(--odr-line);border-radius:8px;padding:1px 8px;}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;}
 .tag{background:#eaf2ee;color:var(--odr-pine);font-size:.7rem;font-weight:700;border-radius:999px;padding:3px 10px;}
-.acard-ai{font-size:.8rem;color:var(--odr-ink2);margin:0;}
+.afacts{margin:0 0 10px;padding:12px 14px;background:#fafbfa;border:1px solid var(--odr-line);border-radius:10px;}
+.afact{display:flex;gap:10px;font-size:.8rem;padding:3px 0;}
+.afact dt{flex:0 0 9.5em;color:var(--odr-ink2);}
+.afact dd{margin:0;flex:1;word-break:auto-phrase;}
+.acard-ai{font-size:.84rem;color:var(--odr-ink);margin:0 0 6px;word-break:auto-phrase;}
+.acard-phil{font-size:.8rem;color:var(--odr-ink2);margin:0 0 8px;}
+.acard-more{font-size:.8rem;color:var(--odr-pine);font-weight:700;text-decoration:none;}
+.acard-more:hover{text-decoration:underline;}
+.lead p{font-size:.92rem;margin:0 0 12px;word-break:auto-phrase;}
+.ctable{background:#fff;border:1px solid var(--odr-line);border-radius:12px;padding:6px 16px;margin-bottom:10px;}
+.crow{display:flex;justify-content:space-between;align-items:baseline;gap:12px;padding:9px 0;border-bottom:1px solid var(--odr-line);font-size:.86rem;}
+.crow:last-child{border-bottom:none;}
+.cval{white-space:nowrap;font-family:var(--odr-mono);}
+.cval b{font-size:1.05rem;color:var(--odr-pine);}
+.cval small{color:var(--odr-ink2);font-size:.72rem;}
+.faq{background:#fff;border:1px solid var(--odr-line);border-radius:10px;padding:12px 16px;margin-bottom:8px;}
+.faq summary{cursor:pointer;font-weight:700;font-size:.9rem;color:var(--odr-pine);}
+.faq p{font-size:.86rem;color:var(--odr-ink2);margin:10px 0 0;word-break:auto-phrase;}
+@media(max-width:760px){.afact{flex-direction:column;gap:2px;}.afact dt{flex:none;font-size:.74rem;}.crow{flex-direction:column;gap:2px;}}
 .cta{display:block;background:var(--odr-pine);color:#fff;text-align:center;font-weight:700;border-radius:999px;padding:15px;margin:28px 0;text-decoration:none;}
 .cta:hover{background:var(--odr-pine-2);}
 .rlinks{margin:0 0 8px;padding-left:1.3em;}
@@ -75,60 +95,178 @@ h2{font-size:1.1rem;color:var(--odr-pine);border-left:4px solid var(--odr-terra)
   </div>
 </section>
 <main>
-  <h2>垂水区の分析スコア上位10院</h2>
-  <a class="acard" href="../clinics/%E8%BF%91%E8%97%A4%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">近藤歯科クリニック</p>
-  <p class="acard-meta">Google ★4.6（13件） ・ 神戸市垂水区舞多聞東３丁目２−２２</p>
+  <div class="lead"><p>神戸市垂水区で分析対象にしている歯科医院は100院です。このうち84院にGoogleの口コミがあり、合計1,612件を読み取りました。公式サイトまで解析できたのは68院です。最寄り駅で見ると山陽垂水駅が26院、学園都市駅が17院、西舞子駅が14院です。</p><p>ここから先は、診療時間・最寄り駅・公開情報で確認できた設備といった「調べれば分かること」を医院ごとに並べています。通いやすさは人によって違うので、順番はあくまで参考にしてください。</p></div>
+  <h2>垂水区の分析スコア上位15院</h2>
+  <article class="acard">
+  <a class="acard-head" href="../clinics/%E8%BF%91%E8%97%A4%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">1</span>
+    <p class="acard-name">近藤歯科クリニック</p>
+    <p class="acard-meta">Google ★4.6（口コミ13件） ・ 神戸市垂水区舞多聞東３丁目２−２２</p>
+  </a>
   <div class="tags"><span class="tag">名医</span><span class="tag">リラックス</span><span class="tag">小児歯科</span></div>
-  <p class="acard-ai">近藤歯科クリニックは、リラックスした治療環境を提供し、10年以上通う患者も多い名医が在籍しています。急患希望の方には向いていない可能性がありますので、受診前に診…</p>
-</a><a class="acard" href="../clinics/%E9%AB%98%E6%A9%8B%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">高橋歯科</p>
-  <p class="acard-meta">Google ★4.6（7件） ・ 神戸市垂水区美山台１丁目９−７４</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>学園都市駅から徒歩19〜29分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時30分まで（夜の時間帯まで診療）</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室・駐車場</dd></div><div class="afact"><dt>院長</dt><dd>近藤 公英</dd></div><div class="afact"><dt>電話</dt><dd>078-783-2221</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">近藤歯科クリニックは、リラックスした治療環境を提供し、10年以上通う患者も多い名医が在籍しています。急患希望の方には向いていない可能性がありますので、受診前に診療時間や対応内容を公式サイトでご確認ください。</p>
+  
+  <a class="acard-more" href="../clinics/%E8%BF%91%E8%97%A4%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">近藤歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E9%AB%98%E6%A9%8B%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">2</span>
+    <p class="acard-name">高橋歯科</p>
+    <p class="acard-meta">Google ★4.6（口コミ7件） ・ 神戸市垂水区美山台１丁目９−７４</p>
+  </a>
   <div class="tags"><span class="tag">丁寧な対応</span><span class="tag">完全個室</span><span class="tag">家族向け</span></div>
-  <p class="acard-ai">高橋歯科は家族で安心して通える、丁寧な施術が特徴のクリニックです。一方、急な治療を希望する方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">オリーブ歯科クリニック</p>
-  <p class="acard-meta">Google ★4.6（174件） ・ 神戸市垂水区五色山１丁目４−５ リヴァージュ垂水五色</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>滝の茶屋駅から徒歩9〜15分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室・バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>高橋院長</dd></div><div class="afact"><dt>電話</dt><dd>078-752-0002</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">高橋歯科は家族で安心して通える、丁寧な施術が特徴のクリニックです。一方、急な治療を希望する方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E9%AB%98%E6%A9%8B%E6%AD%AF%E7%A7%91.html">高橋歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">3</span>
+    <p class="acard-name">オリーブ歯科クリニック</p>
+    <p class="acard-meta">Google ★4.6（口コミ174件） ・ 神戸市垂水区五色山１丁目４−５ リヴァージュ垂水五色山 2F</p>
+  </a>
   <div class="tags"><span class="tag">親切</span><span class="tag">通いやすい</span><span class="tag">信頼できる</span></div>
-  <p class="acard-ai">この医院は歯科が苦手な方や小さなお子さんがいる方に向いています。一方、自由診療中心の治療を希望する方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E7%A5%9E%E6%88%B8%E3%81%8A%E3%81%A8%E3%81%AA%E3%81%93%E3%81%A9%E3%82%82%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">ブランチ神戸おとなこども歯科</p>
-  <p class="acard-meta">Google ★4.7（51件） ・ 神戸市垂水区小束山手２丁目２−１ ブランチ神戸学園都</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>山陽垂水駅から徒歩3〜5分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室・駐車場</dd></div><div class="afact"><dt>院長</dt><dd>三宮崇嗣</dd></div><div class="afact"><dt>電話</dt><dd>078-754-6874</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は歯科が苦手な方や小さなお子さんがいる方に向いています。一方、自由診療中心の治療を希望する方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%96%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">オリーブ歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E7%A5%9E%E6%88%B8%E3%81%8A%E3%81%A8%E3%81%AA%E3%81%93%E3%81%A9%E3%82%82%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">4</span>
+    <p class="acard-name">ブランチ神戸おとなこども歯科</p>
+    <p class="acard-meta">Google ★4.7（口コミ51件） ・ 神戸市垂水区小束山手２丁目２−１ ブランチ神戸学園都市 １階</p>
+  </a>
   <div class="tags"><span class="tag">子ども</span><span class="tag">家族連れ</span><span class="tag">信頼性</span></div>
-  <p class="acard-ai">この医院は子ども連れや歯科が苦手な方に向いています。一方で、急患を希望する方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E5%8D%97%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">南歯科クリニック</p>
-  <p class="acard-meta">Google ★4.1（8件） ・ 神戸市垂水区天ノ下町５−２８ 小林歯科ビル 102</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>学園都市駅から徒歩10〜16分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>個室</dd></div><div class="afact"><dt>院長</dt><dd>安藤 敏雄</dd></div><div class="afact"><dt>電話</dt><dd>078-798-6000</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は子ども連れや歯科が苦手な方に向いています。一方で、急患を希望する方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E7%A5%9E%E6%88%B8%E3%81%8A%E3%81%A8%E3%81%AA%E3%81%93%E3%81%A9%E3%82%82%E6%AD%AF%E7%A7%91.html">ブランチ神戸おとなこども歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E5%8D%97%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">5</span>
+    <p class="acard-name">南歯科クリニック</p>
+    <p class="acard-meta">Google ★4.1（口コミ8件） ・ 神戸市垂水区天ノ下町５−２８ 小林歯科ビル 102</p>
+  </a>
   <div class="tags"><span class="tag">技術力</span><span class="tag">優しさ</span><span class="tag">親切</span></div>
-  <p class="acard-ai">南歯科クリニックは、親身で技術力の高い医師が丁寧に治療説明を行ってくれる医院です。治療に時間がかかる方には向いていない可能性があります。…</p>
-</a><a class="acard" href="../clinics/%E3%81%93%E3%81%86%E3%81%AE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
-  <p class="acard-name">こうの歯科医院</p>
-  <p class="acard-meta">Google ★4.8（142件） ・ 神戸市垂水区南多聞台１丁目６−１３</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>山陽垂水駅から徒歩2〜4分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は20時まで（夜の時間帯まで診療）</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり・日曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>南 正彦</dd></div><div class="afact"><dt>電話</dt><dd>078-704-5711</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">南歯科クリニックは、親身で技術力の高い医師が丁寧に治療説明を行ってくれる医院です。治療に時間がかかる方には向いていない可能性があります。</p>
+  
+  <a class="acard-more" href="../clinics/%E5%8D%97%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">南歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%93%E3%81%86%E3%81%AE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
+    <span class="arank">6</span>
+    <p class="acard-name">こうの歯科医院</p>
+    <p class="acard-meta">Google ★4.8（口コミ142件） ・ 神戸市垂水区南多聞台１丁目６−１３</p>
+  </a>
   <div class="tags"><span class="tag">優しい対応</span><span class="tag">地域密着</span><span class="tag">清潔感</span></div>
-  <p class="acard-ai">こうの歯科医院はお子様やファミリーに最適です。優しい対応で通いやすいですが、夜間の診察が難しいため、遅くしか通えない方には他院をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E5%A4%A7%E5%B1%B1%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">大山歯科クリニック</p>
-  <p class="acard-meta">Google ★4.4（10件） ・ 神戸市垂水区桃山台６丁目１４９９−２</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>朝霧駅から徒歩18〜29分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>駐車場</dd></div><div class="afact"><dt>院長</dt><dd>河野 裕一郎</dd></div><div class="afact"><dt>電話</dt><dd>078-787-3648</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">こうの歯科医院はお子様やファミリーに最適です。優しい対応で通いやすいですが、夜間の診察が難しいため、遅くしか通えない方には他院をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%93%E3%81%86%E3%81%AE%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">こうの歯科医院の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E5%A4%A7%E5%B1%B1%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">7</span>
+    <p class="acard-name">大山歯科クリニック</p>
+    <p class="acard-meta">Google ★4.4（口コミ10件） ・ 神戸市垂水区桃山台６丁目１４９９−２</p>
+  </a>
   <div class="tags"><span class="tag">優しい医師</span><span class="tag">通いやすい</span><span class="tag">訪問歯科</span></div>
-  <p class="acard-ai">大山歯科クリニックは、優しいスタッフが対応し、訪問歯科にも力を入れたクリニックです。急患希望の方には向いていない可能性があります。…</p>
-</a><a class="acard" href="../clinics/%E3%81%82%E3%82%89%E3%81%9F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">あらた歯科クリニック</p>
-  <p class="acard-meta">Google ★4（45件） ・ 神戸市垂水区向陽３丁目５−３０</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>総合運動公園駅から徒歩24〜37分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時30分まで（夜の時間帯まで診療）</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>大山 誠吉</dd></div><div class="afact"><dt>電話</dt><dd>078-754-0841</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">大山歯科クリニックは、優しいスタッフが対応し、訪問歯科にも力を入れたクリニックです。急患希望の方には向いていない可能性があります。</p>
+  
+  <a class="acard-more" href="../clinics/%E5%A4%A7%E5%B1%B1%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">大山歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%82%E3%82%89%E3%81%9F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">8</span>
+    <p class="acard-name">あらた歯科クリニック</p>
+    <p class="acard-meta">Google ★4（口コミ45件） ・ 神戸市垂水区向陽３丁目５−３０</p>
+  </a>
   <div class="tags"><span class="tag">親しみやすい</span><span class="tag">信頼性</span><span class="tag">総合的対応</span></div>
-  <p class="acard-ai">この医院は温かい対応で安心して通いたい方に向いています。一方、夜間にしか通えない方には他院も検討をお勧めします。…</p>
-</a><a class="acard" href="../clinics/%E3%81%AA%E3%81%8B%E3%81%8C%E3%82%8F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
-  <p class="acard-name">なかがわ歯科クリニック</p>
-  <p class="acard-meta">Google ★4（12件） ・ 神戸市垂水区舞子台６丁目２０−１９</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>滝の茶屋駅から徒歩19〜29分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時30分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・マイクロスコープ</dd></div><div class="afact"><dt>電話</dt><dd>078-704-4182</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は温かい対応で安心して通いたい方に向いています。一方、夜間にしか通えない方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%82%E3%82%89%E3%81%9F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">あらた歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%AA%E3%81%8B%E3%81%8C%E3%82%8F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">9</span>
+    <p class="acard-name">なかがわ歯科クリニック</p>
+    <p class="acard-meta">Google ★4（口コミ12件） ・ 神戸市垂水区舞子台６丁目２０−１９</p>
+  </a>
   <div class="tags"><span class="tag">清潔感</span><span class="tag">丁寧な対応</span><span class="tag">痛みへの配慮</span></div>
-  <p class="acard-ai">なかがわ歯科クリニックは、明るく清潔な院内と丁寧な治療が評判の医院です。急患希望の方には向いていない可能性があります。…</p>
-</a><a class="acard" href="../clinics/%E5%9E%82%E6%B0%B4%E3%81%95%E3%81%A0%E3%81%BE%E3%81%95%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
-  <p class="acard-name">垂水さだまさ歯科・矯正歯科</p>
-  <p class="acard-meta">Google ★4.5（12件） ・ 神戸市垂水区星が丘２丁目６−７</p>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>西舞子駅から徒歩3〜6分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時30分まで（夜の時間帯まで診療）</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>院長</dt><dd>中川 翼</dd></div><div class="afact"><dt>電話</dt><dd>078-785-4182</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">なかがわ歯科クリニックは、明るく清潔な院内と丁寧な治療が評判の医院です。急患希望の方には向いていない可能性があります。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%AA%E3%81%8B%E3%81%8C%E3%82%8F%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">なかがわ歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E5%9E%82%E6%B0%B4%E3%81%95%E3%81%A0%E3%81%BE%E3%81%95%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">10</span>
+    <p class="acard-name">垂水さだまさ歯科・矯正歯科</p>
+    <p class="acard-meta">Google ★4.5（口コミ12件） ・ 神戸市垂水区星が丘２丁目６−７</p>
+  </a>
   <div class="tags"><span class="tag">親切</span><span class="tag">丁寧な説明</span><span class="tag">高い技術</span></div>
-  <p class="acard-ai">この医院は、治療に対して丁寧で専門的なアプローチを求める方に適しています。一方、診療時間が限られているため、夜しか通えない方には不向きです。…</p>
-</a>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>霞ヶ丘駅から徒歩12〜19分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・マイクロスコープ・個室・駐車場・バリアフリー</dd></div><div class="afact"><dt>電話</dt><dd>078-742-8811</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は、治療に対して丁寧で専門的なアプローチを求める方に適しています。一方、診療時間が限られているため、夜しか通えない方には不向きです。</p>
+  
+  <a class="acard-more" href="../clinics/%E5%9E%82%E6%B0%B4%E3%81%95%E3%81%A0%E3%81%BE%E3%81%95%E6%AD%AF%E7%A7%91_%E7%9F%AF%E6%AD%A3%E6%AD%AF%E7%A7%91.html">垂水さだまさ歯科・矯正歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%BE%E3%81%A4%E3%81%95%E3%81%8B%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
+    <span class="arank">11</span>
+    <p class="acard-name">まつさか歯科医院</p>
+    <p class="acard-meta">Google ★4.3（口コミ8件） ・ 神戸市垂水区塩屋北町３丁目６−２３</p>
+  </a>
+  <div class="tags"><span class="tag">信頼できる</span><span class="tag">丁寧な説明</span><span class="tag">地元密着</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>塩屋駅から徒歩13〜21分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時30分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>口腔内スキャナー</dd></div><div class="afact"><dt>電話</dt><dd>078-753-0118</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">まつさか歯科医院は、子ども連れの家族や高齢者に向いています。逆に、急患の対応や夜間のみ通院したい方には他院を検討することをお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%BE%E3%81%A4%E3%81%95%E3%81%8B%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">まつさか歯科医院の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E5%AE%87%E9%83%BD%E5%AE%AE%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">
+    <span class="arank">12</span>
+    <p class="acard-name">宇都宮歯科クリニック</p>
+    <p class="acard-meta">Google ★4.1（口コミ7件） ・ 神戸市垂水区星が丘１丁目１−９８</p>
+  </a>
+  <div class="tags"><span class="tag">親切な対応</span><span class="tag">信頼できる</span><span class="tag">おすすめの医院</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>山陽垂水駅から徒歩9〜15分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT</dd></div><div class="afact"><dt>院長</dt><dd>宇都宮 淳</dd></div><div class="afact"><dt>電話</dt><dd>078-709-0118</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は、優しい対応を求める方や、小さなお子さんがいる家庭に向いています。一方、急な治療や短時間での診療を求める方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E5%AE%87%E9%83%BD%E5%AE%AE%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF.html">宇都宮歯科クリニックの分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E3%81%82%E3%81%8B%E3%81%BE%E3%81%A4%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF_%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA_%E5%B0%8F%E5%85%90%E7%9F%AF%E6%AD%A3_%E4%BA%88%E9%98%B2%E6%AD%AF%E7%A7%91.html">
+    <span class="arank">13</span>
+    <p class="acard-name">あかまつ歯科クリニック 神戸市垂水区 小児矯正 予防歯科</p>
+    <p class="acard-meta">Google ★3.4（口コミ14件） ・ 神戸市垂水区舞多聞西１丁目２７−１９</p>
+  </a>
+  <div class="tags"><span class="tag">丁寧な治療</span><span class="tag">予防歯科</span><span class="tag">小児矯正</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>学園都市駅から徒歩21〜32分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>マイクロスコープ・駐車場・バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>赤松 佑紀</dd></div><div class="afact"><dt>電話</dt><dd>078-754-6174</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は、小さなお子様の矯正や予防に力を入れています。一方、初診時の受付での対応に厳しい方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E3%81%82%E3%81%8B%E3%81%BE%E3%81%A4%E6%AD%AF%E7%A7%91%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF_%E7%A5%9E%E6%88%B8%E5%B8%82%E5%9E%82%E6%B0%B4%E5%8C%BA_%E5%B0%8F%E5%85%90%E7%9F%AF%E6%AD%A3_%E4%BA%88%E9%98%B2%E6%AD%AF%E7%A7%91.html">あかまつ歯科クリニック 神戸市垂水区 小児矯正 予防歯科の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E5%85%83%E6%9D%91%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
+    <span class="arank">14</span>
+    <p class="acard-name">元村歯科医院</p>
+    <p class="acard-meta">Google ★3.7（口コミ13件） ・ 神戸市垂水区桃山台３丁目１１−１０</p>
+  </a>
+  <div class="tags"><span class="tag">親切な対応</span><span class="tag">丁寧な説明</span><span class="tag">待ち時間少</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>山陽塩屋駅から徒歩25〜39分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は18時30分まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・個室・バリアフリー</dd></div><div class="afact"><dt>院長</dt><dd>元村昌平</dd></div><div class="afact"><dt>電話</dt><dd>078-752-1214</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">元村歯科医院は丁寧な説明と親切な対応が売りです。子ども連れや歯科が苦手な方に特に向いています。一方、急な診察が必要な方は他院を検討することをお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E5%85%83%E6%9D%91%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">元村歯科医院の分析を詳しく見る →</a>
+</article><article class="acard">
+  <a class="acard-head" href="../clinics/%E4%B8%AD%E6%B4%A5%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">
+    <span class="arank">15</span>
+    <p class="acard-name">中津歯科医院</p>
+    <p class="acard-meta">Google ★4.6（口コミ11件） ・ 神戸市垂水区本多聞６丁目２２−５０</p>
+  </a>
+  <div class="tags"><span class="tag">安心感</span><span class="tag">丁寧</span><span class="tag">待ち時間</span></div>
+  <dl class="afacts"><div class="afact"><dt>アクセス</dt><dd>霞ヶ丘駅から徒歩23〜36分</dd></div><div class="afact"><dt>診療時間</dt><dd>平日は19時まで</dd></div><div class="afact"><dt>土日</dt><dd>土曜あり</dd></div><div class="afact"><dt>公開情報で確認できた設備</dt><dd>CT・個室・駐車場</dd></div><div class="afact"><dt>電話</dt><dd>078-784-7888</dd></div><div class="afact"><dt>公式サイト</dt><dd>あり</dd></div></dl>
+  <p class="acard-ai">この医院は、丁寧で安心な治療を求める方に向いています。一方、通院回数が多いと感じる方には他院も検討をお勧めします。</p>
+  
+  <a class="acard-more" href="../clinics/%E4%B8%AD%E6%B4%A5%E6%AD%AF%E7%A7%91%E5%8C%BB%E9%99%A2.html">中津歯科医院の分析を詳しく見る →</a>
+</article>
   <a class="cta" href="../shindan/index.html?ward=%E5%9E%82%E6%B0%B4%E5%8C%BA">症状・希望条件も選んで、垂水区の医院を絞り込む →</a>
-  <h2>垂水区のデータを詳しく見る</h2><p>設備情報を解析できた86院のうち、歯科用CTの導入が公式サイト等で確認できたのは13院でした。</p><p>夜間診療の案内が確認できた医院は、垂水区の分析対象100院のうち0院です。</p><p>こうした設備や診療時間の傾向は、市全体のデータをまとめた研究記事で背景まで確認できます。</p><ul class="rlinks"><li><a href="../research/equipment-gap.html">精密機器の導入率は地域・医院でどれだけ違うか（設備データの研究）</a></li><li><a href="../research/worktime-access.html">夜間・週末に通える歯科はどれだけあるか（診療時間データの研究）</a></li></ul><p class="rnote">件数・割合は当サイトが公開情報から機械的に解析できた範囲の値です。「確認できなかった」は「無い」という意味ではありません。</p>
+  <h2>垂水区で条件から絞る</h2><p>夜間や土日に通えるか、駐車場があるかは、医院選びで最初に効いてくる条件です。垂水区の分析対象100院について、公開情報から確認できた数を並べます。</p><div class="ctable"><div class="crow"><span class="clabel">19時30分以降も診療している</span><span class="cval"><b>18</b>院 <small>／確認できた83院中</small></span></div><div class="crow"><span class="clabel">土曜日に診療している</span><span class="cval"><b>81</b>院 <small>／確認できた83院中</small></span></div><div class="crow"><span class="clabel">日曜日に診療している</span><span class="cval"><b>11</b>院 <small>／確認できた83院中</small></span></div><div class="crow"><span class="clabel">歯科用CTの導入を確認できた</span><span class="cval"><b>13</b>院 <small>／確認できた86院中</small></span></div><div class="crow"><span class="clabel">個室の案内を確認できた</span><span class="cval"><b>12</b>院 <small>／確認できた86院中</small></span></div><div class="crow"><span class="clabel">駐車場の案内を確認できた</span><span class="cval"><b>25</b>院 <small>／確認できた86院中</small></span></div><div class="crow"><span class="clabel">バリアフリーの案内を確認できた</span><span class="cval"><b>15</b>院 <small>／確認できた86院中</small></span></div></div><p class="rnote">分母は、その項目を公開情報から判定できた医院数です。「確認できなかった」は「無い」という意味ではありません。最新の診療時間は必ず医院にご確認ください。</p>
+  <h2>よくある質問</h2><details class="faq"><summary>垂水区で夜おそくまで診てもらえる歯医者はありますか。</summary><p>診療時間を確認できた83院のうち、19時30分以降も診療しているのは18院でした。</p></details><details class="faq"><summary>垂水区で土日に通える歯医者はありますか。</summary><p>土曜日に診療しているのが81院、日曜日が11院です（診療時間を確認できた83院中）。</p></details><details class="faq"><summary>垂水区で歯科用CTのある歯医者を知りたいです。</summary><p>設備の情報を解析できた86院のうち、歯科用CTの導入を確認できたのは13院です。確認できなかった医院に無いという意味ではないため、気になる場合は直接お問い合わせください。</p></details><details class="faq"><summary>この順番はどうやって決めているのですか。</summary><p>口コミの内容、院長情報、設備、情報公開の度合い、活動状況を配点にして機械的に並べています。掲載順が金銭で変わることはありません。治療の優劣を示すものでもありません。</p></details>
+  <h2>垂水区のデータを詳しく見る</h2><p>設備や診療時間の傾向は、市全体のデータをまとめた研究記事で背景まで確認できます。</p><ul class="rlinks"><li><a href="../research/equipment-gap.html">精密機器の導入率は地域・医院でどれだけ違うか（設備データの研究）</a></li><li><a href="../research/worktime-access.html">夜間・週末に通える歯科はどれだけあるか（診療時間データの研究）</a></li></ul>
   <p class="disc">スコア・順位は公開情報（口コミ・公式サイト等）の充実度と評判分析にもとづく参考表示であり、医院の技術や治療結果の優劣を示すものではありません。順位は条件の選択で変動します。掲載順が金銭で変わることはありません。受診の判断は必ず歯科医師にご相談ください。
   掲載情報の訂正は<a href="../../teisei.html">こちら</a>／詳細は<a href="../../policy.html">運営ポリシー・免責事項</a>。</p>
 </main>
